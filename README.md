@@ -1,4 +1,4 @@
-﻿# Hybrid Entity Resolution for Historical Records
+# Hybrid Entity Resolution for Historical Records
 
 A research-oriented project that combines Large Language Model (LLM) reasoning with embedding-based clustering for robust entity resolution on noisy historical records.
 
@@ -28,10 +28,12 @@ A research-oriented project that combines Large Language Model (LLM) reasoning w
 
 ## Quick Start
 
-1. Create a Python environment (3.10+ recommended)
-2. Install dependencies used by the scripts/notebook (e.g., OpenAI SDK, pandas, numpy, scikit-learn, sentence-transformers)
-3. Set `OPENAI_API_KEY` in your environment or in `openai.env` (kept out of git)
-4. Run notebook `z_Taha_Code/HM_Taha.ipynb` or script `z_Taha_Code/run_hm_taha.py`
+1. Clone with Git LFS (large `.csv` results are stored as LFS objects):  
+   `git lfs install` then `git clone https://github.com/MaTaha-ualr/hybrid-entity-resolution-historical-records.git`
+2. Create a Python environment (3.10+ recommended)
+3. Install dependencies: `pip install -r requirements.txt`
+4. Set `OPENAI_API_KEY` in your environment or in `openai.env` (never commit keys; see `.gitignore`)
+5. Run notebook `z_Taha_Code/HM_Taha.ipynb` or script `z_Taha_Code/run_hm_taha.py`
 
 ## Notes on Reproducibility
 
