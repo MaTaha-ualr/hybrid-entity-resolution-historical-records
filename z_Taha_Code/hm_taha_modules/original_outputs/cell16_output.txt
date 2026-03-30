@@ -1,0 +1,3 @@
+Output 1: stream (stdout)
+✓ Generated j_household_movements_new.csv with 134 rows
+

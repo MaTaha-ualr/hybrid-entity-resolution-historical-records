@@ -1,0 +1,27 @@
+# Secrets — never commit API keys
+.env
+openai.env
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Logs (optional — uncomment if you prefer not to version logs)
+# logs/
+# *.log

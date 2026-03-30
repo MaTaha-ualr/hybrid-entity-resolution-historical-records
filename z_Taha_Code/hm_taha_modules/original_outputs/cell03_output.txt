@@ -1,0 +1,6 @@
+Output 1: stream (stdout)
+Enter the input filename (e.g., S1G.txt): S18PX.txt
+Enter the truth filename [default: truthABCgoodDQ.txt]: truthABCpoorDQ.txt
+Matched rows: 10000  |  Unmatched rows: 0
+Output written to: a_concatenated.csv
+

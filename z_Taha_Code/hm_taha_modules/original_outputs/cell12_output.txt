@@ -1,0 +1,60 @@
+Output 1: stream (stdout)
+============================================================
+STEP 8: Enhanced Merge with Optimized API Calls
+============================================================
+Configuration:
+  - Batch Processing: Enabled
+  - Async Processing: Enabled
+  - Max Parallel Workers: 10
+  - Batch Size: 5
+  - Rate Limit Delay: 0.1s
+============================================================
+
+Loaded 728 name clusters and 638 address groups
+Pre-computing name parts and address lookups...
+
+Step 1: Applying deterministic rules for shared addresses...
+
+
+Output 2: stream (stderr)
+Name Compatibility: 100%|██████████| 264628/264628 [00:00<00:00, 1470470.54it/s]
+
+
+Output 3: stream (stdout)
+
+Step 2: Applying the 'bridge' logic for name/address connections...
+
+
+Output 4: stream (stderr)
+Bridge Logic: 100%|██████████| 621/621 [00:00<00:00, 1038127.85it/s]
+
+
+Output 5: stream (stdout)
+
+Step 3: Comparing remaining clusters using optimized AI calls...
+Configuration: Batch=True, Async=True, Workers=10
+Found 738 pairs requiring AI evaluation
+
+
+Output 6: stream (stderr)
+Batch Processing: 100%|██████████| 148/148 [15:25<00:00,  6.25s/it]
+
+Output 7: stream (stdout)
+Completed 738 AI evaluations
+
+============================================================
+PROCESSING COMPLETE
+============================================================
+Original clusters: 728
+Final clusters: 713
+Clusters merged: 15
+Reduction: 2.1%
+Processing time: 925.42 seconds
+
+Output written to: h_refined_clusters_new.csv
+============================================================
+
+
+Output 8: stream (stderr)
+
+

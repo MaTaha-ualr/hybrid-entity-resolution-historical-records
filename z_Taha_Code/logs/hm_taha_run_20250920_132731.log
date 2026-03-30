@@ -1,0 +1,425 @@
+2025-09-20 13:27:31,677 [INFO] Logging initialized. Writing to C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\logs\hm_taha_run_20250920_132731.log
+2025-09-20 13:27:31,677 [INFO] Starting HM_Taha module run (22 modules)
+2025-09-20 13:27:31,678 [INFO] Original notebook outputs stored in C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\original_outputs
+2025-09-20 13:27:31,678 [INFO] Running cell01
+2025-09-20 13:27:31,688 [INFO] cell01 completed with status=success; output written to C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\runtime_outputs\20250920_132731\cell01_output.txt (0 bytes)
+2025-09-20 13:27:31,690 [INFO] Running cell02
+2025-09-20 13:27:31,691 [ERROR] Error while executing cell02
+Traceback (most recent call last):
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\run_hm_taha.py", line 122, in run_modules
+    runpy.run_path(str(module_path), init_globals=shared_namespace, run_name="__main__")
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell02.py", line 5, in <module>
+    upload = files.upload()
+             ^^^^^^^^^^^^^^
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\run_hm_taha.py", line 46, in upload
+    raise RuntimeError(
+RuntimeError: google.colab.files.upload() is unavailable outside Google Colab. Place required input files locally and adjust the code accordingly.
+2025-09-20 13:27:31,695 [INFO] cell02 completed with status=error; output written to C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\runtime_outputs\20250920_132731\cell02_output.txt (0 bytes)
+2025-09-20 13:27:31,695 [INFO] Running cell03
+2025-09-20 13:27:31,699 [ERROR] Error while executing cell03
+Traceback (most recent call last):
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell03.py", line 205, in main
+    src = input("Enter the input filename (e.g., S1G.txt): ").strip()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\run_hm_taha.py", line 113, in _input_stub
+    raise RuntimeError(
+RuntimeError: Interactive input requested during cell03: 'Enter the input filename (e.g., S1G.txt): '. Automated driver runs do not support stdin prompts.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\run_hm_taha.py", line 122, in run_modules
+    runpy.run_path(str(module_path), init_globals=shared_namespace, run_name="__main__")
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell03.py", line 233, in <module>
+    main()
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell03.py", line 229, in main
+    sys.exit(1)
+SystemExit: 1
+2025-09-20 13:27:31,701 [INFO] cell03 completed with status=error; output written to C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\runtime_outputs\20250920_132731\cell03_output.txt (149 bytes)
+2025-09-20 13:27:31,702 [INFO] Running cell04
+2025-09-20 13:27:32,143 [ERROR] Error while executing cell04
+Traceback (most recent call last):
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\run_hm_taha.py", line 122, in run_modules
+    runpy.run_path(str(module_path), init_globals=shared_namespace, run_name="__main__")
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell04.py", line 370, in <module>
+    asyncio.run(main())
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 691, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell04.py", line 303, in main
+    choice = input("Choose parsing mode (type 'rule' or 'llm'): ").strip().lower()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\run_hm_taha.py", line 113, in _input_stub
+    raise RuntimeError(
+RuntimeError: Interactive input requested during cell04: "Choose parsing mode (type 'rule' or 'llm'): ". Automated driver runs do not support stdin prompts.
+2025-09-20 13:27:32,146 [INFO] cell04 completed with status=error; output written to C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\runtime_outputs\20250920_132731\cell04_output.txt (0 bytes)
+2025-09-20 13:27:32,146 [INFO] Running cell05
+2025-09-20 13:27:33,111 [ERROR] Error while executing cell05
+Traceback (most recent call last):
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\run_hm_taha.py", line 122, in run_modules
+    runpy.run_path(str(module_path), init_globals=shared_namespace, run_name="__main__")
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell05.py", line 338, in <module>
+    asyncio.run(main())
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 691, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell05.py", line 323, in main
+    df = pd.read_csv(INPUT_CSV, dtype=str).fillna("")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\common.py", line 873, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'b_processed_results_LLM.csv'
+2025-09-20 13:27:33,113 [INFO] cell05 completed with status=error; output written to C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\runtime_outputs\20250920_132731\cell05_output.txt (0 bytes)
+2025-09-20 13:27:33,113 [INFO] Running cell06
+2025-09-20 13:27:33,395 [INFO] cell06 completed with status=success; output written to C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\runtime_outputs\20250920_132731\cell06_output.txt (74 bytes)
+2025-09-20 13:27:33,395 [INFO] Running cell07
+2025-09-20 13:27:49,281 [WARNING] From C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-09-20 13:27:50,179 [ERROR] Error while executing cell07
+Traceback (most recent call last):
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\run_hm_taha.py", line 122, in run_modules
+    runpy.run_path(str(module_path), init_globals=shared_namespace, run_name="__main__")
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell07.py", line 259, in <module>
+    main()
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell07.py", line 126, in main
+    names_df = pd.read_csv("c_parsed_names.csv", dtype=str).fillna("")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\common.py", line 873, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'c_parsed_names.csv'
+2025-09-20 13:27:50,183 [INFO] cell07 completed with status=error; output written to C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\runtime_outputs\20250920_132731\cell07_output.txt (39 bytes)
+2025-09-20 13:27:50,185 [INFO] Running cell08
+2025-09-20 13:27:50,636 [INFO] cell08 completed with status=success; output written to C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\runtime_outputs\20250920_132731\cell08_output.txt (318 bytes)
+2025-09-20 13:27:50,636 [INFO] Running cell09
+2025-09-20 13:27:50,639 [ERROR] Error while executing cell09
+Traceback (most recent call last):
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\run_hm_taha.py", line 122, in run_modules
+    runpy.run_path(str(module_path), init_globals=shared_namespace, run_name="__main__")
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell09.py", line 119, in <module>
+    main()
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell09.py", line 104, in main
+    sys.exit(1)
+SystemExit: 1
+2025-09-20 13:27:50,640 [INFO] cell09 completed with status=error; output written to C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\runtime_outputs\20250920_132731\cell09_output.txt (56 bytes)
+2025-09-20 13:27:50,641 [INFO] Running cell10
+2025-09-20 13:27:50,644 [ERROR] Error while executing cell10
+Traceback (most recent call last):
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\run_hm_taha.py", line 122, in run_modules
+    runpy.run_path(str(module_path), init_globals=shared_namespace, run_name="__main__")
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell10.py", line 141, in <module>
+    main()
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell10.py", line 128, in main
+    df = pd.read_csv(INPUT_CSV, dtype=str).fillna("")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\common.py", line 873, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'f_combined_clusters_with_best.csv'
+2025-09-20 13:27:50,645 [INFO] cell10 completed with status=error; output written to C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\runtime_outputs\20250920_132731\cell10_output.txt (0 bytes)
+2025-09-20 13:27:50,646 [INFO] Running cell11
+2025-09-20 13:27:50,647 [ERROR] Error while executing cell11
+Traceback (most recent call last):
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\run_hm_taha.py", line 122, in run_modules
+    runpy.run_path(str(module_path), init_globals=shared_namespace, run_name="__main__")
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell11.py", line 16, in <module>
+    df = pd.read_csv(csv_data)
+         ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\common.py", line 873, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'f_combined_clusters_with_best.csv'
+2025-09-20 13:27:50,650 [INFO] cell11 completed with status=error; output written to C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\runtime_outputs\20250920_132731\cell11_output.txt (0 bytes)
+2025-09-20 13:27:50,651 [INFO] Running cell12
+2025-09-20 13:27:50,665 [ERROR] Error while executing cell12
+Traceback (most recent call last):
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\run_hm_taha.py", line 122, in run_modules
+    runpy.run_path(str(module_path), init_globals=shared_namespace, run_name="__main__")
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell12.py", line 8, in <module>
+    import aiohttp
+ModuleNotFoundError: No module named 'aiohttp'
+2025-09-20 13:27:50,668 [INFO] cell12 completed with status=error; output written to C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\runtime_outputs\20250920_132731\cell12_output.txt (0 bytes)
+2025-09-20 13:27:50,668 [INFO] Running cell13
+2025-09-20 13:27:50,683 [ERROR] Error while executing cell13
+Traceback (most recent call last):
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\run_hm_taha.py", line 122, in run_modules
+    runpy.run_path(str(module_path), init_globals=shared_namespace, run_name="__main__")
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell13.py", line 12, in <module>
+    import aiohttp
+ModuleNotFoundError: No module named 'aiohttp'
+2025-09-20 13:27:50,686 [INFO] cell13 completed with status=error; output written to C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\runtime_outputs\20250920_132731\cell13_output.txt (0 bytes)
+2025-09-20 13:27:50,687 [INFO] Running cell14
+2025-09-20 13:27:50,690 [ERROR] Error while executing cell14
+Traceback (most recent call last):
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\run_hm_taha.py", line 122, in run_modules
+    runpy.run_path(str(module_path), init_globals=shared_namespace, run_name="__main__")
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell14.py", line 67, in <module>
+    normalize_and_export("i_refined_clusters_merged.csv")
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell14.py", line 12, in normalize_and_export
+    df = pd.read_csv(input_path, dtype=str)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\common.py", line 873, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'i_refined_clusters_merged.csv'
+2025-09-20 13:27:50,692 [INFO] cell14 completed with status=error; output written to C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\runtime_outputs\20250920_132731\cell14_output.txt (0 bytes)
+2025-09-20 13:27:50,692 [INFO] Running cell15
+2025-09-20 13:27:50,695 [INFO] cell15 completed with status=success; output written to C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\runtime_outputs\20250920_132731\cell15_output.txt (64 bytes)
+2025-09-20 13:27:50,695 [INFO] Running cell16
+2025-09-20 13:27:50,697 [ERROR] Error while executing cell16
+Traceback (most recent call last):
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\run_hm_taha.py", line 122, in run_modules
+    runpy.run_path(str(module_path), init_globals=shared_namespace, run_name="__main__")
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell16.py", line 7, in <module>
+    households_df = pd.read_csv('j_households_new.csv', sep=',')
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\common.py", line 873, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'j_households_new.csv'
+2025-09-20 13:27:50,699 [INFO] cell16 completed with status=error; output written to C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\runtime_outputs\20250920_132731\cell16_output.txt (0 bytes)
+2025-09-20 13:27:50,700 [INFO] Running cell17
+2025-09-20 13:27:50,702 [ERROR] Error while executing cell17
+Traceback (most recent call last):
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\run_hm_taha.py", line 122, in run_modules
+    runpy.run_path(str(module_path), init_globals=shared_namespace, run_name="__main__")
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell17.py", line 23, in <module>
+    df_raw = pd.read_csv(INPUT_CSV)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\common.py", line 873, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'i_refined_clusters_merged.csv'
+2025-09-20 13:27:50,704 [INFO] cell17 completed with status=error; output written to C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\runtime_outputs\20250920_132731\cell17_output.txt (0 bytes)
+2025-09-20 13:27:50,706 [INFO] Running cell18
+2025-09-20 13:27:50,708 [ERROR] Error while executing cell18
+Traceback (most recent call last):
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\run_hm_taha.py", line 122, in run_modules
+    runpy.run_path(str(module_path), init_globals=shared_namespace, run_name="__main__")
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell18.py", line 49, in <module>
+    build_refindex('i_refined_clusters_merged.csv', 'z_LinkIndex_Taha.txt')
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell18.py", line 34, in build_refindex
+    df = pd.read_csv(input_csv, dtype=str)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\common.py", line 873, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'i_refined_clusters_merged.csv'
+2025-09-20 13:27:50,758 [INFO] cell18 completed with status=error; output written to C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\runtime_outputs\20250920_132731\cell18_output.txt (0 bytes)
+2025-09-20 13:27:50,759 [INFO] Running cell19
+2025-09-20 13:27:50,761 [ERROR] Error while executing cell19
+Traceback (most recent call last):
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\run_hm_taha.py", line 122, in run_modules
+    runpy.run_path(str(module_path), init_globals=shared_namespace, run_name="__main__")
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell19.py", line 43, in <module>
+    build_linked_pairs(
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell19.py", line 29, in build_linked_pairs
+    df = pd.read_csv(input_csv, dtype=str)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\parsers\readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "C:\Users\mataha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\common.py", line 873, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'i_refined_clusters_merged.csv'
+2025-09-20 13:27:50,764 [INFO] cell19 completed with status=error; output written to C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\runtime_outputs\20250920_132731\cell19_output.txt (0 bytes)
+2025-09-20 13:27:50,764 [INFO] Running cell20
+2025-09-20 13:27:50,790 [INFO] cell20 completed with status=success; output written to C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\runtime_outputs\20250920_132731\cell20_output.txt (0 bytes)
+2025-09-20 13:27:50,790 [INFO] Running cell21
+2025-09-20 13:27:50,823 [INFO] Creating log file: LinkEvaluator_Log_20250920_132750.txt
+2025-09-20 13:27:50,826 [ERROR] Unexpected error: Interactive input requested during cell21: '\nEnter mode (1 or 2): '. Automated driver runs do not support stdin prompts.
+Traceback (most recent call last):
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell21.py", line 914, in run
+    mode = self._get_input_mode()
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell21.py", line 967, in _get_input_mode
+    mode = input("\nEnter mode (1 or 2): ").strip()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\run_hm_taha.py", line 113, in _input_stub
+    raise RuntimeError(
+RuntimeError: Interactive input requested during cell21: '\nEnter mode (1 or 2): '. Automated driver runs do not support stdin prompts.
+2025-09-20 13:27:50,830 [INFO] cell21 completed with status=success; output written to C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\runtime_outputs\20250920_132731\cell21_output.txt (1462 bytes)
+2025-09-20 13:27:50,830 [INFO] Running cell22
+2025-09-20 13:27:50,837 [INFO] cell22 completed with status=success; output written to C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\runtime_outputs\20250920_132731\cell22_output.txt (0 bytes)
+2025-09-20 13:27:50,837 [WARNING] Run finished with 15 failures.
+2025-09-20 13:27:50,838 [WARNING]  - cell02 failed: google.colab.files.upload() is unavailable outside Google Colab. Place required input files locally and adjust the code accordingly.
+2025-09-20 13:27:50,838 [WARNING]  - cell03 failed: 1
+2025-09-20 13:27:50,839 [WARNING]  - cell04 failed: Interactive input requested during cell04: "Choose parsing mode (type 'rule' or 'llm'): ". Automated driver runs do not support stdin prompts.
+2025-09-20 13:27:50,840 [WARNING]  - cell05 failed: [Errno 2] No such file or directory: 'b_processed_results_LLM.csv'
+2025-09-20 13:27:50,840 [WARNING]  - cell07 failed: [Errno 2] No such file or directory: 'c_parsed_names.csv'
+2025-09-20 13:27:50,841 [WARNING]  - cell09 failed: 1
+2025-09-20 13:27:50,841 [WARNING]  - cell10 failed: [Errno 2] No such file or directory: 'f_combined_clusters_with_best.csv'
+2025-09-20 13:27:50,841 [WARNING]  - cell11 failed: [Errno 2] No such file or directory: 'f_combined_clusters_with_best.csv'
+2025-09-20 13:27:50,841 [WARNING]  - cell12 failed: No module named 'aiohttp'
+2025-09-20 13:27:50,842 [WARNING]  - cell13 failed: No module named 'aiohttp'
+2025-09-20 13:27:50,842 [WARNING]  - cell14 failed: [Errno 2] No such file or directory: 'i_refined_clusters_merged.csv'
+2025-09-20 13:27:50,842 [WARNING]  - cell16 failed: [Errno 2] No such file or directory: 'j_households_new.csv'
+2025-09-20 13:27:50,842 [WARNING]  - cell17 failed: [Errno 2] No such file or directory: 'i_refined_clusters_merged.csv'
+2025-09-20 13:27:50,842 [WARNING]  - cell18 failed: [Errno 2] No such file or directory: 'i_refined_clusters_merged.csv'
+2025-09-20 13:27:50,843 [WARNING]  - cell19 failed: [Errno 2] No such file or directory: 'i_refined_clusters_merged.csv'
+2025-09-20 13:27:50,844 [INFO] Runtime outputs saved under C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\runtime_outputs\20250920_132731
+2025-09-20 13:27:50,845 [INFO] Log written to C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\logs\hm_taha_run_20250920_132731.log

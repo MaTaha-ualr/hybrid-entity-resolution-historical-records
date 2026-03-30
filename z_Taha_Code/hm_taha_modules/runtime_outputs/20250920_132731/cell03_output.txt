@@ -1,0 +1,1 @@
+Error: Interactive input requested during cell03: 'Enter the input filename (e.g., S1G.txt): '. Automated driver runs do not support stdin prompts.

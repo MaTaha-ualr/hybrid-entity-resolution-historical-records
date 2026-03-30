@@ -1,0 +1,10 @@
+Starting combined Name+Address cluster summarization…
+Output will be sorted by RecID with reassigned ClusterIDs based on order.
+
+Optimization Statistics:
+Total LLM calls made: 0
+Done in 0.00s.
+
+[stderr]
+Skipping NAME clusters: required files not found.
+Skipping ADDRESS clusters: required files not found.

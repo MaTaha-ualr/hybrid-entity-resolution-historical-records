@@ -1,0 +1,114 @@
+================================================================================
+Advanced Link Evaluator System v2.1 - FIXED VERSION
+Execution Date: 2025-09-07 08:08:15
+FIXES: Standard mode data parsing and metrics calculation
+================================================================================
+Selected mode: 1
+
+### CLUSTER SIZE DISTRIBUTION ###
+
+Cluster Size Distribution:
+Size	Count	Records	Cumulative%
+--------------------------------------------------
+1	15	15	0.3%
+2	49	98	2.3%
+3	27	81	3.9%
+4	30	120	6.3%
+5	27	135	9.0%
+6	38	228	13.5%
+7	34	238	18.3%
+8	43	344	25.2%
+9	47	423	33.6%
+10	44	440	42.4%
+11	35	385	50.1%
+12	34	408	58.3%
+13	21	273	63.8%
+14	21	294	69.6%
+15	23	345	76.5%
+16	16	256	81.7%
+17	12	204	85.7%
+18	6	108	87.9%
+19	6	114	90.2%
+20	11	220	94.6%
+21	2	42	95.4%
+22	4	88	97.2%
+24	1	24	97.7%
+26	1	26	98.2%
+28	1	28	98.7%
+29	1	29	99.3%
+34	1	34	100.0%
+
+Total Clusters: 550
+Total Records: 5000
+Average Cluster Size: 9.09
+Singleton Clusters: 15
+
+================================================================================
+COMPREHENSIVE ENTITY RESOLUTION EVALUATION REPORT
+================================================================================
+
+### PAIRWISE METRICS ###
+
+True Positive Pairs: 32607
+  → Correctly identified entity pairs that belong together
+False Positive Pairs: 142
+  → Incorrectly linked pairs that don't belong together
+False Negative Pairs: 1435
+  → Missed pairs that should have been linked
+
+Precision: 0.9957
+  → Proportion of identified links that are correct
+  → Higher precision means fewer false matches
+  → Range: [0,1] where 1 is perfect precision
+
+Recall: 0.9578
+  → Proportion of true links that were identified
+  → Higher recall means fewer missed matches
+  → Range: [0,1] where 1 is perfect recall
+
+F1 Score: 0.9764
+  → Harmonic mean of precision and recall
+  → Balanced measure of overall performance
+  → Range: [0,1] where 1 is perfect performance
+
+### CLUSTER QUALITY METRICS ###
+
+Homogeneity: 0.9966
+  → Measures if clusters contain only members of a single true class
+  → Higher homogeneity means purer clusters
+  → Range: [0,1] where 1 means perfectly homogeneous clusters
+
+Completeness: 0.9700
+  → Measures if all members of a true class are in the same cluster
+  → Higher completeness means fewer split entities
+  → Range: [0,1] where 1 means no entity splitting
+
+V-Measure: 0.9831
+  → Harmonic mean of homogeneity and completeness
+  → Overall measure of clustering quality
+  → Range: [0,1] where 1 is perfect clustering
+
+Fowlkes-Mallows Index: 0.9766
+  → Geometric mean of precision and recall
+  → Alternative balanced measure of performance
+  → Range: [0,1] where 1 indicates perfect agreement
+
+Adjusted Rand Index: 0.9997
+  → Measures similarity between predicted and true clusters
+  → Adjusted for chance (random clustering would score ~0)
+  → Range: [-1,1] where 1 is perfect agreement, 0 is random
+
+### PERFORMANCE INTERPRETATION ###
+
+★ EXCELLENT: Very high quality entity resolution
+
+### DIAGNOSTIC INSIGHTS ###
+
+⚠ Low Recall: Too many missed matches (under-linking)
+  Recommendation: Relax matching criteria or add more features
+
+================================================================================
+================================================================================
+Total Execution Time: 0.78 minutes
+Process completed successfully
+================================================================================

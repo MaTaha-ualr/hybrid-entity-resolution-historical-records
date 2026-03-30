@@ -1,0 +1,252 @@
+Output 1: stream (stderr)
+2025-09-07 08:08:15 - INFO - Creating log file: LinkEvaluator_Log_20250907_080815.txt
+2025-09-07 08:08:15 - INFO - Creating log file: LinkEvaluator_Log_20250907_080815.txt
+2025-09-07 08:08:15 - INFO - Creating log file: LinkEvaluator_Log_20250907_080815.txt
+INFO:LinkEvaluator:Creating log file: LinkEvaluator_Log_20250907_080815.txt
+
+
+Output 2: stream (stdout)
+================================================================================
+Advanced Link Evaluator System v2.1 - FIXED VERSION
+Execution Date: 2025-09-07 08:08:15
+FIXES: Standard mode data parsing and metrics calculation
+================================================================================
+
+Select Input Mode:
+1. Standard Mode (Link Index + Linked Pairs + Truth File) - FIXED
+2. Complex Cluster Mode (Process complex cluster format)
+
+Enter mode (1 or 2): 1
+
+==================================================
+STANDARD MODE - ENHANCED DATA VALIDATION
+==================================================
+
+Enter link index filename: z_LinkIndex_Taha.txt
+
+
+Output 3: stream (stderr)
+2025-09-07 08:08:32 - INFO - Parsing link index file: z_LinkIndex_Taha.txt
+2025-09-07 08:08:32 - INFO - Parsing link index file: z_LinkIndex_Taha.txt
+2025-09-07 08:08:32 - INFO - Parsing link index file: z_LinkIndex_Taha.txt
+INFO:LinkEvaluator:Parsing link index file: z_LinkIndex_Taha.txt
+2025-09-07 08:08:32 - INFO - Generating pairs from link index clusters...
+2025-09-07 08:08:32 - INFO - Generating pairs from link index clusters...
+2025-09-07 08:08:32 - INFO - Generating pairs from link index clusters...
+INFO:LinkEvaluator:Generating pairs from link index clusters...
+2025-09-07 08:08:32 - INFO - Parsed 5000 references in 550 clusters
+2025-09-07 08:08:32 - INFO - Parsed 5000 references in 550 clusters
+2025-09-07 08:08:32 - INFO - Parsed 5000 references in 550 clusters
+INFO:LinkEvaluator:Parsed 5000 references in 550 clusters
+2025-09-07 08:08:32 - INFO - Generated 60498 pairs from link index
+2025-09-07 08:08:32 - INFO - Generated 60498 pairs from link index
+2025-09-07 08:08:32 - INFO - Generated 60498 pairs from link index
+INFO:LinkEvaluator:Generated 60498 pairs from link index
+
+
+Output 4: stream (stdout)
+
+✓ Link Index Analysis:
+  - Total RefIDs: 5000
+  - Unique Clusters: 550
+  - Pairs from clusters: 60498
+  - Singleton clusters: 15
+  - Multi-record clusters: 535
+
+Enter linked pairs filename: z_LinkedPair_Taha.txt
+
+
+Output 5: stream (stderr)
+2025-09-07 08:08:52 - INFO - Parsing linked pairs file: z_LinkedPair_Taha.txt
+2025-09-07 08:08:52 - INFO - Parsing linked pairs file: z_LinkedPair_Taha.txt
+2025-09-07 08:08:52 - INFO - Parsing linked pairs file: z_LinkedPair_Taha.txt
+INFO:LinkEvaluator:Parsing linked pairs file: z_LinkedPair_Taha.txt
+2025-09-07 08:08:52 - INFO - Parsed 8900 linked pairs (including bidirectional)
+2025-09-07 08:08:52 - INFO - Parsed 8900 linked pairs (including bidirectional)
+2025-09-07 08:08:52 - INFO - Parsed 8900 linked pairs (including bidirectional)
+INFO:LinkEvaluator:Parsed 8900 linked pairs (including bidirectional)
+
+
+Output 6: stream (stdout)
+
+✓ Linked Pairs Analysis:
+  - Additional pairs: 8900
+
+✓ Combining pairs...
+  - Total unique pairs before closure: 60498
+
+Enter truth filename: z_Truthfile_Taha.txt
+
+
+Output 7: stream (stderr)
+2025-09-07 08:09:01 - INFO - Parsing truth file: z_Truthfile_Taha.txt
+2025-09-07 08:09:01 - INFO - Parsing truth file: z_Truthfile_Taha.txt
+2025-09-07 08:09:01 - INFO - Parsing truth file: z_Truthfile_Taha.txt
+INFO:LinkEvaluator:Parsing truth file: z_Truthfile_Taha.txt
+2025-09-07 08:09:01 - INFO - Analyzing truth file format...
+2025-09-07 08:09:01 - INFO - Analyzing truth file format...
+2025-09-07 08:09:01 - INFO - Analyzing truth file format...
+INFO:LinkEvaluator:Analyzing truth file format...
+2025-09-07 08:09:01 - INFO -   Line 1: RecID,IdTruth
+2025-09-07 08:09:01 - INFO -   Line 1: RecID,IdTruth
+2025-09-07 08:09:01 - INFO -   Line 1: RecID,IdTruth
+INFO:LinkEvaluator:  Line 1: RecID,IdTruth
+2025-09-07 08:09:01 - INFO -   Line 2: 1.1,1.1
+2025-09-07 08:09:01 - INFO -   Line 2: 1.1,1.1
+2025-09-07 08:09:01 - INFO -   Line 2: 1.1,1.1
+INFO:LinkEvaluator:  Line 2: 1.1,1.1
+2025-09-07 08:09:01 - INFO -   Line 3: 1.2,1.1
+2025-09-07 08:09:01 - INFO -   Line 3: 1.2,1.1
+2025-09-07 08:09:01 - INFO -   Line 3: 1.2,1.1
+INFO:LinkEvaluator:  Line 3: 1.2,1.1
+2025-09-07 08:09:01 - INFO - Detected comma delimiter
+2025-09-07 08:09:01 - INFO - Detected comma delimiter
+2025-09-07 08:09:01 - INFO - Detected comma delimiter
+INFO:LinkEvaluator:Detected comma delimiter
+2025-09-07 08:09:01 - INFO - CSV headers detected: ['RecID', 'IdTruth']
+2025-09-07 08:09:01 - INFO - CSV headers detected: ['RecID', 'IdTruth']
+2025-09-07 08:09:01 - INFO - CSV headers detected: ['RecID', 'IdTruth']
+INFO:LinkEvaluator:CSV headers detected: ['RecID', 'IdTruth']
+2025-09-07 08:09:02 - INFO - Successfully parsed 5000 truth assignments
+2025-09-07 08:09:02 - INFO - Successfully parsed 5000 truth assignments
+2025-09-07 08:09:02 - INFO - Successfully parsed 5000 truth assignments
+INFO:LinkEvaluator:Successfully parsed 5000 truth assignments
+2025-09-07 08:09:02 - INFO - Generating truth pairs from truth clusters...
+2025-09-07 08:09:02 - INFO - Generating truth pairs from truth clusters...
+2025-09-07 08:09:02 - INFO - Generating truth pairs from truth clusters...
+INFO:LinkEvaluator:Generating truth pairs from truth clusters...
+2025-09-07 08:09:02 - INFO - Created 63084 truth pairs from 496 truth clusters
+2025-09-07 08:09:02 - INFO - Created 63084 truth pairs from 496 truth clusters
+2025-09-07 08:09:02 - INFO - Created 63084 truth pairs from 496 truth clusters
+INFO:LinkEvaluator:Created 63084 truth pairs from 496 truth clusters
+2025-09-07 08:09:02 - INFO - Computing transitive closure using Union-Find algorithm
+2025-09-07 08:09:02 - INFO - Computing transitive closure using Union-Find algorithm
+2025-09-07 08:09:02 - INFO - Computing transitive closure using Union-Find algorithm
+INFO:LinkEvaluator:Computing transitive closure using Union-Find algorithm
+2025-09-07 08:09:02 - INFO - Transitive closure computed: 60498 pairs from 550 clusters
+2025-09-07 08:09:02 - INFO - Transitive closure computed: 60498 pairs from 550 clusters
+2025-09-07 08:09:02 - INFO - Transitive closure computed: 60498 pairs from 550 clusters
+INFO:LinkEvaluator:Transitive closure computed: 60498 pairs from 550 clusters
+2025-09-07 08:09:02 - INFO - Cluster profile generated successfully
+2025-09-07 08:09:02 - INFO - Cluster profile generated successfully
+2025-09-07 08:09:02 - INFO - Cluster profile generated successfully
+INFO:LinkEvaluator:Cluster profile generated successfully
+
+
+Output 8: stream (stdout)
+
+✓ Truth Data Analysis:
+  - RefIDs with truth: 5000
+  - Truth clusters: 496
+  - Truth pairs: 63084
+
+✓ Computing transitive closure...
+  - Pairs after closure: 60498
+
+✓ Generating cluster profile from predicted clusters...
+
+✓ Filtering pairs for evaluation...
+  - Predicted pairs (filtered): 60498
+  - Truth pairs (filtered): 63084
+
+✓ Calculating evaluation metrics...
+  Step 1/4: Converting pairs to sets for comparison...
+    Normalized to 32749 predicted pairs and 34042 truth pairs
+  Step 2/4: Calculating basic pairwise metrics...
+    TP: 32607, FP: 142, FN: 1435
+  Step 3/4: Computing cluster-level metrics...
+
+
+Output 9: stream (stderr)
+2025-09-07 08:09:02 - INFO - All metrics calculated successfully
+2025-09-07 08:09:02 - INFO - All metrics calculated successfully
+2025-09-07 08:09:02 - INFO - All metrics calculated successfully
+INFO:LinkEvaluator:All metrics calculated successfully
+2025-09-07 08:09:02 - INFO - Metrics report generated successfully
+2025-09-07 08:09:02 - INFO - Metrics report generated successfully
+2025-09-07 08:09:02 - INFO - Metrics report generated successfully
+INFO:LinkEvaluator:Metrics report generated successfully
+
+
+Output 10: stream (stdout)
+  Step 4/4: Computing advanced metrics...
+    Using fast approximation for Adjusted Rand Index (large dataset)...
+
+================================================================================
+COMPREHENSIVE ENTITY RESOLUTION EVALUATION REPORT
+================================================================================
+
+### PAIRWISE METRICS ###
+
+True Positive Pairs: 32607
+  → Correctly identified entity pairs that belong together
+False Positive Pairs: 142
+  → Incorrectly linked pairs that don't belong together
+False Negative Pairs: 1435
+  → Missed pairs that should have been linked
+
+Precision: 0.9957
+  → Proportion of identified links that are correct
+  → Higher precision means fewer false matches
+  → Range: [0,1] where 1 is perfect precision
+
+Recall: 0.9578
+  → Proportion of true links that were identified
+  → Higher recall means fewer missed matches
+  → Range: [0,1] where 1 is perfect recall
+
+F1 Score: 0.9764
+  → Harmonic mean of precision and recall
+  → Balanced measure of overall performance
+  → Range: [0,1] where 1 is perfect performance
+
+### CLUSTER QUALITY METRICS ###
+
+Homogeneity: 0.9966
+  → Measures if clusters contain only members of a single true class
+  → Higher homogeneity means purer clusters
+  → Range: [0,1] where 1 means perfectly homogeneous clusters
+
+Completeness: 0.9700
+  → Measures if all members of a true class are in the same cluster
+  → Higher completeness means fewer split entities
+  → Range: [0,1] where 1 means no entity splitting
+
+V-Measure: 0.9831
+  → Harmonic mean of homogeneity and completeness
+  → Overall measure of clustering quality
+  → Range: [0,1] where 1 is perfect clustering
+
+Fowlkes-Mallows Index: 0.9766
+  → Geometric mean of precision and recall
+  → Alternative balanced measure of performance
+  → Range: [0,1] where 1 indicates perfect agreement
+
+Adjusted Rand Index: 0.9997
+  → Measures similarity between predicted and true clusters
+  → Adjusted for chance (random clustering would score ~0)
+  → Range: [-1,1] where 1 is perfect agreement, 0 is random
+
+### PERFORMANCE INTERPRETATION ###
+
+★ EXCELLENT: Very high quality entity resolution
+
+### DIAGNOSTIC INSIGHTS ###
+
+⚠ Low Recall: Too many missed matches (under-linking)
+  Recommendation: Relax matching criteria or add more features
+
+================================================================================
+
+### DIAGNOSTIC SUMMARY ###
+Input Quality Assessment:
+  - Link Index Coverage: 5000 RefIDs
+  - Truth Coverage: 5000/5000 (100.0%)
+  - Additional Links: 8900 pairs
+  - Transitive Expansion: 60498 → 60498 pairs
+  - Final Clusters: 550
+================================================================================
+Total Execution Time: 0.78 minutes
+Process completed successfully
+================================================================================
+

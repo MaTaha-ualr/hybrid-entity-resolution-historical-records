@@ -1,0 +1,57 @@
+Output 1: stream (stdout)
+Starting concurrent batch processing: 10000 records in 208 batches
+Batch size: 64, Overlap: 16 records
+Concurrent requests: 10
+Batch 9/208 (48 new + 16 overlap) parsed in 36.76s - o4-mini
+Batch 7/208 (48 new + 16 overlap) parsed in 42.81s - o4-mini
+Batch 3/208 (48 new + 16 overlap) parsed in 43.40s - o4-mini
+Batch 4/208 (48 new + 16 overlap) parsed in 46.16s - o4-mini
+Batch 10/208 (48 new + 16 overlap) parsed in 51.04s - o4-mini
+Batch 2/208 (48 new + 16 overlap) parsed in 52.60s - o4-mini
+Batch 5/208 (48 new + 16 overlap) parsed in 65.00s - o4-mini
+Batch 6/208 (48 new + 16 overlap) parsed in 66.33s - o4-mini
+Batch 8/208 (48 new + 16 overlap) parsed in 75.48s - o4-mini
+Batch 11/208 (48 new + 16 overlap) parsed in 44.04s - o4-mini
+Batch 1/208 (64 new + 0 overlap) parsed in 82.79s - o4-mini
+Batch 13/208 (48 new + 16 overlap) parsed in 41.07s - o4-mini
+Batch 15/208 (48 new + 16 overlap) parsed in 33.60s - o4-mini
+Batch 14/208 (48 new + 16 overlap) parsed in 45.85s - o4-mini
+Batch 12/208 (48 new + 16 overlap) parsed in 67.09s - o4-mini
+Batch 19/208 (48 new + 16 overlap) parsed in 46.67s - o4-mini
+Batch 22/208 (48 new + 16 overlap) parsed in 46.32s - o4-mini
+Batch 16/208 (48 new + 16 overlap) parsed in 82.64s - o4-mini
+Batch 20/208 (48 new + 16 overlap) parsed in 54.65s - o4-mini
+Batch 18/208 (48 new + 16 overlap) parsed in 73.93s - o4-mini
+Batch 23/208 (48 new + 16 overlap) parsed in 65.88s - o4-mini
+Batch 17/208 (48 new + 16 overlap) parsed in 85.93s - o4-mini
+Batch 24/208 (48 new + 16 overlap) parsed in 65.65s - o4-mini
+Batch 25/208 (48 new + 16 overlap) parsed in 51.85s - o4-mini
+Batch 21/208 (48 new + 16 overlap) parsed in 85.84s - o4-mini
+Batch 29/208 (48 new + 16 overlap) parsed in 39.03s - o4-mini
+Batch 26/208 (48 new + 16 overlap) parsed in 56.05s - o4-mini
+Batch 32/208 (48 new + 16 overlap) parsed in 38.88s - o4-mini
+Batch 27/208 (48 new + 16 overlap) parsed in 71.51s - o4-mini
+Batch 33/208 (48 new + 16 overlap) parsed in 45.28s - o4-mini
+Batch 34/208 (48 new + 16 overlap) parsed in 48.55s - o4-mini
+Batch 28/208 (48 new + 16 overlap) parsed in 80.85s - o4-mini
+Batch 35/208 (48 new + 16 overlap) parsed in 47.84s - o4-mini
+Batch 31/208 (48 new + 16 overlap) parsed in 66.62s - o4-mini
+Batch 30/208 (48 new + 16 overlap) parsed in 82.50s - o4-mini
+Batch 36/208 (48 new + 16 overlap) parsed in 50.79s - o4-mini
+Batch 37/208 (48 new + 16 overlap) parsed in 51.43s - o4-mini
+Batch 38/208 (48 new + 16 overlap) parsed in 47.34s - o4-mini
+Batch 41/208 (48 new + 16 overlap) parsed in 39.89s - o4-mini
+Batch 42/208 (48 new + 16 overlap) parsed in 42.63s - o4-mini
+Batch 45/208 (48 new + 16 overlap) parsed in 42.00s - o4-mini
+Batch 44/208 (48 new + 16 overlap) parsed in 56.96s - o4-mini
+Batch 39/208 (48 new + 16 overlap) parsed in 72.26s - o4-mini
+Batch 40/208 (48 new + 16 overlap) parsed in 80.39s - o4-mini
+Batch 47/208 (48 new + 16 overlap) parsed in 56.15s - o4-mini
+Batch 43/208 (48 new + 16 overlap) parsed in 70.17s - o4-mini
+Batch 49/208 (48 new + 16 overlap) parsed in 43.15s - o4-mini
+Batch 48/208 (48 new + 16 overlap) parsed in 56.77s - o4-mini
+Batch 46/208 (48 new + 16 overlap) parsed in 77.33s - o4-mini
+Batch 50/208 (48 new + 16 overlap) parsed in 44.48s - o4-mini
+Batch 53/208 (48 new + 16 overlap) parsed in 30.05s - o4-mini
+Batch 54/208 (48 new + 16 overlap) parsed in 25.51s - o4-mini
+

@@ -1,0 +1,8 @@
+Output 1: display_data [text/plain]
+<IPython.core.display.HTML object>
+
+Output 1: display_data [text/html] saved to cell02_output1.html
+
+Output 2: stream (stdout)
+Saving truthABCpoorDQ.txt to truthABCpoorDQ.txt
+

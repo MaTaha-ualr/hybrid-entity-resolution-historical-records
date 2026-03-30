@@ -1,0 +1,43 @@
+Output 1: stream (stdout)
+Starting async address processing: 2000 records in 32 batches.
+Cache directory: api_response_cache
+Batch 0005/32 (64 recs) ✓ parsed in 59.55s
+Batch 0001/32 (64 recs) ✓ parsed in 60.97s
+Batch 0004/32 (64 recs) ✓ parsed in 64.46s
+Batch 0003/32 (64 recs) ✓ parsed in 65.25s
+Batch 0006/32 (64 recs) ✓ parsed in 78.14s
+Batch 0007/32 (64 recs) ✓ parsed in 84.85s
+Batch 0008/32 (64 recs) ✓ parsed in 87.31s
+Batch 0010/32 (64 recs) ✓ parsed in 91.13s
+Batch 0002/32 (64 recs) ✓ parsed in 92.98s
+Batch 0012/32 (64 recs) ✓ parsed in 71.74s
+Batch 0009/32 (64 recs) ✓ parsed in 134.04s
+Batch 0014/32 (64 recs) ✓ parsed in 74.32s
+Batch 0015/32 (64 recs) ✓ parsed in 71.06s
+Batch 0017/32 (64 recs) ✓ parsed in 71.52s
+Batch 0013/32 (64 recs) ✓ parsed in 97.70s
+Batch 0016/32 (64 recs) ✓ parsed in 80.49s
+Batch 0019/32 (64 recs) ✓ parsed in 77.45s
+Batch 0011/32 (64 recs) ✓ parsed in 133.96s
+Batch 0022/32 (64 recs) ✓ parsed in 64.84s
+Batch 0021/32 (64 recs) ✓ parsed in 72.79s
+Batch 0023/32 (64 recs) ✓ parsed in 64.67s
+Batch 0024/32 (64 recs) ✓ parsed in 56.04s
+  → Filtered extra records: kept 64 of 65
+Batch 0018/32 (64 recs) ✓ parsed in 124.72s
+Batch 0025/32 (64 recs) ✓ parsed in 55.86s
+Batch 0026/32 (64 recs) ✓ parsed in 61.56s
+Batch 0020/32 (64 recs) ✓ parsed in 97.84s
+Batch 0027/32 (64 recs) ✓ parsed in 65.75s
+Batch 0028/32 (64 recs) ✓ parsed in 50.24s
+Batch 0032/32 (16 recs) ✓ parsed in 31.60s
+  → Filtered extra records: kept 64 of 65
+Batch 0029/32 (64 recs) ✓ parsed in 55.72s
+Batch 0030/32 (64 recs) ✓ parsed in 57.78s
+Batch 0031/32 (64 recs) ✓ parsed in 81.54s
+
+--------------------------------------------------
+✔ Finalized → c_parsed_addresses.csv
+Total elapsed time: 295.44 seconds
+(Re-run the script to resume processing any failed or missing batches.)
+

@@ -1,0 +1,3291 @@
+﻿[
+    {
+        "HouseholdMovementsID":  "0",
+        "Clusters":  [
+                         {
+                             "Slot":  "a",
+                             "ClusterID":  "0",
+                             "Name":  "GLORIA B MIDDLEBROOK; GLORIA B NEL"
+                         },
+                         {
+                             "Slot":  "b",
+                             "ClusterID":  "1",
+                             "Name":  "TOMMY ALAN NOEL"
+                         }
+                     ],
+        "Addresses":  [
+                          {
+                              "Address":  "11548 FERN LN HANFORD CA 93230",
+                              "RecIDs":  [
+                                             [
+                                                 "1.2",
+                                                 "1.6"
+                                             ],
+                                             [
+                                                 "2.11",
+                                                 "2.4",
+                                                 "2.8"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "0",
+                                                           "Name":  "GLORIA B MIDDLEBROOK; GLORIA B NEL",
+                                                           "RecIDs":  [
+                                                                          "1.2",
+                                                                          "1.6"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "1",
+                                                           "Name":  "TOMMY ALAN NOEL",
+                                                           "RecIDs":  [
+                                                                          "2.11",
+                                                                          "2.4",
+                                                                          "2.8"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "754 EMPIRE AVE VENTURA CA 93003",
+                              "RecIDs":  [
+                                             [
+                                                 "1.4"
+                                             ],
+                                             [
+                                                 "2.1",
+                                                 "2.2",
+                                                 "2.6",
+                                                 "2.9"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "0",
+                                                           "Name":  "GLORIA B MIDDLEBROOK; GLORIA B NEL",
+                                                           "RecIDs":  [
+                                                                          "1.4"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "1",
+                                                           "Name":  "TOMMY ALAN NOEL",
+                                                           "RecIDs":  [
+                                                                          "2.1",
+                                                                          "2.2",
+                                                                          "2.6",
+                                                                          "2.9"
+                                                                      ]
+                                                       }
+                                                   ]
+                          }
+                      ],
+        "Direct_Links":  [
+                             [
+                                 "1",
+                                 "3"
+                             ],
+                             [
+                                 "0",
+                                 "6"
+                             ]
+                         ],
+        "Indirect_Links":  [
+                               [
+                                   "3"
+                               ],
+                               [
+                                   "21"
+                               ]
+                           ]
+    },
+    {
+        "HouseholdMovementsID":  "1",
+        "Clusters":  [
+                         {
+                             "Slot":  "a",
+                             "ClusterID":  "2",
+                             "Name":  "FRANCINE J KEGLER"
+                         },
+                         {
+                             "Slot":  "b",
+                             "ClusterID":  "3",
+                             "Name":  "DIDIER HUSSAIN"
+                         }
+                     ],
+        "Addresses":  [
+                          {
+                              "Address":  "14668 WILDWOOD DR LARGO FL 33774",
+                              "RecIDs":  [
+                                             [
+                                                 "3.1",
+                                                 "3.13",
+                                                 "3.4",
+                                                 "3.5"
+                                             ],
+                                             [
+                                                 "4.3",
+                                                 "4.5",
+                                                 "4.8",
+                                                 "4.9"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "2",
+                                                           "Name":  "FRANCINE J KEGLER",
+                                                           "RecIDs":  [
+                                                                          "3.1",
+                                                                          "3.13",
+                                                                          "3.4",
+                                                                          "3.5"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "3",
+                                                           "Name":  "DIDIER HUSSAIN",
+                                                           "RecIDs":  [
+                                                                          "4.3",
+                                                                          "4.5",
+                                                                          "4.8",
+                                                                          "4.9"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "214 ELDORADO DR DEBARY FL 32713",
+                              "RecIDs":  [
+                                             [
+                                                 "3.11",
+                                                 "3.16",
+                                                 "3.7",
+                                                 "3.9"
+                                             ],
+                                             [
+                                                 "4.6"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "2",
+                                                           "Name":  "FRANCINE J KEGLER",
+                                                           "RecIDs":  [
+                                                                          "3.11",
+                                                                          "3.16",
+                                                                          "3.7",
+                                                                          "3.9"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "3",
+                                                           "Name":  "DIDIER HUSSAIN",
+                                                           "RecIDs":  [
+                                                                          "4.6"
+                                                                      ]
+                                                       }
+                                                   ]
+                          }
+                      ],
+        "Direct_Links":  [
+                             [
+                                 "6",
+                                 "6"
+                             ],
+                             [
+                                 "6",
+                                 "0"
+                             ]
+                         ],
+        "Indirect_Links":  [
+                               [
+                                   "28"
+                               ],
+                               [
+                                   "10"
+                               ]
+                           ]
+    },
+    {
+        "HouseholdMovementsID":  "2",
+        "Clusters":  [
+                         {
+                             "Slot":  "a",
+                             "ClusterID":  "4",
+                             "Name":  "YVONNE A MANSON"
+                         },
+                         {
+                             "Slot":  "b",
+                             "ClusterID":  "5",
+                             "Name":  "JUAN M SWEANY"
+                         }
+                     ],
+        "Addresses":  [
+                          {
+                              "Address":  "103 REDGRAVE DR SEBASTIAN FL 32958",
+                              "RecIDs":  [
+                                             [
+                                                 "5.1",
+                                                 "5.10",
+                                                 "5.13",
+                                                 "5.4"
+                                             ],
+                                             [
+                                                 "6.1",
+                                                 "6.2",
+                                                 "6.4",
+                                                 "6.6",
+                                                 "6.8",
+                                                 "6.9"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "4",
+                                                           "Name":  "YVONNE A MANSON",
+                                                           "RecIDs":  [
+                                                                          "5.1",
+                                                                          "5.10",
+                                                                          "5.13",
+                                                                          "5.4"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "5",
+                                                           "Name":  "JUAN M SWEANY",
+                                                           "RecIDs":  [
+                                                                          "6.1",
+                                                                          "6.2",
+                                                                          "6.4",
+                                                                          "6.6",
+                                                                          "6.8",
+                                                                          "6.9"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "1258 SAPULVEDA RD SW PALM BAY FL 32908",
+                              "RecIDs":  [
+                                             [
+                                                 "5.12",
+                                                 "5.14",
+                                                 "5.16",
+                                                 "5.3",
+                                                 "5.5",
+                                                 "5.8"
+                                             ],
+                                             [
+                                                 "6.3"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "4",
+                                                           "Name":  "YVONNE A MANSON",
+                                                           "RecIDs":  [
+                                                                          "5.12",
+                                                                          "5.14",
+                                                                          "5.16",
+                                                                          "5.3",
+                                                                          "5.5",
+                                                                          "5.8"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "5",
+                                                           "Name":  "JUAN M SWEANY",
+                                                           "RecIDs":  [
+                                                                          "6.3"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "4970 NW 91ST TER SUNRISE FL 33351",
+                              "RecIDs":  [
+                                             [
+                                                 "5.11",
+                                                 "5.15",
+                                                 "5.17",
+                                                 "5.18",
+                                                 "5.6",
+                                                 "5.9"
+                                             ],
+                                             [
+                                                 "6.5"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "4",
+                                                           "Name":  "YVONNE A MANSON",
+                                                           "RecIDs":  [
+                                                                          "5.11",
+                                                                          "5.15",
+                                                                          "5.17",
+                                                                          "5.18",
+                                                                          "5.6",
+                                                                          "5.9"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "5",
+                                                           "Name":  "JUAN M SWEANY",
+                                                           "RecIDs":  [
+                                                                          "6.5"
+                                                                      ]
+                                                       }
+                                                   ]
+                          }
+                      ],
+        "Direct_Links":  [
+                             [
+                                 "6",
+                                 "15"
+                             ],
+                             [
+                                 "15",
+                                 "0"
+                             ],
+                             [
+                                 "15",
+                                 "0"
+                             ]
+                         ],
+        "Indirect_Links":  [
+                               [
+                                   "120"
+                               ],
+                               [
+                                   "28"
+                               ]
+                           ]
+    },
+    {
+        "HouseholdMovementsID":  "3",
+        "Clusters":  [
+                         {
+                             "Slot":  "a",
+                             "ClusterID":  "9",
+                             "Name":  "TERRIE D KELLEY; TERRIE D LOPEZ"
+                         },
+                         {
+                             "Slot":  "b",
+                             "ClusterID":  "10",
+                             "Name":  "THOMAS LOPEZ"
+                         }
+                     ],
+        "Addresses":  [
+                          {
+                              "Address":  "1402 NE 1ST ST MULBERRY FL 33860",
+                              "RecIDs":  [
+                                             [
+                                                 "10.11",
+                                                 "10.4",
+                                                 "10.5",
+                                                 "10.7"
+                                             ],
+                                             [
+                                                 "11.1",
+                                                 "11.10",
+                                                 "11.5",
+                                                 "11.6"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "9",
+                                                           "Name":  "TERRIE D KELLEY; TERRIE D LOPEZ",
+                                                           "RecIDs":  [
+                                                                          "10.11",
+                                                                          "10.4",
+                                                                          "10.5",
+                                                                          "10.7"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "10",
+                                                           "Name":  "THOMAS LOPEZ",
+                                                           "RecIDs":  [
+                                                                          "11.1",
+                                                                          "11.10",
+                                                                          "11.5",
+                                                                          "11.6"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "2623 FIDDLESTICK CIR LUTZ FL 33559",
+                              "RecIDs":  [
+                                             [
+                                                 "10.12",
+                                                 "10.14",
+                                                 "10.15",
+                                                 "10.2",
+                                                 "10.3",
+                                                 "10.6"
+                                             ],
+                                             [
+                                                 "11.11",
+                                                 "11.12",
+                                                 "11.3",
+                                                 "11.4",
+                                                 "11.8",
+                                                 "11.9"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "9",
+                                                           "Name":  "TERRIE D KELLEY; TERRIE D LOPEZ",
+                                                           "RecIDs":  [
+                                                                          "10.12",
+                                                                          "10.14",
+                                                                          "10.15",
+                                                                          "10.2",
+                                                                          "10.3",
+                                                                          "10.6"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "10",
+                                                           "Name":  "THOMAS LOPEZ",
+                                                           "RecIDs":  [
+                                                                          "11.11",
+                                                                          "11.12",
+                                                                          "11.3",
+                                                                          "11.4",
+                                                                          "11.8",
+                                                                          "11.9"
+                                                                      ]
+                                                       }
+                                                   ]
+                          }
+                      ],
+        "Direct_Links":  [
+                             [
+                                 "6",
+                                 "6"
+                             ],
+                             [
+                                 "15",
+                                 "15"
+                             ]
+                         ],
+        "Indirect_Links":  [
+                               [
+                                   "45"
+                               ],
+                               [
+                                   "45"
+                               ]
+                           ]
+    },
+    {
+        "HouseholdMovementsID":  "4",
+        "Clusters":  [
+                         {
+                             "Slot":  "a",
+                             "ClusterID":  "11",
+                             "Name":  "KRISTINA D CALIENES; KRISTINA D ORCULLO"
+                         },
+                         {
+                             "Slot":  "b",
+                             "ClusterID":  "12",
+                             "Name":  "DONALD E CALIENES"
+                         }
+                     ],
+        "Addresses":  [
+                          {
+                              "Address":  "16797 TALQUIN SPRINGS DR TALLAHASSEE FL 32310",
+                              "RecIDs":  [
+                                             [
+                                                 "12.1",
+                                                 "12.11",
+                                                 "12.2",
+                                                 "12.3",
+                                                 "12.7",
+                                                 "12.8"
+                                             ],
+                                             [
+                                                 "13.16",
+                                                 "13.6"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "11",
+                                                           "Name":  "KRISTINA D CALIENES; KRISTINA D ORCULLO",
+                                                           "RecIDs":  [
+                                                                          "12.1",
+                                                                          "12.11",
+                                                                          "12.2",
+                                                                          "12.3",
+                                                                          "12.7",
+                                                                          "12.8"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "12",
+                                                           "Name":  "DONALD E CALIENES",
+                                                           "RecIDs":  [
+                                                                          "13.16",
+                                                                          "13.6"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "2815 HWY 2 BONIFAY FL 32425",
+                              "RecIDs":  [
+                                             [
+                                                 "12.4",
+                                                 "12.9"
+                                             ],
+                                             [
+                                                 "13.7"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "11",
+                                                           "Name":  "KRISTINA D CALIENES; KRISTINA D ORCULLO",
+                                                           "RecIDs":  [
+                                                                          "12.4",
+                                                                          "12.9"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "12",
+                                                           "Name":  "DONALD E CALIENES",
+                                                           "RecIDs":  [
+                                                                          "13.7"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "85016 DUANE RD YULEE FL 32097",
+                              "RecIDs":  [
+                                             [
+                                                 "12.6"
+                                             ],
+                                             [
+                                                 "13.14"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "11",
+                                                           "Name":  "KRISTINA D CALIENES; KRISTINA D ORCULLO",
+                                                           "RecIDs":  [
+                                                                          "12.6"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "12",
+                                                           "Name":  "DONALD E CALIENES",
+                                                           "RecIDs":  [
+                                                                          "13.14"
+                                                                      ]
+                                                       }
+                                                   ]
+                          }
+                      ],
+        "Direct_Links":  [
+                             [
+                                 "15",
+                                 "1"
+                             ],
+                             [
+                                 "1",
+                                 "0"
+                             ],
+                             [
+                                 "0",
+                                 "0"
+                             ]
+                         ],
+        "Indirect_Links":  [
+                               [
+                                   "36"
+                               ],
+                               [
+                                   "6"
+                               ]
+                           ]
+    },
+    {
+        "HouseholdMovementsID":  "5",
+        "Clusters":  [
+                         {
+                             "Slot":  "a",
+                             "ClusterID":  "24",
+                             "Name":  "BARBARA M REYES; BARBARA M WHITE"
+                         },
+                         {
+                             "Slot":  "b",
+                             "ClusterID":  "25",
+                             "Name":  "JOSEPH C WHITE"
+                         }
+                     ],
+        "Addresses":  [
+                          {
+                              "Address":  "21 CHRISTOPHER PL STRONG AR 71765",
+                              "RecIDs":  [
+                                             [
+                                                 "22.3",
+                                                 "22.4"
+                                             ],
+                                             [
+                                                 "23.3"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "24",
+                                                           "Name":  "BARBARA M REYES; BARBARA M WHITE",
+                                                           "RecIDs":  [
+                                                                          "22.3",
+                                                                          "22.4"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "25",
+                                                           "Name":  "JOSEPH C WHITE",
+                                                           "RecIDs":  [
+                                                                          "23.3"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "235 HEMPSTEAD APT 125 HOPE AR 71801",
+                              "RecIDs":  [
+                                             [
+                                                 "22.2"
+                                             ],
+                                             [
+                                                 "23.11",
+                                                 "23.12",
+                                                 "23.15",
+                                                 "23.4",
+                                                 "23.5",
+                                                 "23.9"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "24",
+                                                           "Name":  "BARBARA M REYES; BARBARA M WHITE",
+                                                           "RecIDs":  [
+                                                                          "22.2"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "25",
+                                                           "Name":  "JOSEPH C WHITE",
+                                                           "RecIDs":  [
+                                                                          "23.11",
+                                                                          "23.12",
+                                                                          "23.15",
+                                                                          "23.4",
+                                                                          "23.5",
+                                                                          "23.9"
+                                                                      ]
+                                                       }
+                                                   ]
+                          }
+                      ],
+        "Direct_Links":  [
+                             [
+                                 "1",
+                                 "0"
+                             ],
+                             [
+                                 "0",
+                                 "15"
+                             ]
+                         ],
+        "Indirect_Links":  [
+                               [
+                                   "3"
+                               ],
+                               [
+                                   "21"
+                               ]
+                           ]
+    },
+    {
+        "HouseholdMovementsID":  "6",
+        "Clusters":  [
+                         {
+                             "Slot":  "a",
+                             "ClusterID":  "26",
+                             "Name":  "PEGGY ACE"
+                         },
+                         {
+                             "Slot":  "b",
+                             "ClusterID":  "27",
+                             "Name":  "BRIAN M WRIGHT"
+                         }
+                     ],
+        "Addresses":  [
+                          {
+                              "Address":  "5656 HALBRENT AVE VAN NUYS CA 91411",
+                              "RecIDs":  [
+                                             [
+                                                 "24.3"
+                                             ],
+                                             [
+                                                 "25.12",
+                                                 "25.5"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "26",
+                                                           "Name":  "PEGGY ACE",
+                                                           "RecIDs":  [
+                                                                          "24.3"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "27",
+                                                           "Name":  "BRIAN M WRIGHT",
+                                                           "RecIDs":  [
+                                                                          "25.12",
+                                                                          "25.5"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "625 TAMARINDO WAY ROSEVILLE CA 95678",
+                              "RecIDs":  [
+                                             [
+                                                 "24.4"
+                                             ],
+                                             [
+                                                 "25.4",
+                                                 "25.8"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "26",
+                                                           "Name":  "PEGGY ACE",
+                                                           "RecIDs":  [
+                                                                          "24.4"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "27",
+                                                           "Name":  "BRIAN M WRIGHT",
+                                                           "RecIDs":  [
+                                                                          "25.4",
+                                                                          "25.8"
+                                                                      ]
+                                                       }
+                                                   ]
+                          }
+                      ],
+        "Direct_Links":  [
+                             [
+                                 "0",
+                                 "1"
+                             ],
+                             [
+                                 "0",
+                                 "1"
+                             ]
+                         ],
+        "Indirect_Links":  [
+                               [
+                                   "1"
+                               ],
+                               [
+                                   "6"
+                               ]
+                           ]
+    },
+    {
+        "HouseholdMovementsID":  "7",
+        "Clusters":  [
+                         {
+                             "Slot":  "a",
+                             "ClusterID":  "28",
+                             "Name":  "LISA NICKELBERRY; LISA SANCHEZ"
+                         },
+                         {
+                             "Slot":  "b",
+                             "ClusterID":  "30",
+                             "Name":  "FELIPE L SANCHEZ"
+                         }
+                     ],
+        "Addresses":  [
+                          {
+                              "Address":  "2754 HERMOSA AVE APT 5 MONTROSE CA 91020",
+                              "RecIDs":  [
+                                             [
+                                                 "26.1",
+                                                 "26.11",
+                                                 "26.2",
+                                                 "26.4",
+                                                 "26.5",
+                                                 "26.9"
+                                             ],
+                                             [
+                                                 "27.1",
+                                                 "27.11",
+                                                 "27.5",
+                                                 "27.7"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "28",
+                                                           "Name":  "LISA NICKELBERRY; LISA SANCHEZ",
+                                                           "RecIDs":  [
+                                                                          "26.1",
+                                                                          "26.11",
+                                                                          "26.2",
+                                                                          "26.4",
+                                                                          "26.5",
+                                                                          "26.9"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "30",
+                                                           "Name":  "FELIPE L SANCHEZ",
+                                                           "RecIDs":  [
+                                                                          "27.1",
+                                                                          "27.11",
+                                                                          "27.5",
+                                                                          "27.7"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "670 SEELY AVE AROMAS CA 95004",
+                              "RecIDs":  [
+                                             [
+                                                 "26.6"
+                                             ],
+                                             [
+                                                 "27.10",
+                                                 "27.12",
+                                                 "27.2",
+                                                 "27.3",
+                                                 "27.4",
+                                                 "27.6"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "28",
+                                                           "Name":  "LISA NICKELBERRY; LISA SANCHEZ",
+                                                           "RecIDs":  [
+                                                                          "26.6"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "30",
+                                                           "Name":  "FELIPE L SANCHEZ",
+                                                           "RecIDs":  [
+                                                                          "27.10",
+                                                                          "27.12",
+                                                                          "27.2",
+                                                                          "27.3",
+                                                                          "27.4",
+                                                                          "27.6"
+                                                                      ]
+                                                       }
+                                                   ]
+                          }
+                      ],
+        "Direct_Links":  [
+                             [
+                                 "15",
+                                 "6"
+                             ],
+                             [
+                                 "0",
+                                 "15"
+                             ]
+                         ],
+        "Indirect_Links":  [
+                               [
+                                   "21"
+                               ],
+                               [
+                                   "45"
+                               ]
+                           ]
+    },
+    {
+        "HouseholdMovementsID":  "8",
+        "Clusters":  [
+                         {
+                             "Slot":  "a",
+                             "ClusterID":  "32",
+                             "Name":  "GLADYS HAYES; GLADYS RODRIGUEZ"
+                         },
+                         {
+                             "Slot":  "b",
+                             "ClusterID":  "33",
+                             "Name":  "BRADLEY D HAYES"
+                         }
+                     ],
+        "Addresses":  [
+                          {
+                              "Address":  "1918 PREAKNESS LN SAN ANTONIO TX 78248",
+                              "RecIDs":  [
+                                             [
+                                                 "29.4"
+                                             ],
+                                             [
+                                                 "30.9"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "32",
+                                                           "Name":  "GLADYS HAYES; GLADYS RODRIGUEZ",
+                                                           "RecIDs":  [
+                                                                          "29.4"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "33",
+                                                           "Name":  "BRADLEY D HAYES",
+                                                           "RecIDs":  [
+                                                                          "30.9"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "4329 SUMMER STAR LN KELLER TX 76248",
+                              "RecIDs":  [
+                                             [
+                                                 "29.1",
+                                                 "29.10",
+                                                 "29.12",
+                                                 "29.16",
+                                                 "29.2",
+                                                 "29.7"
+                                             ],
+                                             [
+                                                 "30.11",
+                                                 "30.14",
+                                                 "30.18",
+                                                 "30.3"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "32",
+                                                           "Name":  "GLADYS HAYES; GLADYS RODRIGUEZ",
+                                                           "RecIDs":  [
+                                                                          "29.1",
+                                                                          "29.10",
+                                                                          "29.12",
+                                                                          "29.16",
+                                                                          "29.2",
+                                                                          "29.7"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "33",
+                                                           "Name":  "BRADLEY D HAYES",
+                                                           "RecIDs":  [
+                                                                          "30.11",
+                                                                          "30.14",
+                                                                          "30.18",
+                                                                          "30.3"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "5485 ORANGE TREE LN MIDLOTHIAN TX 76065",
+                              "RecIDs":  [
+                                             [
+                                                 "29.5"
+                                             ],
+                                             [
+                                                 "30.4",
+                                                 "30.7"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "32",
+                                                           "Name":  "GLADYS HAYES; GLADYS RODRIGUEZ",
+                                                           "RecIDs":  [
+                                                                          "29.5"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "33",
+                                                           "Name":  "BRADLEY D HAYES",
+                                                           "RecIDs":  [
+                                                                          "30.4",
+                                                                          "30.7"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "690362 PO BOX SAN ANTONIO TX 78269",
+                              "RecIDs":  [
+                                             [
+                                                 "29.13"
+                                             ],
+                                             [
+                                                 "30.13"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "32",
+                                                           "Name":  "GLADYS HAYES; GLADYS RODRIGUEZ",
+                                                           "RecIDs":  [
+                                                                          "29.13"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "33",
+                                                           "Name":  "BRADLEY D HAYES",
+                                                           "RecIDs":  [
+                                                                          "30.13"
+                                                                      ]
+                                                       }
+                                                   ]
+                          }
+                      ],
+        "Direct_Links":  [
+                             [
+                                 "0",
+                                 "0"
+                             ],
+                             [
+                                 "15",
+                                 "6"
+                             ],
+                             [
+                                 "0",
+                                 "1"
+                             ],
+                             [
+                                 "0",
+                                 "0"
+                             ]
+                         ],
+        "Indirect_Links":  [
+                               [
+                                   "36"
+                               ],
+                               [
+                                   "28"
+                               ]
+                           ]
+    },
+    {
+        "HouseholdMovementsID":  "9",
+        "Clusters":  [
+                         {
+                             "Slot":  "a",
+                             "ClusterID":  "35",
+                             "Name":  "JEANIE GAVREL"
+                         },
+                         {
+                             "Slot":  "b",
+                             "ClusterID":  "36",
+                             "Name":  "SAMUEL S GAMAN"
+                         }
+                     ],
+        "Addresses":  [
+                          {
+                              "Address":  "18600 DALLAS PKWY APT 1534 DALLAS TX 75287",
+                              "RecIDs":  [
+                                             [
+                                                 "32.3"
+                                             ],
+                                             [
+                                                 "33.14"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "35",
+                                                           "Name":  "JEANIE GAVREL",
+                                                           "RecIDs":  [
+                                                                          "32.3"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "36",
+                                                           "Name":  "SAMUEL S GAMAN",
+                                                           "RecIDs":  [
+                                                                          "33.14"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "3414 YUPON ST HOUSTON TX 77006",
+                              "RecIDs":  [
+                                             [
+                                                 "32.6"
+                                             ],
+                                             [
+                                                 "33.12"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "35",
+                                                           "Name":  "JEANIE GAVREL",
+                                                           "RecIDs":  [
+                                                                          "32.6"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "36",
+                                                           "Name":  "SAMUEL S GAMAN",
+                                                           "RecIDs":  [
+                                                                          "33.12"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "810892 PO BOX DALLAS TX 75381",
+                              "RecIDs":  [
+                                             [
+                                                 "32.9"
+                                             ],
+                                             [
+                                                 "33.6"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "35",
+                                                           "Name":  "JEANIE GAVREL",
+                                                           "RecIDs":  [
+                                                                          "32.9"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "36",
+                                                           "Name":  "SAMUEL S GAMAN",
+                                                           "RecIDs":  [
+                                                                          "33.6"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "9201 SEVEN OAKS LN DENTON TX 76210",
+                              "RecIDs":  [
+                                             [
+                                                 "32.1",
+                                                 "32.2",
+                                                 "32.4",
+                                                 "32.7"
+                                             ],
+                                             [
+                                                 "33.10",
+                                                 "33.15",
+                                                 "33.2",
+                                                 "33.3",
+                                                 "33.8",
+                                                 "33.9"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "35",
+                                                           "Name":  "JEANIE GAVREL",
+                                                           "RecIDs":  [
+                                                                          "32.1",
+                                                                          "32.2",
+                                                                          "32.4",
+                                                                          "32.7"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "36",
+                                                           "Name":  "SAMUEL S GAMAN",
+                                                           "RecIDs":  [
+                                                                          "33.10",
+                                                                          "33.15",
+                                                                          "33.2",
+                                                                          "33.3",
+                                                                          "33.8",
+                                                                          "33.9"
+                                                                      ]
+                                                       }
+                                                   ]
+                          }
+                      ],
+        "Direct_Links":  [
+                             [
+                                 "0",
+                                 "0"
+                             ],
+                             [
+                                 "0",
+                                 "0"
+                             ],
+                             [
+                                 "0",
+                                 "0"
+                             ],
+                             [
+                                 "6",
+                                 "15"
+                             ]
+                         ],
+        "Indirect_Links":  [
+                               [
+                                   "21"
+                               ],
+                               [
+                                   "36"
+                               ]
+                           ]
+    },
+    {
+        "HouseholdMovementsID":  "10",
+        "Clusters":  [
+                         {
+                             "Slot":  "a",
+                             "ClusterID":  "39",
+                             "Name":  "YVETTE R ARIZPE; YVETTE R RICHARDSON"
+                         },
+                         {
+                             "Slot":  "b",
+                             "ClusterID":  "40",
+                             "Name":  "PAUL ARIZPE"
+                         }
+                     ],
+        "Addresses":  [
+                          {
+                              "Address":  "3632 OLD KEYSTONE RD TARPON SPRINGS FL 34688",
+                              "RecIDs":  [
+                                             [
+                                                 "36.1",
+                                                 "36.4",
+                                                 "36.6",
+                                                 "36.7",
+                                                 "36.8",
+                                                 "36.9"
+                                             ],
+                                             [
+                                                 "37.5"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "39",
+                                                           "Name":  "YVETTE R ARIZPE; YVETTE R RICHARDSON",
+                                                           "RecIDs":  [
+                                                                          "36.1",
+                                                                          "36.4",
+                                                                          "36.6",
+                                                                          "36.7",
+                                                                          "36.8",
+                                                                          "36.9"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "40",
+                                                           "Name":  "PAUL ARIZPE",
+                                                           "RecIDs":  [
+                                                                          "37.5"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "5617 BISHOP LN JACKSONVILLE FL 32207",
+                              "RecIDs":  [
+                                             [
+                                                 "36.11",
+                                                 "36.2"
+                                             ],
+                                             [
+                                                 "37.2",
+                                                 "37.3"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "39",
+                                                           "Name":  "YVETTE R ARIZPE; YVETTE R RICHARDSON",
+                                                           "RecIDs":  [
+                                                                          "36.11",
+                                                                          "36.2"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "40",
+                                                           "Name":  "PAUL ARIZPE",
+                                                           "RecIDs":  [
+                                                                          "37.2",
+                                                                          "37.3"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "6623 CAMBRIDGE PARK DR APOLLO BEACH FL 33572",
+                              "RecIDs":  [
+                                             [
+                                                 "36.3"
+                                             ],
+                                             [
+                                                 "37.4"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "39",
+                                                           "Name":  "YVETTE R ARIZPE; YVETTE R RICHARDSON",
+                                                           "RecIDs":  [
+                                                                          "36.3"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "40",
+                                                           "Name":  "PAUL ARIZPE",
+                                                           "RecIDs":  [
+                                                                          "37.4"
+                                                                      ]
+                                                       }
+                                                   ]
+                          }
+                      ],
+        "Direct_Links":  [
+                             [
+                                 "15",
+                                 "0"
+                             ],
+                             [
+                                 "1",
+                                 "1"
+                             ],
+                             [
+                                 "0",
+                                 "0"
+                             ]
+                         ],
+        "Indirect_Links":  [
+                               [
+                                   "36"
+                               ],
+                               [
+                                   "6"
+                               ]
+                           ]
+    },
+    {
+        "HouseholdMovementsID":  "11",
+        "Clusters":  [
+                         {
+                             "Slot":  "a",
+                             "ClusterID":  "47",
+                             "Name":  "BETHANY M EVELETH"
+                         },
+                         {
+                             "Slot":  "b",
+                             "ClusterID":  "48",
+                             "Name":  "MICHAEL L WYNN"
+                         }
+                     ],
+        "Addresses":  [
+                          {
+                              "Address":  "1209 DEL TORO DR LADY LAKE FL 32159",
+                              "RecIDs":  [
+                                             [
+                                                 "44.1",
+                                                 "44.8"
+                                             ],
+                                             [
+                                                 "45.4",
+                                                 "45.5"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "47",
+                                                           "Name":  "BETHANY M EVELETH",
+                                                           "RecIDs":  [
+                                                                          "44.1",
+                                                                          "44.8"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "48",
+                                                           "Name":  "MICHAEL L WYNN",
+                                                           "RecIDs":  [
+                                                                          "45.4",
+                                                                          "45.5"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "210 TEMPLE LN BELLEAIR BLUFFS FL 33770",
+                              "RecIDs":  [
+                                             [
+                                                 "44.10",
+                                                 "44.12",
+                                                 "44.13",
+                                                 "44.2"
+                                             ],
+                                             [
+                                                 "45.7"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "47",
+                                                           "Name":  "BETHANY M EVELETH",
+                                                           "RecIDs":  [
+                                                                          "44.10",
+                                                                          "44.12",
+                                                                          "44.13",
+                                                                          "44.2"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "48",
+                                                           "Name":  "MICHAEL L WYNN",
+                                                           "RecIDs":  [
+                                                                          "45.7"
+                                                                      ]
+                                                       }
+                                                   ]
+                          }
+                      ],
+        "Direct_Links":  [
+                             [
+                                 "1",
+                                 "1"
+                             ],
+                             [
+                                 "6",
+                                 "0"
+                             ]
+                         ],
+        "Indirect_Links":  [
+                               [
+                                   "15"
+                               ],
+                               [
+                                   "3"
+                               ]
+                           ]
+    },
+    {
+        "HouseholdMovementsID":  "12",
+        "Clusters":  [
+                         {
+                             "Slot":  "a",
+                             "ClusterID":  "52",
+                             "Name":  "KIMBERLY M EVERALL"
+                         },
+                         {
+                             "Slot":  "b",
+                             "ClusterID":  "53",
+                             "Name":  "GARLIN TRAINITO"
+                         }
+                     ],
+        "Addresses":  [
+                          {
+                              "Address":  "160 WENDELL CT SAN ANDREAS CA 95249",
+                              "RecIDs":  [
+                                             [
+                                                 "49.5"
+                                             ],
+                                             [
+                                                 "50.10",
+                                                 "50.15",
+                                                 "50.16",
+                                                 "50.17",
+                                                 "50.5",
+                                                 "50.8"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "52",
+                                                           "Name":  "KIMBERLY M EVERALL",
+                                                           "RecIDs":  [
+                                                                          "49.5"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "53",
+                                                           "Name":  "GARLIN TRAINITO",
+                                                           "RecIDs":  [
+                                                                          "50.10",
+                                                                          "50.15",
+                                                                          "50.16",
+                                                                          "50.17",
+                                                                          "50.5",
+                                                                          "50.8"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "316 N SAVANNAH ST LOS ANGELES CA 90033",
+                              "RecIDs":  [
+                                             [
+                                                 "49.4"
+                                             ],
+                                             [
+                                                 "50.1",
+                                                 "50.14",
+                                                 "50.2",
+                                                 "50.4",
+                                                 "50.7",
+                                                 "50.9"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "52",
+                                                           "Name":  "KIMBERLY M EVERALL",
+                                                           "RecIDs":  [
+                                                                          "49.4"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "53",
+                                                           "Name":  "GARLIN TRAINITO",
+                                                           "RecIDs":  [
+                                                                          "50.1",
+                                                                          "50.14",
+                                                                          "50.2",
+                                                                          "50.4",
+                                                                          "50.7",
+                                                                          "50.9"
+                                                                      ]
+                                                       }
+                                                   ]
+                          }
+                      ],
+        "Direct_Links":  [
+                             [
+                                 "0",
+                                 "15"
+                             ],
+                             [
+                                 "0",
+                                 "15"
+                             ]
+                         ],
+        "Indirect_Links":  [
+                               [
+                                   "1"
+                               ],
+                               [
+                                   "66"
+                               ]
+                           ]
+    },
+    {
+        "HouseholdMovementsID":  "13",
+        "Clusters":  [
+                         {
+                             "Slot":  "a",
+                             "ClusterID":  "56",
+                             "Name":  "MARIA S BAUER"
+                         },
+                         {
+                             "Slot":  "b",
+                             "ClusterID":  "57",
+                             "Name":  "JUAN R SCOTT"
+                         }
+                     ],
+        "Addresses":  [
+                          {
+                              "Address":  "2351 SUNSET BLVD STE 170 ROCKLIN CA 95765",
+                              "RecIDs":  [
+                                             [
+                                                 "53.10",
+                                                 "53.12",
+                                                 "53.13",
+                                                 "53.14",
+                                                 "53.3",
+                                                 "53.4"
+                                             ],
+                                             [
+                                                 "54.6"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "56",
+                                                           "Name":  "MARIA S BAUER",
+                                                           "RecIDs":  [
+                                                                          "53.10",
+                                                                          "53.12",
+                                                                          "53.13",
+                                                                          "53.14",
+                                                                          "53.3",
+                                                                          "53.4"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "57",
+                                                           "Name":  "JUAN R SCOTT",
+                                                           "RecIDs":  [
+                                                                          "54.6"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "822 COMMONWEALTH AVE VENICE CA 90291",
+                              "RecIDs":  [
+                                             [
+                                                 "53.7"
+                                             ],
+                                             [
+                                                 "54.9"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "56",
+                                                           "Name":  "MARIA S BAUER",
+                                                           "RecIDs":  [
+                                                                          "53.7"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "57",
+                                                           "Name":  "JUAN R SCOTT",
+                                                           "RecIDs":  [
+                                                                          "54.9"
+                                                                      ]
+                                                       }
+                                                   ]
+                          }
+                      ],
+        "Direct_Links":  [
+                             [
+                                 "15",
+                                 "0"
+                             ],
+                             [
+                                 "0",
+                                 "0"
+                             ]
+                         ],
+        "Indirect_Links":  [
+                               [
+                                   "21"
+                               ],
+                               [
+                                   "1"
+                               ]
+                           ]
+    },
+    {
+        "HouseholdMovementsID":  "14",
+        "Clusters":  [
+                         {
+                             "Slot":  "a",
+                             "ClusterID":  "58",
+                             "Name":  "PATRICIA HIGINSON"
+                         },
+                         {
+                             "Slot":  "b",
+                             "ClusterID":  "59",
+                             "Name":  "RICARDO H FINGAR"
+                         }
+                     ],
+        "Addresses":  [
+                          {
+                              "Address":  "4719 PARK ST PANAMA CITY FL 32404",
+                              "RecIDs":  [
+                                             [
+                                                 "55.4"
+                                             ],
+                                             [
+                                                 "56.1",
+                                                 "56.3"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "58",
+                                                           "Name":  "PATRICIA HIGINSON",
+                                                           "RecIDs":  [
+                                                                          "55.4"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "59",
+                                                           "Name":  "RICARDO H FINGAR",
+                                                           "RecIDs":  [
+                                                                          "56.1",
+                                                                          "56.3"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "548 VISTA WAY LN EAGLE LAKE FL 33839",
+                              "RecIDs":  [
+                                             [
+                                                 "55.11",
+                                                 "55.13",
+                                                 "55.9"
+                                             ],
+                                             [
+                                                 "56.6"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "58",
+                                                           "Name":  "PATRICIA HIGINSON",
+                                                           "RecIDs":  [
+                                                                          "55.11",
+                                                                          "55.13",
+                                                                          "55.9"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "59",
+                                                           "Name":  "RICARDO H FINGAR",
+                                                           "RecIDs":  [
+                                                                          "56.6"
+                                                                      ]
+                                                       }
+                                                   ]
+                          }
+                      ],
+        "Direct_Links":  [
+                             [
+                                 "0",
+                                 "1"
+                             ],
+                             [
+                                 "3",
+                                 "0"
+                             ]
+                         ],
+        "Indirect_Links":  [
+                               [
+                                   "6"
+                               ],
+                               [
+                                   "3"
+                               ]
+                           ]
+    },
+    {
+        "HouseholdMovementsID":  "15",
+        "Clusters":  [
+                         {
+                             "Slot":  "a",
+                             "ClusterID":  "60",
+                             "Name":  "KELLY A NIGRO; KELLY A WEBB"
+                         },
+                         {
+                             "Slot":  "b",
+                             "ClusterID":  "61",
+                             "Name":  "RICHARD WEBB"
+                         }
+                     ],
+        "Addresses":  [
+                          {
+                              "Address":  "2700 LOCKSLEY RD MELBOURNE FL 32935",
+                              "RecIDs":  [
+                                             [
+                                                 "57.2"
+                                             ],
+                                             [
+                                                 "58.5"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "60",
+                                                           "Name":  "KELLY A NIGRO; KELLY A WEBB",
+                                                           "RecIDs":  [
+                                                                          "57.2"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "61",
+                                                           "Name":  "RICHARD WEBB",
+                                                           "RecIDs":  [
+                                                                          "58.5"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "7374 WESCOTT TER LAKE WORTH FL 33467",
+                              "RecIDs":  [
+                                             [
+                                                 "57.1",
+                                                 "57.3",
+                                                 "57.4",
+                                                 "57.5",
+                                                 "57.7",
+                                                 "57.9"
+                                             ],
+                                             [
+                                                 "58.1",
+                                                 "58.3",
+                                                 "58.4",
+                                                 "58.6"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "60",
+                                                           "Name":  "KELLY A NIGRO; KELLY A WEBB",
+                                                           "RecIDs":  [
+                                                                          "57.1",
+                                                                          "57.3",
+                                                                          "57.4",
+                                                                          "57.5",
+                                                                          "57.7",
+                                                                          "57.9"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "61",
+                                                           "Name":  "RICHARD WEBB",
+                                                           "RecIDs":  [
+                                                                          "58.1",
+                                                                          "58.3",
+                                                                          "58.4",
+                                                                          "58.6"
+                                                                      ]
+                                                       }
+                                                   ]
+                          }
+                      ],
+        "Direct_Links":  [
+                             [
+                                 "0",
+                                 "0"
+                             ],
+                             [
+                                 "15",
+                                 "6"
+                             ]
+                         ],
+        "Indirect_Links":  [
+                               [
+                                   "21"
+                               ],
+                               [
+                                   "10"
+                               ]
+                           ]
+    },
+    {
+        "HouseholdMovementsID":  "16",
+        "Clusters":  [
+                         {
+                             "Slot":  "a",
+                             "ClusterID":  "64",
+                             "Name":  "DORINDA R MOMOH"
+                         },
+                         {
+                             "Slot":  "b",
+                             "ClusterID":  "65",
+                             "Name":  "PAUL G RAYMOND"
+                         }
+                     ],
+        "Addresses":  [
+                          {
+                              "Address":  "13992 LIBBY LN WARD AR 72176",
+                              "RecIDs":  [
+                                             [
+                                                 "61.1",
+                                                 "61.2",
+                                                 "61.5",
+                                                 "61.7"
+                                             ],
+                                             [
+                                                 "62.1",
+                                                 "62.13",
+                                                 "62.2",
+                                                 "62.5",
+                                                 "62.7",
+                                                 "62.8"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "64",
+                                                           "Name":  "DORINDA R MOMOH",
+                                                           "RecIDs":  [
+                                                                          "61.1",
+                                                                          "61.2",
+                                                                          "61.5",
+                                                                          "61.7"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "65",
+                                                           "Name":  "PAUL G RAYMOND",
+                                                           "RecIDs":  [
+                                                                          "62.1",
+                                                                          "62.13",
+                                                                          "62.2",
+                                                                          "62.5",
+                                                                          "62.7",
+                                                                          "62.8"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "5313 ALLEN ST NORTH LITTLE ROCK AR 72118",
+                              "RecIDs":  [
+                                             [
+                                                 "61.3",
+                                                 "61.6"
+                                             ],
+                                             [
+                                                 "62.10"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "64",
+                                                           "Name":  "DORINDA R MOMOH",
+                                                           "RecIDs":  [
+                                                                          "61.3",
+                                                                          "61.6"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "65",
+                                                           "Name":  "PAUL G RAYMOND",
+                                                           "RecIDs":  [
+                                                                          "62.10"
+                                                                      ]
+                                                       }
+                                                   ]
+                          }
+                      ],
+        "Direct_Links":  [
+                             [
+                                 "6",
+                                 "15"
+                             ],
+                             [
+                                 "1",
+                                 "0"
+                             ]
+                         ],
+        "Indirect_Links":  [
+                               [
+                                   "15"
+                               ],
+                               [
+                                   "21"
+                               ]
+                           ]
+    },
+    {
+        "HouseholdMovementsID":  "17",
+        "Clusters":  [
+                         {
+                             "Slot":  "a",
+                             "ClusterID":  "69",
+                             "Name":  "JACY A MURPHY"
+                         },
+                         {
+                             "Slot":  "b",
+                             "ClusterID":  "70",
+                             "Name":  "GEORGE M EMERT"
+                         }
+                     ],
+        "Addresses":  [
+                          {
+                              "Address":  "15897 PALM VISTA DR HARLINGEN TX 78552",
+                              "RecIDs":  [
+                                             [
+                                                 "66.1",
+                                                 "66.3"
+                                             ],
+                                             [
+                                                 "67.1",
+                                                 "67.2",
+                                                 "67.4",
+                                                 "67.6",
+                                                 "67.7",
+                                                 "67.8"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "69",
+                                                           "Name":  "JACY A MURPHY",
+                                                           "RecIDs":  [
+                                                                          "66.1",
+                                                                          "66.3"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "70",
+                                                           "Name":  "GEORGE M EMERT",
+                                                           "RecIDs":  [
+                                                                          "67.1",
+                                                                          "67.2",
+                                                                          "67.4",
+                                                                          "67.6",
+                                                                          "67.7",
+                                                                          "67.8"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "2115 FORELAND DR HOUSTON TX 77077",
+                              "RecIDs":  [
+                                             [
+                                                 "66.5",
+                                                 "66.7"
+                                             ],
+                                             [
+                                                 "67.9"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "69",
+                                                           "Name":  "JACY A MURPHY",
+                                                           "RecIDs":  [
+                                                                          "66.5",
+                                                                          "66.7"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "70",
+                                                           "Name":  "GEORGE M EMERT",
+                                                           "RecIDs":  [
+                                                                          "67.9"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "860105 PO BOX PLANO TX 75086",
+                              "RecIDs":  [
+                                             [
+                                                 "66.6"
+                                             ],
+                                             [
+                                                 "67.3"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "69",
+                                                           "Name":  "JACY A MURPHY",
+                                                           "RecIDs":  [
+                                                                          "66.6"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "70",
+                                                           "Name":  "GEORGE M EMERT",
+                                                           "RecIDs":  [
+                                                                          "67.3"
+                                                                      ]
+                                                       }
+                                                   ]
+                          }
+                      ],
+        "Direct_Links":  [
+                             [
+                                 "1",
+                                 "15"
+                             ],
+                             [
+                                 "1",
+                                 "0"
+                             ],
+                             [
+                                 "0",
+                                 "0"
+                             ]
+                         ],
+        "Indirect_Links":  [
+                               [
+                                   "10"
+                               ],
+                               [
+                                   "28"
+                               ]
+                           ]
+    },
+    {
+        "HouseholdMovementsID":  "18",
+        "Clusters":  [
+                         {
+                             "Slot":  "a",
+                             "ClusterID":  "76",
+                             "Name":  "JENNIFER G HODGES"
+                         },
+                         {
+                             "Slot":  "b",
+                             "ClusterID":  "77",
+                             "Name":  "IVAN M JOHNSON"
+                         }
+                     ],
+        "Addresses":  [
+                          {
+                              "Address":  "28 NARANJA RD DEBARY FL 32713",
+                              "RecIDs":  [
+                                             [
+                                                 "73.2"
+                                             ],
+                                             [
+                                                 "74.1",
+                                                 "74.11",
+                                                 "74.17",
+                                                 "74.7"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "76",
+                                                           "Name":  "JENNIFER G HODGES",
+                                                           "RecIDs":  [
+                                                                          "73.2"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "77",
+                                                           "Name":  "IVAN M JOHNSON",
+                                                           "RecIDs":  [
+                                                                          "74.1",
+                                                                          "74.11",
+                                                                          "74.17",
+                                                                          "74.7"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "6322 W FAIRLEE CT CRYSTAL RIVER FL 34428",
+                              "RecIDs":  [
+                                             [
+                                                 "73.3"
+                                             ],
+                                             [
+                                                 "74.20"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "76",
+                                                           "Name":  "JENNIFER G HODGES",
+                                                           "RecIDs":  [
+                                                                          "73.3"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "77",
+                                                           "Name":  "IVAN M JOHNSON",
+                                                           "RecIDs":  [
+                                                                          "74.20"
+                                                                      ]
+                                                       }
+                                                   ]
+                          }
+                      ],
+        "Direct_Links":  [
+                             [
+                                 "0",
+                                 "6"
+                             ],
+                             [
+                                 "0",
+                                 "0"
+                             ]
+                         ],
+        "Indirect_Links":  [
+                               [
+                                   "1"
+                               ],
+                               [
+                                   "10"
+                               ]
+                           ]
+    },
+    {
+        "HouseholdMovementsID":  "19",
+        "Clusters":  [
+                         {
+                             "Slot":  "a",
+                             "ClusterID":  "78",
+                             "Name":  "DANA L G; DANA L STEVENS"
+                         },
+                         {
+                             "Slot":  "b",
+                             "ClusterID":  "79",
+                             "Name":  "JOSEFINA A GOSSETT"
+                         }
+                     ],
+        "Addresses":  [
+                          {
+                              "Address":  "2891 SE PACE DR PORT SAINT LUCIE FL 34984",
+                              "RecIDs":  [
+                                             [
+                                                 "75.7"
+                                             ],
+                                             [
+                                                 "76.8"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "78",
+                                                           "Name":  "DANA L G; DANA L STEVENS",
+                                                           "RecIDs":  [
+                                                                          "75.7"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "79",
+                                                           "Name":  "JOSEFINA A GOSSETT",
+                                                           "RecIDs":  [
+                                                                          "76.8"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "9137 85TH AVE N LARGO FL 33777",
+                              "RecIDs":  [
+                                             [
+                                                 "75.5"
+                                             ],
+                                             [
+                                                 "76.1",
+                                                 "76.2",
+                                                 "76.3",
+                                                 "76.4",
+                                                 "76.5",
+                                                 "76.6"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "78",
+                                                           "Name":  "DANA L G; DANA L STEVENS",
+                                                           "RecIDs":  [
+                                                                          "75.5"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "79",
+                                                           "Name":  "JOSEFINA A GOSSETT",
+                                                           "RecIDs":  [
+                                                                          "76.1",
+                                                                          "76.2",
+                                                                          "76.3",
+                                                                          "76.4",
+                                                                          "76.5",
+                                                                          "76.6"
+                                                                      ]
+                                                       }
+                                                   ]
+                          }
+                      ],
+        "Direct_Links":  [
+                             [
+                                 "0",
+                                 "0"
+                             ],
+                             [
+                                 "0",
+                                 "15"
+                             ]
+                         ],
+        "Indirect_Links":  [
+                               [
+                                   "1"
+                               ],
+                               [
+                                   "21"
+                               ]
+                           ]
+    },
+    {
+        "HouseholdMovementsID":  "20",
+        "Clusters":  [
+                         {
+                             "Slot":  "a",
+                             "ClusterID":  "83",
+                             "Name":  "KANESHA J MORALES"
+                         },
+                         {
+                             "Slot":  "b",
+                             "ClusterID":  "84",
+                             "Name":  "JAMES D BLAKE"
+                         }
+                     ],
+        "Addresses":  [
+                          {
+                              "Address":  "1215 E 43RD PL APT 3 LOS ANGELES CA 90011",
+                              "RecIDs":  [
+                                             [
+                                                 "79.2"
+                                             ],
+                                             [
+                                                 "80.1",
+                                                 "80.3",
+                                                 "80.4",
+                                                 "80.6",
+                                                 "80.8",
+                                                 "80.9"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "83",
+                                                           "Name":  "KANESHA J MORALES",
+                                                           "RecIDs":  [
+                                                                          "79.2"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "84",
+                                                           "Name":  "JAMES D BLAKE",
+                                                           "RecIDs":  [
+                                                                          "80.1",
+                                                                          "80.3",
+                                                                          "80.4",
+                                                                          "80.6",
+                                                                          "80.8",
+                                                                          "80.9"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "12741 BISCAYNE AVE VICTORVILLE CA 92392",
+                              "RecIDs":  [
+                                             [
+                                                 "79.3",
+                                                 "79.7"
+                                             ],
+                                             [
+                                                 "80.2"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "83",
+                                                           "Name":  "KANESHA J MORALES",
+                                                           "RecIDs":  [
+                                                                          "79.3",
+                                                                          "79.7"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "84",
+                                                           "Name":  "JAMES D BLAKE",
+                                                           "RecIDs":  [
+                                                                          "80.2"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "17950 MIDWAY RD TRACY CA 95377",
+                              "RecIDs":  [
+                                             [
+                                                 "79.5"
+                                             ],
+                                             [
+                                                 "80.7"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "83",
+                                                           "Name":  "KANESHA J MORALES",
+                                                           "RecIDs":  [
+                                                                          "79.5"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "84",
+                                                           "Name":  "JAMES D BLAKE",
+                                                           "RecIDs":  [
+                                                                          "80.7"
+                                                                      ]
+                                                       }
+                                                   ]
+                          }
+                      ],
+        "Direct_Links":  [
+                             [
+                                 "0",
+                                 "15"
+                             ],
+                             [
+                                 "1",
+                                 "0"
+                             ],
+                             [
+                                 "0",
+                                 "0"
+                             ]
+                         ],
+        "Indirect_Links":  [
+                               [
+                                   "6"
+                               ],
+                               [
+                                   "28"
+                               ]
+                           ]
+    },
+    {
+        "HouseholdMovementsID":  "21",
+        "Clusters":  [
+                         {
+                             "Slot":  "a",
+                             "ClusterID":  "85",
+                             "Name":  "LARHONDA A THOMAS; LARHONDA A WAIBEL"
+                         },
+                         {
+                             "Slot":  "b",
+                             "ClusterID":  "86",
+                             "Name":  "RONALD M WAIBEL"
+                         }
+                     ],
+        "Addresses":  [
+                          {
+                              "Address":  "17915 LOOKOUT LAKE CIR FLINT TX 75762",
+                              "RecIDs":  [
+                                             [
+                                                 "81.2"
+                                             ],
+                                             [
+                                                 "82.10",
+                                                 "82.12",
+                                                 "82.13",
+                                                 "82.14",
+                                                 "82.7",
+                                                 "82.9"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "85",
+                                                           "Name":  "LARHONDA A THOMAS; LARHONDA A WAIBEL",
+                                                           "RecIDs":  [
+                                                                          "81.2"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "86",
+                                                           "Name":  "RONALD M WAIBEL",
+                                                           "RecIDs":  [
+                                                                          "82.10",
+                                                                          "82.12",
+                                                                          "82.13",
+                                                                          "82.14",
+                                                                          "82.7",
+                                                                          "82.9"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "225 WILLOW CREEK LN FORT WORTH TX 76134",
+                              "RecIDs":  [
+                                             [
+                                                 "81.4"
+                                             ],
+                                             [
+                                                 "82.1",
+                                                 "82.5"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "85",
+                                                           "Name":  "LARHONDA A THOMAS; LARHONDA A WAIBEL",
+                                                           "RecIDs":  [
+                                                                          "81.4"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "86",
+                                                           "Name":  "RONALD M WAIBEL",
+                                                           "RecIDs":  [
+                                                                          "82.1",
+                                                                          "82.5"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "601 CYPRESS STATION DR APT 406 HOUSTON TX 77090",
+                              "RecIDs":  [
+                                             [
+                                                 "81.1",
+                                                 "81.3",
+                                                 "81.6",
+                                                 "81.8"
+                                             ],
+                                             [
+                                                 "82.8"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "85",
+                                                           "Name":  "LARHONDA A THOMAS; LARHONDA A WAIBEL",
+                                                           "RecIDs":  [
+                                                                          "81.1",
+                                                                          "81.3",
+                                                                          "81.6",
+                                                                          "81.8"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "86",
+                                                           "Name":  "RONALD M WAIBEL",
+                                                           "RecIDs":  [
+                                                                          "82.8"
+                                                                      ]
+                                                       }
+                                                   ]
+                          }
+                      ],
+        "Direct_Links":  [
+                             [
+                                 "0",
+                                 "15"
+                             ],
+                             [
+                                 "0",
+                                 "1"
+                             ],
+                             [
+                                 "6",
+                                 "0"
+                             ]
+                         ],
+        "Indirect_Links":  [
+                               [
+                                   "15"
+                               ],
+                               [
+                                   "36"
+                               ]
+                           ]
+    },
+    {
+        "HouseholdMovementsID":  "22",
+        "Clusters":  [
+                         {
+                             "Slot":  "a",
+                             "ClusterID":  "88",
+                             "Name":  "ELLEN C ROBERTS"
+                         },
+                         {
+                             "Slot":  "b",
+                             "ClusterID":  "89",
+                             "Name":  "ANTHONY A MARTENS"
+                         }
+                     ],
+        "Addresses":  [
+                          {
+                              "Address":  "23012 OXFORD PL BOCA RATON FL 33433",
+                              "RecIDs":  [
+                                             [
+                                                 "84.2",
+                                                 "84.4",
+                                                 "84.6",
+                                                 "84.7"
+                                             ],
+                                             [
+                                                 "85.5"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "88",
+                                                           "Name":  "ELLEN C ROBERTS",
+                                                           "RecIDs":  [
+                                                                          "84.2",
+                                                                          "84.4",
+                                                                          "84.6",
+                                                                          "84.7"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "89",
+                                                           "Name":  "ANTHONY A MARTENS",
+                                                           "RecIDs":  [
+                                                                          "85.5"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "4117 QUAIL RANCH RD NEW SMYRNA BEACH FL 32168",
+                              "RecIDs":  [
+                                             [
+                                                 "84.3"
+                                             ],
+                                             [
+                                                 "85.1"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "88",
+                                                           "Name":  "ELLEN C ROBERTS",
+                                                           "RecIDs":  [
+                                                                          "84.3"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "89",
+                                                           "Name":  "ANTHONY A MARTENS",
+                                                           "RecIDs":  [
+                                                                          "85.1"
+                                                                      ]
+                                                       }
+                                                   ]
+                          }
+                      ],
+        "Direct_Links":  [
+                             [
+                                 "6",
+                                 "0"
+                             ],
+                             [
+                                 "0",
+                                 "0"
+                             ]
+                         ],
+        "Indirect_Links":  [
+                               [
+                                   "10"
+                               ],
+                               [
+                                   "1"
+                               ]
+                           ]
+    },
+    {
+        "HouseholdMovementsID":  "23",
+        "Clusters":  [
+                         {
+                             "Slot":  "a",
+                             "ClusterID":  "95",
+                             "Name":  "DEBORAH H HERMOSILLO"
+                         },
+                         {
+                             "Slot":  "b",
+                             "ClusterID":  "96",
+                             "Name":  "MITCHELL E HUGGINS"
+                         }
+                     ],
+        "Addresses":  [
+                          {
+                              "Address":  "1843 PO BOX POMONA CA 91769",
+                              "RecIDs":  [
+                                             [
+                                                 "91.3"
+                                             ],
+                                             [
+                                                 "92.12"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "95",
+                                                           "Name":  "DEBORAH H HERMOSILLO",
+                                                           "RecIDs":  [
+                                                                          "91.3"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "96",
+                                                           "Name":  "MITCHELL E HUGGINS",
+                                                           "RecIDs":  [
+                                                                          "92.12"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "1857 WRITE ST POMONA CA 91766",
+                              "RecIDs":  [
+                                             [
+                                                 "91.7"
+                                             ],
+                                             [
+                                                 "92.3"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "95",
+                                                           "Name":  "DEBORAH H HERMOSILLO",
+                                                           "RecIDs":  [
+                                                                          "91.7"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "96",
+                                                           "Name":  "MITCHELL E HUGGINS",
+                                                           "RecIDs":  [
+                                                                          "92.3"
+                                                                      ]
+                                                       }
+                                                   ]
+                          }
+                      ],
+        "Direct_Links":  [
+                             [
+                                 "0",
+                                 "0"
+                             ],
+                             [
+                                 "0",
+                                 "0"
+                             ]
+                         ],
+        "Indirect_Links":  [
+                               [
+                                   "1"
+                               ],
+                               [
+                                   "1"
+                               ]
+                           ]
+    },
+    {
+        "HouseholdMovementsID":  "24",
+        "Clusters":  [
+                         {
+                             "Slot":  "a",
+                             "ClusterID":  "97",
+                             "Name":  "SUSANNAH T JACOBSON"
+                         },
+                         {
+                             "Slot":  "b",
+                             "ClusterID":  "98",
+                             "Name":  "JUAN M FERREIRA"
+                         }
+                     ],
+        "Addresses":  [
+                          {
+                              "Address":  "3675 CHANNING AVE NORTH PORT FL 34287",
+                              "RecIDs":  [
+                                             [
+                                                 "93.11"
+                                             ],
+                                             [
+                                                 "94.1",
+                                                 "94.13"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "97",
+                                                           "Name":  "SUSANNAH T JACOBSON",
+                                                           "RecIDs":  [
+                                                                          "93.11"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "98",
+                                                           "Name":  "JUAN M FERREIRA",
+                                                           "RecIDs":  [
+                                                                          "94.1",
+                                                                          "94.13"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "445 MATTIE DR LAKELAND FL 33809",
+                              "RecIDs":  [
+                                             [
+                                                 "93.3"
+                                             ],
+                                             [
+                                                 "94.11",
+                                                 "94.18"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "97",
+                                                           "Name":  "SUSANNAH T JACOBSON",
+                                                           "RecIDs":  [
+                                                                          "93.3"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "98",
+                                                           "Name":  "JUAN M FERREIRA",
+                                                           "RecIDs":  [
+                                                                          "94.11",
+                                                                          "94.18"
+                                                                      ]
+                                                       }
+                                                   ]
+                          }
+                      ],
+        "Direct_Links":  [
+                             [
+                                 "0",
+                                 "1"
+                             ],
+                             [
+                                 "0",
+                                 "1"
+                             ]
+                         ],
+        "Indirect_Links":  [
+                               [
+                                   "1"
+                               ],
+                               [
+                                   "6"
+                               ]
+                           ]
+    },
+    {
+        "HouseholdMovementsID":  "25",
+        "Clusters":  [
+                         {
+                             "Slot":  "a",
+                             "ClusterID":  "103",
+                             "Name":  "MIGNONNE SLANDZICKI; MIGNONNE TEJADA"
+                         },
+                         {
+                             "Slot":  "b",
+                             "ClusterID":  "104",
+                             "Name":  "JOSHUA SLANDZICKI"
+                         }
+                     ],
+        "Addresses":  [
+                          {
+                              "Address":  "1061 COLONIAL DR COPPELL TX 75019",
+                              "RecIDs":  [
+                                             [
+                                                 "98.1",
+                                                 "98.10",
+                                                 "98.4",
+                                                 "98.7"
+                                             ],
+                                             [
+                                                 "99.6"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "103",
+                                                           "Name":  "MIGNONNE SLANDZICKI; MIGNONNE TEJADA",
+                                                           "RecIDs":  [
+                                                                          "98.1",
+                                                                          "98.10",
+                                                                          "98.4",
+                                                                          "98.7"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "104",
+                                                           "Name":  "JOSHUA SLANDZICKI",
+                                                           "RecIDs":  [
+                                                                          "99.6"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "126 RADIO RD LIVINGSTON TX 77351",
+                              "RecIDs":  [
+                                             [
+                                                 "98.13",
+                                                 "98.16",
+                                                 "98.2",
+                                                 "98.6",
+                                                 "98.8",
+                                                 "98.9"
+                                             ],
+                                             [
+                                                 "99.5"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "103",
+                                                           "Name":  "MIGNONNE SLANDZICKI; MIGNONNE TEJADA",
+                                                           "RecIDs":  [
+                                                                          "98.13",
+                                                                          "98.16",
+                                                                          "98.2",
+                                                                          "98.6",
+                                                                          "98.8",
+                                                                          "98.9"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "104",
+                                                           "Name":  "JOSHUA SLANDZICKI",
+                                                           "RecIDs":  [
+                                                                          "99.5"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "4332 BOCA RATON DR THE COLONY TX 75056",
+                              "RecIDs":  [
+                                             [
+                                                 "98.12",
+                                                 "98.14",
+                                                 "98.17",
+                                                 "98.19",
+                                                 "98.20",
+                                                 "98.3"
+                                             ],
+                                             [
+                                                 "99.10"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "103",
+                                                           "Name":  "MIGNONNE SLANDZICKI; MIGNONNE TEJADA",
+                                                           "RecIDs":  [
+                                                                          "98.12",
+                                                                          "98.14",
+                                                                          "98.17",
+                                                                          "98.19",
+                                                                          "98.20",
+                                                                          "98.3"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "104",
+                                                           "Name":  "JOSHUA SLANDZICKI",
+                                                           "RecIDs":  [
+                                                                          "99.10"
+                                                                      ]
+                                                       }
+                                                   ]
+                          }
+                      ],
+        "Direct_Links":  [
+                             [
+                                 "6",
+                                 "0"
+                             ],
+                             [
+                                 "15",
+                                 "0"
+                             ],
+                             [
+                                 "15",
+                                 "0"
+                             ]
+                         ],
+        "Indirect_Links":  [
+                               [
+                                   "120"
+                               ],
+                               [
+                                   "3"
+                               ]
+                           ]
+    },
+    {
+        "HouseholdMovementsID":  "26",
+        "Clusters":  [
+                         {
+                             "Slot":  "a",
+                             "ClusterID":  "105",
+                             "Name":  "AMY P LENNON SMITH"
+                         },
+                         {
+                             "Slot":  "b",
+                             "ClusterID":  "107",
+                             "Name":  "MASON M POWER"
+                         }
+                     ],
+        "Addresses":  [
+                          {
+                              "Address":  "3432 SR 580 LOT 133 SAFETY HARBOR FL 34695",
+                              "RecIDs":  [
+                                             [
+                                                 "100.4"
+                                             ],
+                                             [
+                                                 "101.2",
+                                                 "101.5"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "105",
+                                                           "Name":  "AMY P LENNON SMITH",
+                                                           "RecIDs":  [
+                                                                          "100.4"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "107",
+                                                           "Name":  "MASON M POWER",
+                                                           "RecIDs":  [
+                                                                          "101.2",
+                                                                          "101.5"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "504 CANAL WAY NOKOMIS FL 34275",
+                              "RecIDs":  [
+                                             [
+                                                 "100.1",
+                                                 "100.10"
+                                             ],
+                                             [
+                                                 "101.1"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "105",
+                                                           "Name":  "AMY P LENNON SMITH",
+                                                           "RecIDs":  [
+                                                                          "100.1",
+                                                                          "100.10"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "107",
+                                                           "Name":  "MASON M POWER",
+                                                           "RecIDs":  [
+                                                                          "101.1"
+                                                                      ]
+                                                       }
+                                                   ]
+                          },
+                          {
+                              "Address":  "9441 SW 4TH ST MIAMI FL 33174",
+                              "RecIDs":  [
+                                             [
+                                                 "100.6"
+                                             ],
+                                             [
+                                                 "101.3"
+                                             ]
+                                         ],
+                              "RecordsByCluster":  [
+                                                       {
+                                                           "Slot":  "a",
+                                                           "ClusterID":  "105",
+                                                           "Name":  "AMY P LENNON SMITH",
+                                                           "RecIDs":  [
+                                                                          "100.6"
+                                                                      ]
+                                                       },
+                                                       {
+                                                           "Slot":  "b",
+                                                           "ClusterID":  "107",
+                                                           "Name":  "MASON M POWER",
+                                                           "RecIDs":  [
+                                                                          "101.3"
+                                                                      ]
+                                                       }
+                                                   ]
+                          }
+                      ],
+        "Direct_Links":  [
+                             [
+                                 "0",
+                                 "1"
+                             ],
+                             [
+                                 "1",
+                                 "0"
+                             ],
+                             [
+                                 "0",
+                                 "0"
+                             ]
+                         ],
+        "Indirect_Links":  [
+                               [
+                                   "6"
+                               ],
+                               [
+                                   "6"
+                               ]
+                           ]
+    }
+]

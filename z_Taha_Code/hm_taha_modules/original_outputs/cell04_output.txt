@@ -1,0 +1,28 @@
+Output 1: stream (stdout)
+Choose parsing mode (type 'rule' or 'llm'): llm
+Submitting 313 batches to LLM concurrently (cap=12)...
+LLM processing complete. Applying fallbacks and finalizing...
+
+
+Output 2: stream (stderr)
+Processing results: 100%|██████████| 313/313 [00:00<00:00, 49335.48it/s]
+Sanity checks: 100%|██████████| 10000/10000 [00:00<00:00, 81796.51it/s]
+
+
+Output 3: stream (stdout)
+
+=== Parse Provenance ===
+           llm: 10000
+
+=== Quality Summary ===
+   OK: 8469
+ WARN: 1531
+
+Top issues:
+ - apt_mention: 804
+ - zip_missing_or_not_at_end: 771
+ - name_has_digits: 1
+
+✔ Execution complete. Saved: b_processed_results_LLM.csv
+✔ Audit saved: b_processed_results_LLM_audit.csv
+

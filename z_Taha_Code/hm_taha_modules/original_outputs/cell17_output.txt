@@ -1,0 +1,17 @@
+Output 1: stream (stdout)
+Pairwise counts (TN, FP, FN, TP): (np.int64(24936632), np.int64(284), np.int64(2870), np.int64(55214))
+
+                       Metric    Value
+           Pairwise Precision 0.994883
+              Pairwise Recall 0.950589
+            Pairwise Accuracy 0.999874
+                  Pairwise F1 0.972232
+          Adjusted Rand Index 0.972168
+                   Rand Index 0.999874
+        Fowlkes–Mallows Index 0.972484
+                  Homogeneity 0.998524
+                 Completeness 0.988867
+                    V-Measure 0.993672
+Normalized Mutual Information 0.993672
+                       Purity 0.996600
+

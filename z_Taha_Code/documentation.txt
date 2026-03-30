@@ -1,0 +1,65 @@
+This document provides a detailed, cell-by-cell explanation of the HM_Taha.ipynb notebook. The notebook is a comprehensive pipeline for entity resolution, which involves cleaning, parsing, clustering, and evaluating data to identify records that refer to the same entity.
+
+**Cell 1: Initial Setup**
+*   **Purpose:** Initializes the Python environment.
+*   **Functionality:** Sets the OpenAI API key as an environment variable and provides a file upload utility for Google Colab.
+
+**Cell 2: Data Ingestion and Preprocessing**
+*   **Purpose:** Reads and preprocesses the raw data.
+*   **Functionality:** The `process_files` function takes a source data file and a "truth file" (containing ground truth linkages) as input. It normalizes the data, relabels records according to the truth file, and concatenates all data fields into a single string. The output is `a_concatenated.csv`.
+
+**Cell 3: Name and Address Parsing**
+*   **Purpose:** Splits the concatenated data into `Name` and `Address` fields.
+*   **Functionality:** Provides both a rule-based method (splitting at the first digit) and an LLM-based method for more accurate parsing. It includes a sanity check to assess the quality of the parsed data and saves the output to `b_processed_results_LLM.csv`.
+
+**Cell 4: Detailed Name Parsing**
+*   **Purpose:** Breaks down the `Name` field into `first_name`, `middle_name`, and `last_name`.
+*   **Functionality:** Uses an LLM to parse the full name. The script processes data in chunks with overlap and includes checkpointing to handle interruptions. The output is `c_parsed_names.csv`.
+
+**Cell 5: Detailed Address Parsing**
+*   **Purpose:** Structures the `Address` field into its components (`house_number`, `street_name`, `city`, `state`, `zip`).
+*   **Functionality:** Employs an LLM to parse the address string. It features robust error handling, caching, and checkpointing. The structured address data is saved to `c_parsed_addresses.csv`.
+
+**Cell 6: Embeddings and Clustering**
+*   **Purpose:** Converts text data into numerical embeddings and groups similar records into clusters.
+*   **Functionality:** Uses the `BAAI/bge-M3` model to generate embeddings for names and addresses. It then applies DBSCAN clustering to group similar records. The results are saved to files prefixed with `d_` and `d1_`.
+
+**Cell 7: Cluster Refinement**
+*   **Purpose:** Standardizes the data within each cluster by selecting the most representative name and address.
+*   **Functionality:** Uses an LLM to analyze the variants within each cluster and choose the "best" representation. The refined data is saved to `e_cluster_complete_names.csv` and `e_cluster_complete_addresses.csv`.
+
+**Cell 8: Consolidating Cluster Data**
+*   **Purpose:** Combines the refined cluster data into a single file.
+*   **Functionality:** Merges the best name and address for each cluster with the original cluster data, creating `f_combined_clusters_with_best.csv`.
+
+**Cell 9: Grouping by Name and Address**
+*   **Purpose:** Reorganizes the data for different analytical perspectives.
+*   **Functionality:** Creates two new files: `g_grouped_by_name.csv` and `g_grouped_by_address.csv`, which are aggregated by the best name and best address, respectively.
+
+**Cell 10: Overlap Verification**
+*   **Purpose:** A diagnostic cell to check for clustering errors.
+*   **Functionality:** Ensures that all `RecID`s within a single cluster belong to the same original truth group by checking their leading digits.
+
+**Cell 11: Advanced Cluster Merging**
+*   **Purpose:** Performs a more sophisticated merge of clusters.
+*   **Functionality:** Uses a combination of deterministic rules and an LLM fallback to merge clusters that are likely the same entity. The result is `h_refined_clusters_new.csv`.
+
+**Cell 12: Final Normalization and Household Generation**
+*   **Purpose:** Finalizes the clusters and identifies households.
+*   **Functionality:** Normalizes the final cluster data into `i_refined_clusters_merged.csv` and then identifies households by finding multiple entities sharing the same address, saving the results to `j_households_new.csv`.
+
+**Cell 13: Household Movement Analysis**
+*   **Purpose:** Analyzes household data to identify potential movements.
+*   **Functionality:** Identifies pairs of entities that share multiple addresses, which may indicate a household move. The output is `j_household_movements_new.csv`.
+
+**Cell 14: Performance Evaluation**
+*   **Purpose:** Assesses the accuracy of the clustering.
+*   **Functionality:** Compares the predicted clusters to the ground truth and calculates various performance metrics, such as precision, recall, and F1-score.
+
+**Cell 15: Output File Generation**
+*   **Purpose:** Creates output files in specific formats for evaluation.
+*   **Functionality:** Generates `z_LinkIndex_Taha.txt`, `z_LinkedPair_Taha.txt`, and `z_Truthfile_Taha.txt` for use with external evaluation tools.
+
+**Cell 16: Link Evaluator**
+*   **Purpose:** A comprehensive script for the entire evaluation process.
+*   **Functionality:** Provides a command-line interface to run the evaluation in either "standard mode" (using the `z_` files) or "complex cluster mode" (processing intermediate cluster files). It performs transitive closure and calculates a full suite of evaluation metrics.

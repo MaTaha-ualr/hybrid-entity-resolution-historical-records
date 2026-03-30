@@ -1,0 +1,15 @@
+﻿cff-version: 1.2.0
+title: "Hybrid Entity Resolution for Historical Records"
+message: "If you use this software, please cite it using this metadata."
+type: software
+authors:
+  - family-names: "Taha"
+    given-names: "Mohammed"
+repository-code: "https://github.com/USER/hybrid-entity-resolution-historical-records"
+license: MIT
+keywords:
+  - entity-resolution
+  - historical-records
+  - llm
+  - clustering
+  - record-linkage

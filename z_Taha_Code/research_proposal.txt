@@ -1,0 +1,52 @@
+**Research Proposal: Evaluating a Hybrid LLM and Embedding Pipeline for High-Accuracy Entity Resolution in Noisy Historical Data**
+
+**1. Research Question:**
+
+To what extent does a hybrid entity resolution pipeline—which combines Large Language Model (LLM) based parsing and contextual merging with traditional vector embedding and clustering techniques—outperform conventional methods in resolving entities from unstructured and noisy historical records?
+
+This research investigates the specific performance gains and trade-offs of strategically integrating LLMs at different stages of the entity resolution process.
+
+**2. The Research Gap in Entity Resolution:**
+
+Entity resolution (ER) is a long-standing challenge, and existing methods have well-documented limitations, especially when applied to noisy, real-world data like historical records:
+
+*   **Deterministic (Rule-Based) Methods:** These are fast and precise for clean data but are brittle. They fail when confronted with typos, abbreviations, and formatting inconsistencies, and require extensive, domain-specific manual tuning.
+*   **Probabilistic Models (e.g., Fellegi-Sunter):** These are more flexible than deterministic rules but depend heavily on manually engineered features and the availability of labeled training data, which is often scarce for historical datasets.
+*   **Pure Embedding-Based Methods:** While powerful for finding semantic similarity, these methods can struggle with "common-sense" reasoning. For example, they may not inherently understand that "Robert" and "Bob" are related, or that a shared address between "Gloria Smith" and "Gloria Jones" strongly suggests a name change due to marriage.
+*   **End-to-End LLM Approaches:** Using an LLM to resolve an entire dataset in one go is often computationally expensive, slow, and lacks the systematic, scalable structure of traditional pipelines. It can also be prone to hallucinations or inconsistencies over large volumes of data.
+
+There is a significant research gap in understanding how to best *combine* these approaches to maximize their strengths while mitigating their weaknesses.
+
+**3. How This Code Pipeline Provides a Solution (The Novel Contribution):**
+
+This codebase implements a novel **hybrid entity resolution pipeline** that serves as a direct answer to the limitations described above. It is not merely a tool, but a methodological contribution that strategically deploys different techniques at the stages where they are most effective:
+
+*   **LLM for Unstructured Parsing (Cells 3, 4, 5):** The pipeline uses LLMs at the beginning to tackle the most unstructured part of the problem: parsing raw text into structured `Name` and `Address` fields. This leverages the LLM's world knowledge and contextual understanding to handle noise and variation that would break rule-based systems.
+
+*   **Efficient, Scalable Clustering (Cell 6):** Once the data is structured, the pipeline switches to a highly efficient and scalable method—vector embeddings and DBSCAN clustering—to perform the initial, broad-strokes grouping of similar records. This is a task where embeddings excel.
+
+*   **LLM for Contextual Refinement and Merging (Cells 7, 11):** The pipeline then brings the LLM back in for high-level reasoning tasks that are difficult for purely mathematical models. This includes:
+    *   **Canonicalization:** Selecting the "best" or most complete name/address from a cluster of variants.
+    *   **Complex Merging:** Evaluating difficult cases, such as whether two clusters with different last names but a shared address and compatible first names represent the same person (e.g., marriage). This is where the LLM's reasoning ability shines.
+
+*   **Deterministic Rules for Efficiency (Cell 11):** The pipeline still uses fast and reliable deterministic rules for clear-cut merges, improving efficiency and ensuring that obvious matches are handled without unnecessary computational overhead.
+
+**4. Hypothetical Research Plan:**
+
+1.  **Datasets:** Utilize the provided datasets (`S10PX`, `S11PX`, `S18PX`, etc.) which come with ground truth files (`truthABCgoodDQ.txt`), making them ideal for performance evaluation.
+2.  **Baseline Models:** To properly evaluate the hybrid pipeline, compare its performance against several baseline models:
+    *   **Baseline A (Deterministic):** A purely rule-based system for parsing and linking records.
+    *   **Baseline B (Embedding-Only):** A standard pipeline that uses embeddings and clustering but without any LLM-based parsing or refinement steps.
+3.  **Experiment:** Process all datasets through the existing hybrid pipeline and the two baseline models.
+4.  **Evaluation (Cells 14 & 16):** Use the comprehensive evaluation metrics already implemented in the codebase (Pairwise Precision, Recall, F1-score, Adjusted Rand Index, Homogeneity, Completeness, etc.) to rigorously compare the performance of the three approaches.
+5.  **Analysis:** Analyze the results to answer key questions:
+    *   How much does LLM-based parsing improve performance over rule-based parsing on noisy data?
+    *   What is the specific impact of the LLM-based cluster merging step on precision and recall?
+    *   Does the hybrid model significantly outperform the baselines, and in what specific scenarios?
+
+**5. Potential Impact on the Field of Entity Resolution:**
+
+This research would provide a quantitative validation of a state-of-the-art hybrid approach to entity resolution. It would:
+*   Demonstrate the value of strategically integrating LLMs into data processing pipelines, rather than using them as a monolithic solution.
+*   Provide a robust, replicable methodology for handling noisy, unstructured historical data, which can be adapted by researchers in various fields.
+*   Offer clear insights into the performance gains and computational costs associated with using LLMs for specific ER sub-tasks, guiding future research and development in the field.

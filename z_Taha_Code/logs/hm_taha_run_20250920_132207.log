@@ -1,0 +1,21 @@
+2025-09-20 13:22:07,223 [INFO] Logging initialized. Writing to C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\logs\hm_taha_run_20250920_132207.log
+2025-09-20 13:22:07,223 [INFO] Starting HM_Taha module run (22 modules)
+2025-09-20 13:22:07,223 [INFO] Original notebook outputs stored in C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\original_outputs
+2025-09-20 13:22:07,225 [INFO] Running cell01
+2025-09-20 13:22:07,235 [INFO] cell01 completed with status=success; output written to C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\runtime_outputs\20250920_132207\cell01_output.txt (0 bytes)
+2025-09-20 13:22:07,235 [INFO] Running cell02
+2025-09-20 13:22:07,236 [ERROR] Error while executing cell02
+Traceback (most recent call last):
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\run_hm_taha.py", line 122, in run_modules
+    runpy.run_path(str(module_path), init_globals=shared_namespace, run_name="__main__")
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell02.py", line 5, in <module>
+    upload = files.upload()
+             ^^^^^^^^^^^^^^
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\run_hm_taha.py", line 46, in upload
+    raise RuntimeError(
+RuntimeError: google.colab.files.upload() is unavailable outside Google Colab. Place required input files locally and adjust the code accordingly.
+2025-09-20 13:22:07,240 [INFO] cell02 completed with status=error; output written to C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\runtime_outputs\20250920_132207\cell02_output.txt (0 bytes)
+2025-09-20 13:22:07,242 [INFO] Running cell03

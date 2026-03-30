@@ -1,0 +1,147 @@
+Output 1: stream (stdout)
+Loading parsed names and addresses...
+Normalizing Name and Address...
+Loading embedding model (BAAI/bge-M3)...
+
+
+Output 2: stream (stderr)
+/usr/local/lib/python3.12/dist-packages/huggingface_hub/utils/_auth.py:94: UserWarning: 
+The secret `HF_TOKEN` does not exist in your Colab secrets.
+To authenticate with the Hugging Face Hub, create a token in your settings tab (https://huggingface.co/settings/tokens), set it as secret in your Google Colab and restart your session.
+You will be able to reuse this secret in all of your notebooks.
+Please note that authentication is recommended but still optional to access public models or datasets.
+  warnings.warn(
+
+
+Output 3: display_data [text/plain]
+modules.json:   0%|          | 0.00/349 [00:00<?, ?B/s]
+
+Output 3: display_data [widget-json] saved to cell07_output3_widget.json
+
+Output 4: display_data [text/plain]
+config_sentence_transformers.json:   0%|          | 0.00/123 [00:00<?, ?B/s]
+
+Output 4: display_data [widget-json] saved to cell07_output4_widget.json
+
+Output 5: display_data [text/plain]
+README.md: 0.00B [00:00, ?B/s]
+
+Output 5: display_data [widget-json] saved to cell07_output5_widget.json
+
+Output 6: display_data [text/plain]
+sentence_bert_config.json:   0%|          | 0.00/54.0 [00:00<?, ?B/s]
+
+Output 6: display_data [widget-json] saved to cell07_output6_widget.json
+
+Output 7: display_data [text/plain]
+config.json:   0%|          | 0.00/687 [00:00<?, ?B/s]
+
+Output 7: display_data [widget-json] saved to cell07_output7_widget.json
+
+Output 8: display_data [text/plain]
+pytorch_model.bin:   0%|          | 0.00/2.27G [00:00<?, ?B/s]
+
+Output 8: display_data [widget-json] saved to cell07_output8_widget.json
+
+Output 9: display_data [text/plain]
+tokenizer_config.json:   0%|          | 0.00/444 [00:00<?, ?B/s]
+
+Output 9: display_data [widget-json] saved to cell07_output9_widget.json
+
+Output 10: display_data [text/plain]
+sentencepiece.bpe.model:   0%|          | 0.00/5.07M [00:00<?, ?B/s]
+
+Output 10: display_data [widget-json] saved to cell07_output10_widget.json
+
+Output 11: display_data [text/plain]
+tokenizer.json:   0%|          | 0.00/17.1M [00:00<?, ?B/s]
+
+Output 11: display_data [widget-json] saved to cell07_output11_widget.json
+
+Output 12: display_data [text/plain]
+special_tokens_map.json:   0%|          | 0.00/964 [00:00<?, ?B/s]
+
+Output 12: display_data [widget-json] saved to cell07_output12_widget.json
+
+Output 13: display_data [text/plain]
+config.json:   0%|          | 0.00/191 [00:00<?, ?B/s]
+
+Output 13: display_data [widget-json] saved to cell07_output13_widget.json
+
+Output 14: stream (stdout)
+Computing name embeddings...
+
+
+Output 15: display_data [text/plain]
+Batches:   0%|          | 0/63 [00:00<?, ?it/s]
+
+Output 15: display_data [widget-json] saved to cell07_output15_widget.json
+
+Output 16: stream (stdout)
+→ Saved name embeddings to 'd_bge_M3_name_embeddings.csv'
+Computing address embeddings...
+
+
+Output 17: display_data [text/plain]
+Batches:   0%|          | 0/63 [00:00<?, ?it/s]
+
+Output 17: display_data [widget-json] saved to cell07_output17_widget.json
+
+Output 18: stream (stdout)
+→ Saved address embeddings to 'd_bge_M3_address_embeddings.csv'
+
+Combining embeddings for joint clustering...
+→ Combined embeddings saved to 'd_combined_embeddings.csv'
+
+Detecting epsilon values from duplicate boundaries...
+  name    : p85=0.1301, p90=0.1382, p95=0.1382
+  address : p85=0.0000, p90=0.0276, p95=0.0691
+  combined: p85=0.1429, p90=0.1431, p95=0.1572
+
+Choose epsilon values:
+  [1] p85 - Conservative (fewer false positives)
+  [2] p90 - Balanced (recommended)
+  [3] p95 - Aggressive (more matches)
+  [4] Use standard values (0.15, 0.15, 0.08)
+Selection (1-4) [2]: 4
+
+DBSCAN parameters summary:
+  min_samples = 1 (singleton-friendly)
+  metric      = 'cosine'
+  eps (name)     = 0.1500
+  eps (address)  = 0.1500
+  eps (combined) = 0.0800
+
+Clustering name embeddings with DBSCAN...
+
+
+Output 19: stream (stderr)
+Sorting cluster members: 100%|██████████| 732/732 [00:00<00:00, 19255.01cluster/s]
+
+Output 20: stream (stdout)
+→ Name clusters saved to 'd1_name_clusters.csv'
+Clustering address embeddings with DBSCAN...
+
+
+Output 21: stream (stderr)
+
+Sorting cluster members: 100%|██████████| 638/638 [00:00<00:00, 20490.73cluster/s]
+
+
+Output 22: stream (stdout)
+→ Address clusters saved to 'd1_address_clusters.csv'
+Clustering combined embeddings with DBSCAN...
+
+
+Output 23: stream (stderr)
+Sorting cluster members: 100%|██████████| 995/995 [00:00<00:00, 20162.68cluster/s]
+
+Output 24: stream (stdout)
+→ Combined clusters saved to 'd1_combined_clusters.csv'
+
+Total processing time: 61.83 seconds.
+
+
+Output 25: stream (stderr)
+
+

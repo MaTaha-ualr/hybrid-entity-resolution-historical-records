@@ -1,0 +1,23 @@
+================================================================================
+Advanced Link Evaluator System v2.1 - FIXED VERSION
+Execution Date: 2025-09-20 13:27:50
+FIXES: Standard mode data parsing and metrics calculation
+================================================================================
+
+Select Input Mode:
+1. Standard Mode (Link Index + Linked Pairs + Truth File) - FIXED
+2. Complex Cluster Mode (Process complex cluster format)
+
+[stderr]
+2025-09-20 13:27:50 - INFO - Creating log file: LinkEvaluator_Log_20250920_132750.txt
+2025-09-20 13:27:50 - ERROR - Unexpected error: Interactive input requested during cell21: '\nEnter mode (1 or 2): '. Automated driver runs do not support stdin prompts.
+Traceback (most recent call last):
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell21.py", line 914, in run
+    mode = self._get_input_mode()
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\hm_taha_modules\cell21.py", line 967, in _get_input_mode
+    mode = input("\nEnter mode (1 or 2): ").strip()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mataha\OneDrive - UA Little Rock\Desktop\GA\z_Taha_Code\run_hm_taha.py", line 113, in _input_stub
+    raise RuntimeError(
+RuntimeError: Interactive input requested during cell21: '\nEnter mode (1 or 2): '. Automated driver runs do not support stdin prompts.

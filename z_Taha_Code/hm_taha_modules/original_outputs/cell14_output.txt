@@ -1,0 +1,3 @@
+Output 1: stream (stdout)
+Wrote i_refined_clusters_merged.csv and j_households_new.csv. DirectLink overall sum: 6670
+

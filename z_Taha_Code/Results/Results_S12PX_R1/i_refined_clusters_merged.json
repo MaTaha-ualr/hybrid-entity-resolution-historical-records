@@ -1,0 +1,4666 @@
+﻿[
+    {
+        "ClusterID":  "0",
+        "Name":  "GLORIA B MIDDLEBROOK; GLORIA B NEL",
+        "Addresses":  [
+                          {
+                              "Address":  "11548 FERN LN HANFORD CA 93230",
+                              "RecIDs":  [
+                                             "1.2",
+                                             "1.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "4073 CORRINE DR ORLANDO FL 32814",
+                              "RecIDs":  [
+                                             "1.1",
+                                             "1.3",
+                                             "1.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "754 EMPIRE AVE VENTURA CA 93003",
+                              "RecIDs":  [
+                                             "1.4"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "1",
+                           "3",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "1",
+        "Name":  "TOMMY ALAN NOEL",
+        "Addresses":  [
+                          {
+                              "Address":  "10223 LIPSCOMB DR SAN DIEGO CA 92126",
+                              "RecIDs":  [
+                                             "2.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "11548 FERN LN HANFORD CA 93230",
+                              "RecIDs":  [
+                                             "2.11",
+                                             "2.4",
+                                             "2.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "1626 W GEORGRE ST BANNING CA",
+                              "RecIDs":  [
+                                             "2.10"
+                                         ]
+                          },
+                          {
+                              "Address":  "35607 WINCKLER ST WILDOMAR CA 92595",
+                              "RecIDs":  [
+                                             "2.3",
+                                             "2.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "754 EMPIRE AVE VENTURA CA 93003",
+                              "RecIDs":  [
+                                             "2.1",
+                                             "2.2",
+                                             "2.6",
+                                             "2.9"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "3",
+                           "0",
+                           "1",
+                           "6"
+                       ]
+    },
+    {
+        "ClusterID":  "2",
+        "Name":  "FRANCINE J KEGLER",
+        "Addresses":  [
+                          {
+                              "Address":  "14668 WILDWOOD DR LARGO FL 33774",
+                              "RecIDs":  [
+                                             "3.1",
+                                             "3.13",
+                                             "3.4",
+                                             "3.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "214 ELDORADO DR DEBARY FL 32713",
+                              "RecIDs":  [
+                                             "3.11",
+                                             "3.16",
+                                             "3.7",
+                                             "3.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "2554 SW 118TH LN BLDG 21 MIRAMAR FL 33025",
+                              "RecIDs":  [
+                                             "3.10",
+                                             "3.12",
+                                             "3.15",
+                                             "3.3",
+                                             "3.6",
+                                             "3.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "316 SW MACLAY WAY PORT SAINT LUCIE FL 34986",
+                              "RecIDs":  [
+                                             "3.2"
+                                         ]
+                          },
+                          {
+                              "Address":  "4075 WOODRIDGE PL PANAMA CITY FL 32405",
+                              "RecIDs":  [
+                                             "3.14"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "6",
+                           "6",
+                           "15",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "3",
+        "Name":  "DIDIER HUSSAIN",
+        "Addresses":  [
+                          {
+                              "Address":  "1410 LONG AVE PORT SAINT JOE FL 32456",
+                              "RecIDs":  [
+                                             "4.11",
+                                             "4.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "14668 WILDWOOD DR LARGO FL 33774",
+                              "RecIDs":  [
+                                             "4.3",
+                                             "4.5",
+                                             "4.8",
+                                             "4.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "214 ELDORADO DR DEBARY FL 32713",
+                              "RecIDs":  [
+                                             "4.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "3150 CRESTWATER DR CORPUS CHRISTI TX 78415",
+                              "RecIDs":  [
+                                             "4.1",
+                                             "4.10",
+                                             "4.2",
+                                             "4.4"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "1",
+                           "6",
+                           "0",
+                           "6"
+                       ]
+    },
+    {
+        "ClusterID":  "4",
+        "Name":  "YVONNE A MANSON",
+        "Addresses":  [
+                          {
+                              "Address":  "103 REDGRAVE DR SEBASTIAN FL 32958",
+                              "RecIDs":  [
+                                             "5.1",
+                                             "5.10",
+                                             "5.13",
+                                             "5.4"
+                                         ]
+                          },
+                          {
+                              "Address":  "1258 SAPULVEDA RD SW PALM BAY FL 32908",
+                              "RecIDs":  [
+                                             "5.12",
+                                             "5.14",
+                                             "5.16",
+                                             "5.3",
+                                             "5.5",
+                                             "5.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "491501 PO BOX REDDING CA 96049",
+                              "RecIDs":  [
+                                             "5.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "4970 NW 91ST TER SUNRISE FL 33351",
+                              "RecIDs":  [
+                                             "5.11",
+                                             "5.15",
+                                             "5.17",
+                                             "5.18",
+                                             "5.6",
+                                             "5.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "879 LEISHA LN REDDING CA 96001",
+                              "RecIDs":  [
+                                             "5.2"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "6",
+                           "15",
+                           "0",
+                           "15",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "5",
+        "Name":  "JUAN M SWEANY",
+        "Addresses":  [
+                          {
+                              "Address":  "103 REDGRAVE DR SEBASTIAN FL 32958",
+                              "RecIDs":  [
+                                             "6.1",
+                                             "6.2",
+                                             "6.4",
+                                             "6.6",
+                                             "6.8",
+                                             "6.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "1258 SAPULVEDA RD SW PALM BAY FL 32908",
+                              "RecIDs":  [
+                                             "6.3"
+                                         ]
+                          },
+                          {
+                              "Address":  "2917 LAWNDALE DR LANCASTER TX 75134",
+                              "RecIDs":  [
+                                             "6.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "4970 NW 91ST TER SUNRISE FL 33351",
+                              "RecIDs":  [
+                                             "6.5"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "15",
+                           "0",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "6",
+        "Name":  "JACQUELINE D PARRAGA",
+        "Addresses":  [
+                          {
+                              "Address":  "1001 MURRIETA BLVD APT 8 LIVERMORE CA 94550",
+                              "RecIDs":  [
+                                             "7.5",
+                                             "7.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "1158 PO BOX VACAVILLE CA 95696",
+                              "RecIDs":  [
+                                             "7.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "213 83RD ST HOLMES BEACH FL 34217",
+                              "RecIDs":  [
+                                             "7.1"
+                                         ]
+                          },
+                          {
+                              "Address":  "293357 PO BOX SACRAMENTO CA 95829",
+                              "RecIDs":  [
+                                             "7.2"
+                                         ]
+                          },
+                          {
+                              "Address":  "6002 WINDBRAKER WAY SACRAMENTO CA 95823",
+                              "RecIDs":  [
+                                             "7.4"
+                                         ]
+                          },
+                          {
+                              "Address":  "7293 FARM DALE WAY SACRAMENTO CA 95831",
+                              "RecIDs":  [
+                                             "7.3"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "1",
+                           "0",
+                           "0",
+                           "0",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "7",
+        "Name":  "EDWARD J DICK",
+        "Addresses":  [
+                          {
+                              "Address":  "10727 BRAES FOREST DR HOUSTON TX 77071",
+                              "RecIDs":  [
+                                             "8.12",
+                                             "8.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "213 83RD ST HOLMES BEACH FL 34217",
+                              "RecIDs":  [
+                                             "8.11",
+                                             "8.14",
+                                             "8.6",
+                                             "8.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "2521 MOLINO RD MOLINO FL 32577",
+                              "RecIDs":  [
+                                             "8.1",
+                                             "8.10",
+                                             "8.13",
+                                             "8.3",
+                                             "8.4",
+                                             "8.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "3161 PO BOX WINTER HAVEN FL 33885",
+                              "RecIDs":  [
+                                             "8.2"
+                                         ]
+                          },
+                          {
+                              "Address":  "683 PO BOX JUPITER FL 33468",
+                              "RecIDs":  [
+                                             "8.8"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "1",
+                           "6",
+                           "15",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "8",
+        "Name":  "ALEJANDRA C DALDUMYAN",
+        "Addresses":  [
+                          {
+                              "Address":  "1118 DENNISON ST LITTLE ROCK AR 72202",
+                              "RecIDs":  [
+                                             "9.1",
+                                             "9.2",
+                                             "9.4",
+                                             "9.6",
+                                             "9.7",
+                                             "9.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "23075 HWY 90 W RAVENDE AR 72459",
+                              "RecIDs":  [
+                                             "9.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "49 LENO CIR HOT SPRINGS VILLAGE AR 71909",
+                              "RecIDs":  [
+                                             "9.3",
+                                             "9.5"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "15",
+                           "0",
+                           "1"
+                       ]
+    },
+    {
+        "ClusterID":  "9",
+        "Name":  "TERRIE D KELLEY; TERRIE D LOPEZ",
+        "Addresses":  [
+                          {
+                              "Address":  "12874 FENCERIDER WAY VICTORVILLE CA 92392",
+                              "RecIDs":  [
+                                             "10.16"
+                                         ]
+                          },
+                          {
+                              "Address":  "1402 NE 1ST ST MULBERRY FL 33860",
+                              "RecIDs":  [
+                                             "10.11",
+                                             "10.4",
+                                             "10.5",
+                                             "10.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "220766 PO BOX NEWHALL CA",
+                              "RecIDs":  [
+                                             "10.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "24317 WABUKSKA ST NEWHALL CA 91321",
+                              "RecIDs":  [
+                                             "10.17"
+                                         ]
+                          },
+                          {
+                              "Address":  "2623 FIDDLESTICK CIR LUTZ FL 33559",
+                              "RecIDs":  [
+                                             "10.12",
+                                             "10.14",
+                                             "10.15",
+                                             "10.2",
+                                             "10.3",
+                                             "10.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "8735 DELGANY AVE APT 211 PLAYA DEL REY CA 90293",
+                              "RecIDs":  [
+                                             "10.1",
+                                             "10.10",
+                                             "10.13",
+                                             "10.8"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "6",
+                           "0",
+                           "0",
+                           "15",
+                           "6"
+                       ]
+    },
+    {
+        "ClusterID":  "10",
+        "Name":  "THOMAS LOPEZ",
+        "Addresses":  [
+                          {
+                              "Address":  "1166 NW 7TH PL CAPE CORAL FL 33993",
+                              "RecIDs":  [
+                                             "11.2",
+                                             "11.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "1402 NE 1ST ST MULBERRY FL 33860",
+                              "RecIDs":  [
+                                             "11.1",
+                                             "11.10",
+                                             "11.5",
+                                             "11.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "2623 FIDDLESTICK CIR LUTZ FL 33559",
+                              "RecIDs":  [
+                                             "11.11",
+                                             "11.12",
+                                             "11.3",
+                                             "11.4",
+                                             "11.8",
+                                             "11.9"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "1",
+                           "6",
+                           "15"
+                       ]
+    },
+    {
+        "ClusterID":  "11",
+        "Name":  "KRISTINA D CALIENES; KRISTINA D ORCULLO",
+        "Addresses":  [
+                          {
+                              "Address":  "16797 TALQUIN SPRINGS DR TALLAHASSEE FL 32310",
+                              "RecIDs":  [
+                                             "12.1",
+                                             "12.11",
+                                             "12.2",
+                                             "12.3",
+                                             "12.7",
+                                             "12.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "2815 HWY 2 BONIFAY FL 32425",
+                              "RecIDs":  [
+                                             "12.4",
+                                             "12.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "5660 CRANE RD MELBOURNE FL 32904",
+                              "RecIDs":  [
+                                             "12.10",
+                                             "12.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "85016 DUANE RD YULEE FL 32097",
+                              "RecIDs":  [
+                                             "12.6"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "15",
+                           "1",
+                           "1",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "12",
+        "Name":  "DONALD E CALIENES",
+        "Addresses":  [
+                          {
+                              "Address":  "16797 TALQUIN SPRINGS DR TALLAHASSEE FL 32310",
+                              "RecIDs":  [
+                                             "13.16",
+                                             "13.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "18960 NE 2ND AVE MIAMI FL 33179",
+                              "RecIDs":  [
+                                             "13.1",
+                                             "13.17",
+                                             "13.18",
+                                             "13.3"
+                                         ]
+                          },
+                          {
+                              "Address":  "2376 PO BOX YULEE FL 32041",
+                              "RecIDs":  [
+                                             "13.11"
+                                         ]
+                          },
+                          {
+                              "Address":  "2815 HWY 2 BONIFAY FL 32425",
+                              "RecIDs":  [
+                                             "13.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "3841 NE 4TH TER POMPANO BEACH FL 33064",
+                              "RecIDs":  [
+                                             "13.10",
+                                             "13.12",
+                                             "13.13",
+                                             "13.15",
+                                             "13.2",
+                                             "13.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "85016 DUANE RD YULEE FL 32097",
+                              "RecIDs":  [
+                                             "13.14"
+                                         ]
+                          },
+                          {
+                              "Address":  "9457 PALM TREE DR WINDERMERE FL 34786",
+                              "RecIDs":  [
+                                             "13.4",
+                                             "13.8",
+                                             "13.9"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "1",
+                           "6",
+                           "0",
+                           "0",
+                           "15",
+                           "0",
+                           "3"
+                       ]
+    },
+    {
+        "ClusterID":  "13",
+        "Name":  "ASIYA MATA",
+        "Addresses":  [
+                          {
+                              "Address":  "1743 SAN JOSE AVE SAN FRANCISCO CA 94112",
+                              "RecIDs":  [
+                                             "14.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "3776 CASE DR SAN JOSE CA 95111",
+                              "RecIDs":  [
+                                             "14.4"
+                                         ]
+                          },
+                          {
+                              "Address":  "582052 PO BOX MODESTO CA 95358",
+                              "RecIDs":  [
+                                             "14.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "640083 PO BOX SAN JOSE CA 95164",
+                              "RecIDs":  [
+                                             "14.2"
+                                         ]
+                          },
+                          {
+                              "Address":  "8329 SIERRA DR SONOMA CA 95476",
+                              "RecIDs":  [
+                                             "14.1",
+                                             "14.10",
+                                             "14.3",
+                                             "14.5",
+                                             "14.7",
+                                             "14.9"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "0",
+                           "0",
+                           "0",
+                           "15"
+                       ]
+    },
+    {
+        "ClusterID":  "14",
+        "Name":  "MARY AGUILERA; MARY FORD",
+        "Addresses":  [
+                          {
+                              "Address":  "1219 GLENN AVE MODESTO CA 95358",
+                              "RecIDs":  [
+                                             "15.1"
+                                         ]
+                          },
+                          {
+                              "Address":  "138 MCCASLIN LN ROYAL AR 71968",
+                              "RecIDs":  [
+                                             "15.2"
+                                         ]
+                          },
+                          {
+                              "Address":  "1422 H ST RAMONA CA 92065",
+                              "RecIDs":  [
+                                             "15.14",
+                                             "15.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "15188 CERRITOS ST FONTANA CA 92336",
+                              "RecIDs":  [
+                                             "15.12",
+                                             "15.18",
+                                             "15.3",
+                                             "15.6",
+                                             "15.7",
+                                             "15.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "4 MEDICINE LODGE WILLIFORD AR 72482",
+                              "RecIDs":  [
+                                             "15.22",
+                                             "15.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "582052 PO BOX MODESTO CA 95358",
+                              "RecIDs":  [
+                                             "15.16"
+                                         ]
+                          },
+                          {
+                              "Address":  "625 WATEMRCREST DR HAINES CITY FL",
+                              "RecIDs":  [
+                                             "15.20"
+                                         ]
+                          },
+                          {
+                              "Address":  "6460 CHARLESTON CT MILTON FL 32570",
+                              "RecIDs":  [
+                                             "15.11"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "0",
+                           "1",
+                           "15",
+                           "1",
+                           "0",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "15",
+        "Name":  "MAURA FORD",
+        "Addresses":  [
+                          {
+                              "Address":  "1422 H ST RAMONA CA 92065",
+                              "RecIDs":  [
+                                             "15.10",
+                                             "15.13",
+                                             "15.21",
+                                             "15.4"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "6"
+                       ]
+    },
+    {
+        "ClusterID":  "16",
+        "Name":  "MARION AGUILERA",
+        "Addresses":  [
+                          {
+                              "Address":  "4 MEDICINE LODGE WILLIFORD AR 72482",
+                              "RecIDs":  [
+                                             "15.15",
+                                             "15.19"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "1"
+                       ]
+    },
+    {
+        "ClusterID":  "17",
+        "Name":  "AMERICA AGUILERA",
+        "Addresses":  [
+                          {
+                              "Address":  "6460 CHARLESTON CT MILTON FL 32570",
+                              "RecIDs":  [
+                                             "15.17"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "18",
+        "Name":  "MATTHEW L FORD",
+        "Addresses":  [
+                          {
+                              "Address":  "1701 CONCORD AVE MODESTO CA 95350",
+                              "RecIDs":  [
+                                             "16.1",
+                                             "16.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "1904 PO BOX HAINES CITY FL",
+                              "RecIDs":  [
+                                             "16.2"
+                                         ]
+                          },
+                          {
+                              "Address":  "6460 CHARLESTON CT MILTON FL 32570",
+                              "RecIDs":  [
+                                             "16.3",
+                                             "16.4",
+                                             "16.5",
+                                             "16.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "6512 CLEON AVE NORTH HOLLYWOOD CA 91606",
+                              "RecIDs":  [
+                                             "16.6",
+                                             "16.9"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "1",
+                           "0",
+                           "6",
+                           "1"
+                       ]
+    },
+    {
+        "ClusterID":  "19",
+        "Name":  "LESLIE UNN",
+        "Addresses":  [
+                          {
+                              "Address":  "119 SOUTH BLVD SAN MATEO CA 94402",
+                              "RecIDs":  [
+                                             "17.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "14223 BECH MEADOW DR HOUSTON TX 77083",
+                              "RecIDs":  [
+                                             "17.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "236 MISSION DR FULLERTON CA 92831",
+                              "RecIDs":  [
+                                             "17.1"
+                                         ]
+                          },
+                          {
+                              "Address":  "326 STAPLES AVE SAN JOSE CA 95127",
+                              "RecIDs":  [
+                                             "17.2",
+                                             "17.3",
+                                             "17.4",
+                                             "17.6",
+                                             "17.7",
+                                             "17.9"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "0",
+                           "0",
+                           "15"
+                       ]
+    },
+    {
+        "ClusterID":  "20",
+        "Name":  "ALEJANDRO A SALSINI",
+        "Addresses":  [
+                          {
+                              "Address":  "16617 S HOOVER ST GARDENA CA 90247",
+                              "RecIDs":  [
+                                             "18.8",
+                                             "18.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "184 13TH ST OAKLAND CA 94612",
+                              "RecIDs":  [
+                                             "18.3",
+                                             "18.4",
+                                             "18.5",
+                                             "18.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "223 WANZA RD HUNTSVILLE TX 77320",
+                              "RecIDs":  [
+                                             "18.2"
+                                         ]
+                          },
+                          {
+                              "Address":  "8040 NEY AVE OAKLAND CA 94605",
+                              "RecIDs":  [
+                                             "18.1",
+                                             "18.7"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "1",
+                           "6",
+                           "0",
+                           "1"
+                       ]
+    },
+    {
+        "ClusterID":  "21",
+        "Name":  "JOSE SAMMARRO",
+        "Addresses":  [
+                          {
+                              "Address":  "332 STREAMVIEW WAY WINTER SPRINGS FL 32708",
+                              "RecIDs":  [
+                                             "19.1",
+                                             "19.2",
+                                             "19.3",
+                                             "19.5",
+                                             "19.6",
+                                             "19.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "9600 GOLF LAKES TRL DALLAS TX 75231",
+                              "RecIDs":  [
+                                             "19.4"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "15",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "22",
+        "Name":  "YANNELIS PENA",
+        "Addresses":  [
+                          {
+                              "Address":  "1207 JACIE LN SAN ANGELO TX 76905",
+                              "RecIDs":  [
+                                             "20.3"
+                                         ]
+                          },
+                          {
+                              "Address":  "218 AVALON ST SAN ANTONIO TX 78213",
+                              "RecIDs":  [
+                                             "20.2"
+                                         ]
+                          },
+                          {
+                              "Address":  "3852 S FM 548 ROYSE CITY TX 75189",
+                              "RecIDs":  [
+                                             "20.5",
+                                             "20.7",
+                                             "20.8",
+                                             "20.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "8769 LARIAT CIR KELLER TX 76248",
+                              "RecIDs":  [
+                                             "20.1",
+                                             "20.10",
+                                             "20.4",
+                                             "20.6"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "0",
+                           "6",
+                           "6"
+                       ]
+    },
+    {
+        "ClusterID":  "23",
+        "Name":  "GURVINDER P HOOLEBY; GURVINDER P HOOLEY",
+        "Addresses":  [
+                          {
+                              "Address":  "2301 AUTUMN TER BAKERSFIELD CA 93306",
+                              "RecIDs":  [
+                                             "21.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "537 WEST 105TH ST LOS ANGELES CA 90044",
+                              "RecIDs":  [
+                                             "21.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "8743 SHOSHONE WY ORANGEVALE CA 95662",
+                              "RecIDs":  [
+                                             "21.4"
+                                         ]
+                          },
+                          {
+                              "Address":  "9463 CROWELL DR ELK GROVE CA 95624",
+                              "RecIDs":  [
+                                             "21.1",
+                                             "21.2",
+                                             "21.3",
+                                             "21.6"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "0",
+                           "0",
+                           "6"
+                       ]
+    },
+    {
+        "ClusterID":  "24",
+        "Name":  "BARBARA M REYES; BARBARA M WHITE",
+        "Addresses":  [
+                          {
+                              "Address":  "21 CHRISTOPHER PL STRONG AR 71765",
+                              "RecIDs":  [
+                                             "22.3",
+                                             "22.4"
+                                         ]
+                          },
+                          {
+                              "Address":  "235 HEMPSTEAD APT 125 HOPE AR 71801",
+                              "RecIDs":  [
+                                             "22.2"
+                                         ]
+                          },
+                          {
+                              "Address":  "6339 LULC DR EL PASO TX 79905",
+                              "RecIDs":  [
+                                             "22.1"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "1",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "25",
+        "Name":  "JOSEPH C WHITE",
+        "Addresses":  [
+                          {
+                              "Address":  "138083 PO BOX CLERMONT FL 34713",
+                              "RecIDs":  [
+                                             "23.10"
+                                         ]
+                          },
+                          {
+                              "Address":  "1770 TOWNSEND ST CLEARWATER FL 33755",
+                              "RecIDs":  [
+                                             "23.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "18254 E APSHAWA RD CLERMONT FL 34715",
+                              "RecIDs":  [
+                                             "23.17"
+                                         ]
+                          },
+                          {
+                              "Address":  "21 CHRISTOPHER PL STRONG AR 71765",
+                              "RecIDs":  [
+                                             "23.3"
+                                         ]
+                          },
+                          {
+                              "Address":  "235 HEMPSTEAD APT 125 HOPE AR 71801",
+                              "RecIDs":  [
+                                             "23.11",
+                                             "23.12",
+                                             "23.15",
+                                             "23.4",
+                                             "23.5",
+                                             "23.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "342 BENEDICTINE TER SEBASTIAN FL 32958",
+                              "RecIDs":  [
+                                             "23.1",
+                                             "23.13",
+                                             "23.14",
+                                             "23.16",
+                                             "23.6",
+                                             "23.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "761 PO BOX STRONG AR 71765",
+                              "RecIDs":  [
+                                             "23.2"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "0",
+                           "0",
+                           "0",
+                           "15",
+                           "15",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "26",
+        "Name":  "PEGGY ACE",
+        "Addresses":  [
+                          {
+                              "Address":  "15122 PLAZA LIBRE DR HOUSTON TX 77083",
+                              "RecIDs":  [
+                                             "24.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "280034 PO BOX HOUSTON TX 77228",
+                              "RecIDs":  [
+                                             "24.1"
+                                         ]
+                          },
+                          {
+                              "Address":  "5656 HALBRENT AVE VAN NUYS CA 91411",
+                              "RecIDs":  [
+                                             "24.3"
+                                         ]
+                          },
+                          {
+                              "Address":  "625 TAMARINDO WAY ROSEVILLE CA 95678",
+                              "RecIDs":  [
+                                             "24.4"
+                                         ]
+                          },
+                          {
+                              "Address":  "7728 PO BOX VAN NUYS CA 91409",
+                              "RecIDs":  [
+                                             "24.2"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "0",
+                           "0",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "27",
+        "Name":  "BRIAN M WRIGHT",
+        "Addresses":  [
+                          {
+                              "Address":  "4365 KINGSBURY PL RIVERSIDE CA 92503",
+                              "RecIDs":  [
+                                             "25.11",
+                                             "25.2",
+                                             "25.7",
+                                             "25.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "5656 HALBRENT AVE VAN NUYS CA 91411",
+                              "RecIDs":  [
+                                             "25.12",
+                                             "25.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "625 TAMARINDO WAY ROSEVILLE CA 95678",
+                              "RecIDs":  [
+                                             "25.4",
+                                             "25.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "8555 KYLE ST SUNLAND CA 91040",
+                              "RecIDs":  [
+                                             "25.1",
+                                             "25.10",
+                                             "25.13",
+                                             "25.14",
+                                             "25.3",
+                                             "25.6"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "6",
+                           "1",
+                           "1",
+                           "15"
+                       ]
+    },
+    {
+        "ClusterID":  "28",
+        "Name":  "LISA NICKELBERRY; LISA SANCHEZ",
+        "Addresses":  [
+                          {
+                              "Address":  "15400 RUBY CT LATHROP CA 95330",
+                              "RecIDs":  [
+                                             "26.10",
+                                             "26.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "2754 HERMOSA AVE APT 5 MONTROSE CA 91020",
+                              "RecIDs":  [
+                                             "26.1",
+                                             "26.11",
+                                             "26.2",
+                                             "26.4",
+                                             "26.5",
+                                             "26.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "670 SEELY AVE AROMAS CA 95004",
+                              "RecIDs":  [
+                                             "26.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "9521 EMERALD PARK DR APT 18 ELK GROVE CA 95624",
+                              "RecIDs":  [
+                                             "26.8"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "1",
+                           "15",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "29",
+        "Name":  "ELYSIA NICKELBERRY",
+        "Addresses":  [
+                          {
+                              "Address":  "2030 W 10TH ST SANTA ANA CA 92703",
+                              "RecIDs":  [
+                                             "26.3"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "30",
+        "Name":  "FELIPE L SANCHEZ",
+        "Addresses":  [
+                          {
+                              "Address":  "2754 HERMOSA AVE APT 5 MONTROSE CA 91020",
+                              "RecIDs":  [
+                                             "27.1",
+                                             "27.11",
+                                             "27.5",
+                                             "27.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "4116 MADELINE WAY MODESTO CA 95356",
+                              "RecIDs":  [
+                                             "27.8",
+                                             "27.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "670 SEELY AVE AROMAS CA 95004",
+                              "RecIDs":  [
+                                             "27.10",
+                                             "27.12",
+                                             "27.2",
+                                             "27.3",
+                                             "27.4",
+                                             "27.6"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "6",
+                           "1",
+                           "15"
+                       ]
+    },
+    {
+        "ClusterID":  "31",
+        "Name":  "NELIDIA L CASTILLO",
+        "Addresses":  [
+                          {
+                              "Address":  "328 1ST ST ORLANDO FL 32824",
+                              "RecIDs":  [
+                                             "28.4",
+                                             "28.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "3311 9TH ST SW LEHIGH ACRES FL 33976",
+                              "RecIDs":  [
+                                             "28.6",
+                                             "28.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "798 S ATMORE CIR DELTONA FL 32725",
+                              "RecIDs":  [
+                                             "28.1",
+                                             "28.10",
+                                             "28.2",
+                                             "28.3",
+                                             "28.5",
+                                             "28.8"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "1",
+                           "1",
+                           "15"
+                       ]
+    },
+    {
+        "ClusterID":  "32",
+        "Name":  "GLADYS HAYES; GLADYS RODRIGUEZ",
+        "Addresses":  [
+                          {
+                              "Address":  "19053 PO BOX WEST PALM BEACH FL 33416",
+                              "RecIDs":  [
+                                             "29.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "1918 PREAKNESS LN SAN ANTONIO TX 78248",
+                              "RecIDs":  [
+                                             "29.4"
+                                         ]
+                          },
+                          {
+                              "Address":  "2301 NE 35TH ST CAPE CORAL FL 33909",
+                              "RecIDs":  [
+                                             "29.14",
+                                             "29.15",
+                                             "29.3",
+                                             "29.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "372 PO BOX MIDLOTHIAN TX 76065",
+                              "RecIDs":  [
+                                             "29.11"
+                                         ]
+                          },
+                          {
+                              "Address":  "4329 SUMMER STAR LN KELLER TX 76248",
+                              "RecIDs":  [
+                                             "29.1",
+                                             "29.10",
+                                             "29.12",
+                                             "29.16",
+                                             "29.2",
+                                             "29.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "5485 ORANGE TREE LN MIDLOTHIAN TX 76065",
+                              "RecIDs":  [
+                                             "29.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "600 TAYLOR RD UNIT 219 PUNTA GORDA FL 33950",
+                              "RecIDs":  [
+                                             "29.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "690362 PO BOX SAN ANTONIO TX 78269",
+                              "RecIDs":  [
+                                             "29.13"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "0",
+                           "6",
+                           "0",
+                           "15",
+                           "0",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "33",
+        "Name":  "BRADLEY D HAYES",
+        "Addresses":  [
+                          {
+                              "Address":  "1843 HUNTINGDON AVE DALLAS TX 75203",
+                              "RecIDs":  [
+                                             "30.10",
+                                             "30.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "1918 PREAKNESS LN SAN ANTONIO TX 78248",
+                              "RecIDs":  [
+                                             "30.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "3300 S JACKSON ST AMARILLO TX 79109",
+                              "RecIDs":  [
+                                             "30.15",
+                                             "30.2",
+                                             "30.5",
+                                             "30.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "4329 SUMMER STAR LN KELLER TX 76248",
+                              "RecIDs":  [
+                                             "30.11",
+                                             "30.14",
+                                             "30.18",
+                                             "30.3"
+                                         ]
+                          },
+                          {
+                              "Address":  "5134 7TH ST PORT ARTHUR TX 77642",
+                              "RecIDs":  [
+                                             "30.1",
+                                             "30.12",
+                                             "30.16",
+                                             "30.17"
+                                         ]
+                          },
+                          {
+                              "Address":  "5485 ORANGE TREE LN MIDLOTHIAN TX 76065",
+                              "RecIDs":  [
+                                             "30.4",
+                                             "30.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "690362 PO BOX SAN ANTONIO TX 78269",
+                              "RecIDs":  [
+                                             "30.13"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "1",
+                           "0",
+                           "6",
+                           "6",
+                           "6",
+                           "1",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "34",
+        "Name":  "LANH K HART",
+        "Addresses":  [
+                          {
+                              "Address":  "12394 PASEO CORTO CIR EL PASO TX 79928",
+                              "RecIDs":  [
+                                             "31.10"
+                                         ]
+                          },
+                          {
+                              "Address":  "12558 COUNTRY ARBOR LN HOUSTON TX 77041",
+                              "RecIDs":  [
+                                             "31.11",
+                                             "31.14",
+                                             "31.16",
+                                             "31.3",
+                                             "31.4",
+                                             "31.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "13217 THOME VALLEY DR DEL VALLE TX 78617",
+                              "RecIDs":  [
+                                             "31.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "27096 PO BOX EL PASO TX 79926",
+                              "RecIDs":  [
+                                             "31.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "709 BRIDLE TRL SAGINAW TX 76179",
+                              "RecIDs":  [
+                                             "31.1",
+                                             "31.13",
+                                             "31.17",
+                                             "31.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "7433 BIGWOOD ST HOUSTON TX 77016",
+                              "RecIDs":  [
+                                             "31.15",
+                                             "31.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "7711 OCONNOR DR APT 102 ROUND ROCK TX 78681",
+                              "RecIDs":  [
+                                             "31.12",
+                                             "31.2"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "15",
+                           "0",
+                           "0",
+                           "6",
+                           "1",
+                           "1"
+                       ]
+    },
+    {
+        "ClusterID":  "35",
+        "Name":  "JEANIE GAVREL",
+        "Addresses":  [
+                          {
+                              "Address":  "18600 DALLAS PKWY APT 1534 DALLAS TX 75287",
+                              "RecIDs":  [
+                                             "32.3"
+                                         ]
+                          },
+                          {
+                              "Address":  "213 PO BOX MURRIETA CA 92564",
+                              "RecIDs":  [
+                                             "32.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "3414 YUPON ST HOUSTON TX 77006",
+                              "RecIDs":  [
+                                             "32.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "40541 SUNFLOWER RD MURRIETA CA 92562",
+                              "RecIDs":  [
+                                             "32.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "810892 PO BOX DALLAS TX 75381",
+                              "RecIDs":  [
+                                             "32.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "9201 SEVEN OAKS LN DENTON TX 76210",
+                              "RecIDs":  [
+                                             "32.1",
+                                             "32.2",
+                                             "32.4",
+                                             "32.7"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "0",
+                           "0",
+                           "0",
+                           "0",
+                           "6"
+                       ]
+    },
+    {
+        "ClusterID":  "36",
+        "Name":  "SAMUEL S GAMAN",
+        "Addresses":  [
+                          {
+                              "Address":  "18600 DALLAS PKWY APT 1534 DALLAS TX 75287",
+                              "RecIDs":  [
+                                             "33.14"
+                                         ]
+                          },
+                          {
+                              "Address":  "243 CLEAR POINT DR VALLEJO CA 94591",
+                              "RecIDs":  [
+                                             "33.1",
+                                             "33.11",
+                                             "33.13",
+                                             "33.4",
+                                             "33.5",
+                                             "33.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "3414 YUPON ST HOUSTON TX 77006",
+                              "RecIDs":  [
+                                             "33.12"
+                                         ]
+                          },
+                          {
+                              "Address":  "810892 PO BOX DALLAS TX 75381",
+                              "RecIDs":  [
+                                             "33.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "9201 SEVEN OAKS LN DENTON TX 76210",
+                              "RecIDs":  [
+                                             "33.10",
+                                             "33.15",
+                                             "33.2",
+                                             "33.3",
+                                             "33.8",
+                                             "33.9"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "15",
+                           "0",
+                           "0",
+                           "15"
+                       ]
+    },
+    {
+        "ClusterID":  "37",
+        "Name":  "MAIDDI W BLACKMON",
+        "Addresses":  [
+                          {
+                              "Address":  "1604 WHISPERING COVE TRL FORT WORTH TX 76134",
+                              "RecIDs":  [
+                                             "34.4",
+                                             "34.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "9414 PR 9908 PONDER TX 76259",
+                              "RecIDs":  [
+                                             "34.1",
+                                             "34.2",
+                                             "34.3",
+                                             "34.6",
+                                             "34.7",
+                                             "34.8"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "1",
+                           "15"
+                       ]
+    },
+    {
+        "ClusterID":  "38",
+        "Name":  "MICHELLE A FABIAN",
+        "Addresses":  [
+                          {
+                              "Address":  "1707 LA BREA ST APT 2A RAMONA CA 92065",
+                              "RecIDs":  [
+                                             "35.14",
+                                             "35.2",
+                                             "35.3",
+                                             "35.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "17942 BUNKER RD HIDDEN VALLEY LAKE CA 95467",
+                              "RecIDs":  [
+                                             "35.16",
+                                             "35.17"
+                                         ]
+                          },
+                          {
+                              "Address":  "18616 PO BOX OAKLALND CA 94619",
+                              "RecIDs":  [
+                                             "35.15"
+                                         ]
+                          },
+                          {
+                              "Address":  "1905 I AVE NATIONAL CITY CA 91950",
+                              "RecIDs":  [
+                                             "35.10",
+                                             "35.12",
+                                             "35.18",
+                                             "35.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "3599 MENDENHALL CT PLEASANTON CA 94588",
+                              "RecIDs":  [
+                                             "35.1",
+                                             "35.13",
+                                             "35.4",
+                                             "35.6",
+                                             "35.8",
+                                             "35.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "6016 BROADWAY OAKLAND CA 94618",
+                              "RecIDs":  [
+                                             "35.11"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "6",
+                           "1",
+                           "0",
+                           "6",
+                           "15",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "39",
+        "Name":  "YVETTE R ARIZPE; YVETTE R RICHARDSON",
+        "Addresses":  [
+                          {
+                              "Address":  "14581 ASHTON CT MORENO VALLEY CA 92555",
+                              "RecIDs":  [
+                                             "36.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "3632 OLD KEYSTONE RD TARPON SPRINGS FL 34688",
+                              "RecIDs":  [
+                                             "36.1",
+                                             "36.4",
+                                             "36.6",
+                                             "36.7",
+                                             "36.8",
+                                             "36.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "5617 BISHOP LN JACKSONVILLE FL 32207",
+                              "RecIDs":  [
+                                             "36.11",
+                                             "36.2"
+                                         ]
+                          },
+                          {
+                              "Address":  "6623 CAMBRIDGE PARK DR APOLLO BEACH FL 33572",
+                              "RecIDs":  [
+                                             "36.3"
+                                         ]
+                          },
+                          {
+                              "Address":  "8605 LA RIVIERA DR APT A SACRAMENTO CA 95826",
+                              "RecIDs":  [
+                                             "36.10"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "15",
+                           "1",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "40",
+        "Name":  "PAUL ARIZPE",
+        "Addresses":  [
+                          {
+                              "Address":  "3632 OLD KEYSTONE RD TARPON SPRINGS FL 34688",
+                              "RecIDs":  [
+                                             "37.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "5010 N NOB HILL RD APT 140 SUNRISE FL 33351",
+                              "RecIDs":  [
+                                             "37.1"
+                                         ]
+                          },
+                          {
+                              "Address":  "5617 BISHOP LN JACKSONVILLE FL 32207",
+                              "RecIDs":  [
+                                             "37.2",
+                                             "37.3"
+                                         ]
+                          },
+                          {
+                              "Address":  "6623 CAMBRIDGE PARK DR APOLLO BEACH FL 33572",
+                              "RecIDs":  [
+                                             "37.4"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "0",
+                           "1",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "41",
+        "Name":  "JOYCE M PALLETT",
+        "Addresses":  [
+                          {
+                              "Address":  "15464 ORLANDA DR BONITA SPRINGS FL 34135",
+                              "RecIDs":  [
+                                             "38.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "1857 W 24TH ST APT 1 LOS ANGELES CA 90018",
+                              "RecIDs":  [
+                                             "38.2"
+                                         ]
+                          },
+                          {
+                              "Address":  "7505 BRIGHTEN DR TAMPA FL 33615",
+                              "RecIDs":  [
+                                             "38.1",
+                                             "38.3",
+                                             "38.4",
+                                             "38.5"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "0",
+                           "6"
+                       ]
+    },
+    {
+        "ClusterID":  "42",
+        "Name":  "WALTER E GARRISON",
+        "Addresses":  [
+                          {
+                              "Address":  "14921 W HARDY DR TAMPA FL 33613",
+                              "RecIDs":  [
+                                             "39.13"
+                                         ]
+                          },
+                          {
+                              "Address":  "1857 W 24TH ST APT 1 LOS ANGELES CA 90018",
+                              "RecIDs":  [
+                                             "39.1",
+                                             "39.12",
+                                             "39.14",
+                                             "39.2",
+                                             "39.6",
+                                             "39.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "260 AVENIDA DELA VIS INDIALANTIC FL 32903",
+                              "RecIDs":  [
+                                             "39.3",
+                                             "39.4",
+                                             "39.5",
+                                             "39.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "6304 LAKE PLANTATION DR JACKSONVILLE FL 32244",
+                              "RecIDs":  [
+                                             "39.11",
+                                             "39.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "76972 PO BOX TAMPA FL 33675",
+                              "RecIDs":  [
+                                             "39.10"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "15",
+                           "6",
+                           "1",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "43",
+        "Name":  "EMILY M HOANG",
+        "Addresses":  [
+                          {
+                              "Address":  "3806 LESSER DR NEWBURY PARK CA 91320",
+                              "RecIDs":  [
+                                             "40.12",
+                                             "40.4",
+                                             "40.5",
+                                             "40.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "44269 PORTOFINO CT PALM DESERT CA 92260",
+                              "RecIDs":  [
+                                             "40.2",
+                                             "40.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "5601 BEGONIA DR SAN JOSE CA 95124",
+                              "RecIDs":  [
+                                             "40.13",
+                                             "40.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "7470 MERCEDES WAY ROHNERT PARK CA 94928",
+                              "RecIDs":  [
+                                             "40.1",
+                                             "40.10",
+                                             "40.11",
+                                             "40.14",
+                                             "40.3",
+                                             "40.7"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "6",
+                           "1",
+                           "1",
+                           "15"
+                       ]
+    },
+    {
+        "ClusterID":  "44",
+        "Name":  "LAWRENCE W MATASCI",
+        "Addresses":  [
+                          {
+                              "Address":  "20 VIA ALIVIO RANCHO SANTA MARGARITA CA 92688",
+                              "RecIDs":  [
+                                             "41.1",
+                                             "41.10",
+                                             "41.13",
+                                             "41.14",
+                                             "41.3",
+                                             "41.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "2502 GLENHURST CT SIMI VALLEY CA 93063",
+                              "RecIDs":  [
+                                             "41.12",
+                                             "41.2",
+                                             "41.6",
+                                             "41.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "3871 STATE HIGHWAY 88 IONE CA 95640",
+                              "RecIDs":  [
+                                             "41.15",
+                                             "41.4"
+                                         ]
+                          },
+                          {
+                              "Address":  "5601 BEGONIA DR SAN JOSE CA 95124",
+                              "RecIDs":  [
+                                             "41.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "6242 WARNER AVE HUNTINGTON BEACH CA 92647",
+                              "RecIDs":  [
+                                             "41.11",
+                                             "41.5"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "15",
+                           "6",
+                           "1",
+                           "0",
+                           "1"
+                       ]
+    },
+    {
+        "ClusterID":  "45",
+        "Name":  "MARIA ZEPEDA",
+        "Addresses":  [
+                          {
+                              "Address":  "1428 PO BOX SAN PEDRO CA 90733",
+                              "RecIDs":  [
+                                             "42.4"
+                                         ]
+                          },
+                          {
+                              "Address":  "1621 W 125TH ST SAN PEDRO CA 90731",
+                              "RecIDs":  [
+                                             "42.1"
+                                         ]
+                          },
+                          {
+                              "Address":  "3214 E KEARNEY ST LAREDO TX 78043",
+                              "RecIDs":  [
+                                             "42.2",
+                                             "42.3"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "0",
+                           "1"
+                       ]
+    },
+    {
+        "ClusterID":  "46",
+        "Name":  "MARTIN L MYERS",
+        "Addresses":  [
+                          {
+                              "Address":  "1621 W 125TH ST SAN PEDRO CA 90731",
+                              "RecIDs":  [
+                                             "43.11",
+                                             "43.12"
+                                         ]
+                          },
+                          {
+                              "Address":  "320 SANDSTONE CT CHULA VISTA CA 91911",
+                              "RecIDs":  [
+                                             "43.16",
+                                             "43.3",
+                                             "43.5",
+                                             "43.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "5254 ATLANTIC AVE LONG BEACH CA 90805",
+                              "RecIDs":  [
+                                             "43.1",
+                                             "43.14",
+                                             "43.8",
+                                             "43.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "5708 DA VINCI WAY SACRAMENTO CA 95835",
+                              "RecIDs":  [
+                                             "43.10",
+                                             "43.13",
+                                             "43.15",
+                                             "43.2",
+                                             "43.4",
+                                             "43.6"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "1",
+                           "6",
+                           "6",
+                           "15"
+                       ]
+    },
+    {
+        "ClusterID":  "47",
+        "Name":  "BETHANY M EVELETH",
+        "Addresses":  [
+                          {
+                              "Address":  "11023 EMERY ST EL MONTE CA 91731",
+                              "RecIDs":  [
+                                             "44.14",
+                                             "44.4",
+                                             "44.6",
+                                             "44.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "1209 DEL TORO DR LADY LAKE FL 32159",
+                              "RecIDs":  [
+                                             "44.1",
+                                             "44.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "17201 SANTA RITA ST FOUNTAIN VALLEY CA 92708",
+                              "RecIDs":  [
+                                             "44.3"
+                                         ]
+                          },
+                          {
+                              "Address":  "210 TEMPLE LN BELLEAIR BLUFFS FL 33770",
+                              "RecIDs":  [
+                                             "44.10",
+                                             "44.12",
+                                             "44.13",
+                                             "44.2"
+                                         ]
+                          },
+                          {
+                              "Address":  "312 MURPHY AVE RIVERSIDE CA 92507",
+                              "RecIDs":  [
+                                             "44.11"
+                                         ]
+                          },
+                          {
+                              "Address":  "3308 W 42ND ST LEHIGH ACRES FL 33971",
+                              "RecIDs":  [
+                                             "44.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "52661 POST RIVRSIDE CA 92517",
+                              "RecIDs":  [
+                                             "44.7"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "6",
+                           "1",
+                           "0",
+                           "6",
+                           "0",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "48",
+        "Name":  "MICHAEL L WYNN",
+        "Addresses":  [
+                          {
+                              "Address":  "1209 DEL TORO DR LADY LAKE FL 32159",
+                              "RecIDs":  [
+                                             "45.4",
+                                             "45.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "210 TEMPLE LN BELLEAIR BLUFFS FL 33770",
+                              "RecIDs":  [
+                                             "45.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "2106 PINETREE CT RANCHO CORDOVA CA 95670",
+                              "RecIDs":  [
+                                             "45.1",
+                                             "45.2",
+                                             "45.3",
+                                             "45.6"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "1",
+                           "0",
+                           "6"
+                       ]
+    },
+    {
+        "ClusterID":  "49",
+        "Name":  "BARBARA A COOK",
+        "Addresses":  [
+                          {
+                              "Address":  "1175 E OCEAN BLVD UNIT 202 LONG BEACH CA 90802",
+                              "RecIDs":  [
+                                             "46.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "14825 LARTH AVE LAWNDALE CA 90260",
+                              "RecIDs":  [
+                                             "46.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "1717 ORIOLE ST SAN DIEGO CA 92114",
+                              "RecIDs":  [
+                                             "46.1",
+                                             "46.10",
+                                             "46.6",
+                                             "46.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "17402 PO BOX LONG BEACH CA 90807",
+                              "RecIDs":  [
+                                             "46.3"
+                                         ]
+                          },
+                          {
+                              "Address":  "275 SAN RAFAEL ST POMONA CA 91767",
+                              "RecIDs":  [
+                                             "46.2"
+                                         ]
+                          },
+                          {
+                              "Address":  "52661 PO BOX RIVERSIDE CA",
+                              "RecIDs":  [
+                                             "46.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "804 PO BOX LAWNDALE CA 90260",
+                              "RecIDs":  [
+                                             "46.4"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "0",
+                           "6",
+                           "0",
+                           "0",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "50",
+        "Name":  "CONSTANCE SANDOVAL",
+        "Addresses":  [
+                          {
+                              "Address":  "133 PO BOX SEASIDE CA 93955",
+                              "RecIDs":  [
+                                             "47.1"
+                                         ]
+                          },
+                          {
+                              "Address":  "16992 HINTON CT CASTRO VALLEY CA 94546",
+                              "RecIDs":  [
+                                             "47.2",
+                                             "47.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "1835 N KEYSTONE ST BURBANK CA 91504",
+                              "RecIDs":  [
+                                             "47.4"
+                                         ]
+                          },
+                          {
+                              "Address":  "313 W SHOREVIEW DR SAN RAMON CA 94582",
+                              "RecIDs":  [
+                                             "47.3",
+                                             "47.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "591 PALM AVE SEASIDE CA 93955",
+                              "RecIDs":  [
+                                             "47.6"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "1",
+                           "0",
+                           "1",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "51",
+        "Name":  "JESSICA F MENDOZA",
+        "Addresses":  [
+                          {
+                              "Address":  "12026 VALLEY QUAIL DR EL PASO TX 79936",
+                              "RecIDs":  [
+                                             "48.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "1835 N KEYSTONE ST BURBANK CA 91504",
+                              "RecIDs":  [
+                                             "48.12",
+                                             "48.3"
+                                         ]
+                          },
+                          {
+                              "Address":  "21511 LONE RIDGE LN KATY TX 77449",
+                              "RecIDs":  [
+                                             "48.14"
+                                         ]
+                          },
+                          {
+                              "Address":  "2606 PO BOX SAN RAMON CA 94583",
+                              "RecIDs":  [
+                                             "48.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "2742 MOSS GROVE BLVD ORLANDO FL 32807",
+                              "RecIDs":  [
+                                             "48.1",
+                                             "48.11",
+                                             "48.13",
+                                             "48.15",
+                                             "48.2",
+                                             "48.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "317 W CHELSEA ST TAMPA FL 33603",
+                              "RecIDs":  [
+                                             "48.10",
+                                             "48.16",
+                                             "48.17",
+                                             "48.4",
+                                             "48.6",
+                                             "48.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "8850 GLEN MEADOW LN BEAUMONT TX 77706",
+                              "RecIDs":  [
+                                             "48.18"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "1",
+                           "0",
+                           "0",
+                           "15",
+                           "15",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "52",
+        "Name":  "KIMBERLY M EVERALL",
+        "Addresses":  [
+                          {
+                              "Address":  "1118 12TH ST IMPERIAL BEACH CA 91932",
+                              "RecIDs":  [
+                                             "49.1"
+                                         ]
+                          },
+                          {
+                              "Address":  "160 WENDELL CT SAN ANDREAS CA 95249",
+                              "RecIDs":  [
+                                             "49.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "2040 VAN WICK ST LOS ANGELES CA 90047",
+                              "RecIDs":  [
+                                             "49.2",
+                                             "49.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "316 N SAVANNAH ST LOS ANGELES CA 90033",
+                              "RecIDs":  [
+                                             "49.4"
+                                         ]
+                          },
+                          {
+                              "Address":  "562 W 11TH ST SAN PEDRO CA 90731",
+                              "RecIDs":  [
+                                             "49.3",
+                                             "49.6"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "0",
+                           "1",
+                           "0",
+                           "1"
+                       ]
+    },
+    {
+        "ClusterID":  "53",
+        "Name":  "GARLIN TRAINITO",
+        "Addresses":  [
+                          {
+                              "Address":  "160 WENDELL CT SAN ANDREAS CA 95249",
+                              "RecIDs":  [
+                                             "50.10",
+                                             "50.15",
+                                             "50.16",
+                                             "50.17",
+                                             "50.5",
+                                             "50.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "16048 KEALN CIR MOTNTVERDE FL 34756",
+                              "RecIDs":  [
+                                             "50.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "16238 WHISPERING HILLS DR CHINO HILLS CA 91709",
+                              "RecIDs":  [
+                                             "50.11",
+                                             "50.12",
+                                             "50.13",
+                                             "50.3"
+                                         ]
+                          },
+                          {
+                              "Address":  "316 N SAVANNAH ST LOS ANGELES CA 90033",
+                              "RecIDs":  [
+                                             "50.1",
+                                             "50.14",
+                                             "50.2",
+                                             "50.4",
+                                             "50.7",
+                                             "50.9"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "15",
+                           "0",
+                           "6",
+                           "15"
+                       ]
+    },
+    {
+        "ClusterID":  "54",
+        "Name":  "GERALDINE S ALMEIDA",
+        "Addresses":  [
+                          {
+                              "Address":  "140 E 6TH ST BOONEVILLE AR 72927",
+                              "RecIDs":  [
+                                             "51.3"
+                                         ]
+                          },
+                          {
+                              "Address":  "2402 SW CHOCTAW ST BENTONVILLE AR 72712",
+                              "RecIDs":  [
+                                             "51.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "612 GRAHAM ST WEST MEMPHIS AR 72301",
+                              "RecIDs":  [
+                                             "51.1",
+                                             "51.2",
+                                             "51.4",
+                                             "51.5"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "0",
+                           "6"
+                       ]
+    },
+    {
+        "ClusterID":  "55",
+        "Name":  "TODD M RENTERIA",
+        "Addresses":  [
+                          {
+                              "Address":  "19765 TURTLE SPRINGS WAY NORTHRIDGE CA 91326",
+                              "RecIDs":  [
+                                             "52.2"
+                                         ]
+                          },
+                          {
+                              "Address":  "2402 SW CHOCTAW ST BENTONVILLE AR 72712",
+                              "RecIDs":  [
+                                             "52.1"
+                                         ]
+                          },
+                          {
+                              "Address":  "8572 CA 91327",
+                              "RecIDs":  [
+                                             "52.3"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "56",
+        "Name":  "MARIA S BAUER",
+        "Addresses":  [
+                          {
+                              "Address":  "2351 SUNSET BLVD STE 170 ROCKLIN CA 95765",
+                              "RecIDs":  [
+                                             "53.10",
+                                             "53.12",
+                                             "53.13",
+                                             "53.14",
+                                             "53.3",
+                                             "53.4"
+                                         ]
+                          },
+                          {
+                              "Address":  "53 FALLS WAY DR ORMOND BEACH FL 32174",
+                              "RecIDs":  [
+                                             "53.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "730127 PO BOX ORMOND BEACH FL",
+                              "RecIDs":  [
+                                             "53.11"
+                                         ]
+                          },
+                          {
+                              "Address":  "7851 SW 106TH AVE MIAMI FL 33173",
+                              "RecIDs":  [
+                                             "53.1",
+                                             "53.15",
+                                             "53.2",
+                                             "53.6",
+                                             "53.8",
+                                             "53.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "822 COMMONWEALTH AVE VENICE CA 90291",
+                              "RecIDs":  [
+                                             "53.7"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "15",
+                           "0",
+                           "0",
+                           "15",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "57",
+        "Name":  "JUAN R SCOTT",
+        "Addresses":  [
+                          {
+                              "Address":  "2106 N 13TH ST HARLINGEN TX 78550",
+                              "RecIDs":  [
+                                             "54.1",
+                                             "54.11",
+                                             "54.2",
+                                             "54.3",
+                                             "54.4",
+                                             "54.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "2351 SUNSET BLVD STE 170 ROCKLIN CA 95765",
+                              "RecIDs":  [
+                                             "54.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "2812 PO BOX VENICE CA 90294",
+                              "RecIDs":  [
+                                             "54.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "39090 PRESIDIO WAY APT 232 FREMONT CA 94538",
+                              "RecIDs":  [
+                                             "54.10",
+                                             "54.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "822 COMMONWEALTH AVE VENICE CA 90291",
+                              "RecIDs":  [
+                                             "54.9"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "15",
+                           "0",
+                           "0",
+                           "1",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "58",
+        "Name":  "PATRICIA HIGINSON",
+        "Addresses":  [
+                          {
+                              "Address":  "1704 W 149TH ST APT A GARDENA CA 90247",
+                              "RecIDs":  [
+                                             "55.1",
+                                             "55.10",
+                                             "55.2",
+                                             "55.3",
+                                             "55.6",
+                                             "55.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "4719 PARK ST PANAMA CITY FL 32404",
+                              "RecIDs":  [
+                                             "55.4"
+                                         ]
+                          },
+                          {
+                              "Address":  "548 VISTA WAY LN EAGLE LAKE FL 33839",
+                              "RecIDs":  [
+                                             "55.11",
+                                             "55.13",
+                                             "55.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "804 ZACA PL SANTA MARIA CA 93458",
+                              "RecIDs":  [
+                                             "55.12",
+                                             "55.5",
+                                             "55.7"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "15",
+                           "0",
+                           "3",
+                           "3"
+                       ]
+    },
+    {
+        "ClusterID":  "59",
+        "Name":  "RICARDO H FINGAR",
+        "Addresses":  [
+                          {
+                              "Address":  "154 PO BOX EAGLE LAKE FL 33839",
+                              "RecIDs":  [
+                                             "56.4"
+                                         ]
+                          },
+                          {
+                              "Address":  "268205 RISUNEO RD CATHEDRAL CITY CA 92234",
+                              "RecIDs":  [
+                                             "56.2",
+                                             "56.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "4719 PARK ST PANAMA CITY FL 32404",
+                              "RecIDs":  [
+                                             "56.1",
+                                             "56.3"
+                                         ]
+                          },
+                          {
+                              "Address":  "548 VISTA WAY LN EAGLE LAKE FL 33839",
+                              "RecIDs":  [
+                                             "56.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "6026 NEWCASTLE CT SAN DIEGO CA 92114",
+                              "RecIDs":  [
+                                             "56.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "801 ALAMEDA CT LAKE ELSINORE CA 92530",
+                              "RecIDs":  [
+                                             "56.5"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "1",
+                           "1",
+                           "0",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "60",
+        "Name":  "KELLY A NIGRO; KELLY A WEBB",
+        "Addresses":  [
+                          {
+                              "Address":  "2700 LOCKSLEY RD MELBOURNE FL 32935",
+                              "RecIDs":  [
+                                             "57.2"
+                                         ]
+                          },
+                          {
+                              "Address":  "7374 WESCOTT TER LAKE WORTH FL 33467",
+                              "RecIDs":  [
+                                             "57.1",
+                                             "57.3",
+                                             "57.4",
+                                             "57.5",
+                                             "57.7",
+                                             "57.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "8006 DURLYN LN HOUSTON TX 77070",
+                              "RecIDs":  [
+                                             "57.6",
+                                             "57.8"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "15",
+                           "1"
+                       ]
+    },
+    {
+        "ClusterID":  "61",
+        "Name":  "RICHARD WEBB",
+        "Addresses":  [
+                          {
+                              "Address":  "2700 LOCKSLEY RD MELBOURNE FL 32935",
+                              "RecIDs":  [
+                                             "58.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "7374 WESCOTT TER LAKE WORTH FL 33467",
+                              "RecIDs":  [
+                                             "58.1",
+                                             "58.3",
+                                             "58.4",
+                                             "58.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "91 T01 PASEO GRANDE WY ELK GROVE CA 95758",
+                              "RecIDs":  [
+                                             "58.2"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "6",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "62",
+        "Name":  "ITAI L ARANDA",
+        "Addresses":  [
+                          {
+                              "Address":  "18486 NORTHRIDGE DR SALINAS CA 93906",
+                              "RecIDs":  [
+                                             "59.1",
+                                             "59.2",
+                                             "59.3",
+                                             "59.4",
+                                             "59.5",
+                                             "59.6"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "15"
+                       ]
+    },
+    {
+        "ClusterID":  "63",
+        "Name":  "ANDREY D SINOR",
+        "Addresses":  [
+                          {
+                              "Address":  "18846 SIERRA ESTATES DR NEWHALL CA 91321",
+                              "RecIDs":  [
+                                             "60.1",
+                                             "60.2",
+                                             "60.3",
+                                             "60.4",
+                                             "60.5",
+                                             "60.6"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "15"
+                       ]
+    },
+    {
+        "ClusterID":  "64",
+        "Name":  "DORINDA R MOMOH",
+        "Addresses":  [
+                          {
+                              "Address":  "13992 LIBBY LN WARD AR 72176",
+                              "RecIDs":  [
+                                             "61.1",
+                                             "61.2",
+                                             "61.5",
+                                             "61.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "5313 ALLEN ST NORTH LITTLE ROCK AR 72118",
+                              "RecIDs":  [
+                                             "61.3",
+                                             "61.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "542 RENWICK DR HOUSTON TX 77081",
+                              "RecIDs":  [
+                                             "61.4"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "6",
+                           "1",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "65",
+        "Name":  "PAUL G RAYMOND",
+        "Addresses":  [
+                          {
+                              "Address":  "13992 LIBBY LN WARD AR 72176",
+                              "RecIDs":  [
+                                             "62.1",
+                                             "62.13",
+                                             "62.2",
+                                             "62.5",
+                                             "62.7",
+                                             "62.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "2609 LOOKOUT DR APT 7207 GARLAND TX 75044",
+                              "RecIDs":  [
+                                             "62.3",
+                                             "62.4",
+                                             "62.6",
+                                             "62.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "504 PO BOX TX 76023",
+                              "RecIDs":  [
+                                             "62.12"
+                                         ]
+                          },
+                          {
+                              "Address":  "517 S HIFTT ST BOYD TX 76023",
+                              "RecIDs":  [
+                                             "62.14"
+                                         ]
+                          },
+                          {
+                              "Address":  "5313 ALLEN ST NORTH LITTLE ROCK AR 72118",
+                              "RecIDs":  [
+                                             "62.10"
+                                         ]
+                          },
+                          {
+                              "Address":  "94138 PO BOX NORTH LITTLE ROCK AR 72190",
+                              "RecIDs":  [
+                                             "62.11"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "15",
+                           "6",
+                           "0",
+                           "0",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "66",
+        "Name":  "SARA S SADRA",
+        "Addresses":  [
+                          {
+                              "Address":  "3500 HARBISON DR APT 312 VACAVILLE CA 95687",
+                              "RecIDs":  [
+                                             "63.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "4029 TEMPLE CITY BLVD SAN DIMAS CA 91773",
+                              "RecIDs":  [
+                                             "63.2",
+                                             "63.3",
+                                             "63.4",
+                                             "63.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "9300 HEALON WAY ELK GROVE CA 95624",
+                              "RecIDs":  [
+                                             "63.1",
+                                             "63.5"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "6",
+                           "1"
+                       ]
+    },
+    {
+        "ClusterID":  "67",
+        "Name":  "LANCE LAND",
+        "Addresses":  [
+                          {
+                              "Address":  "1158 PO BOX VACAVILLE CA 95696",
+                              "RecIDs":  [
+                                             "64.3"
+                                         ]
+                          },
+                          {
+                              "Address":  "1575 SIERRA HWY ACTON CA 93510",
+                              "RecIDs":  [
+                                             "64.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "4242 DAWN LN OCEANSIDE CA 92056",
+                              "RecIDs":  [
+                                             "64.1",
+                                             "64.2",
+                                             "64.4",
+                                             "64.6"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "0",
+                           "6"
+                       ]
+    },
+    {
+        "ClusterID":  "68",
+        "Name":  "RENE A CRANE; RENE A MELENDEZ",
+        "Addresses":  [
+                          {
+                              "Address":  "12143 BABBLINGBROOK DR JACKSONVILLE FL 32225",
+                              "RecIDs":  [
+                                             "65.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "20101 SW 91ST AVE CUTLER BAY FL 33189",
+                              "RecIDs":  [
+                                             "65.14",
+                                             "65.15",
+                                             "65.16",
+                                             "65.2",
+                                             "65.3",
+                                             "65.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "3700 NW 62ND AVE APT 206 VIRGINIA GARDENS FL 33166",
+                              "RecIDs":  [
+                                             "65.12",
+                                             "65.13",
+                                             "65.4",
+                                             "65.5",
+                                             "65.7",
+                                             "65.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "3908 APPLEGATE CIR BRANDON FL 33511",
+                              "RecIDs":  [
+                                             "65.10"
+                                         ]
+                          },
+                          {
+                              "Address":  "5314 POST JACKSONVILLE FL 32247",
+                              "RecIDs":  [
+                                             "65.11"
+                                         ]
+                          },
+                          {
+                              "Address":  "680 WOODDELL DR SAFETY HARBOR FL 34695",
+                              "RecIDs":  [
+                                             "65.1"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "15",
+                           "15",
+                           "0",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "69",
+        "Name":  "JACY A MURPHY",
+        "Addresses":  [
+                          {
+                              "Address":  "1186 VENETIAN HARBOR DR NE ST PETERSBURG FL 33702",
+                              "RecIDs":  [
+                                             "66.2",
+                                             "66.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "15897 PALM VISTA DR HARLINGEN TX 78552",
+                              "RecIDs":  [
+                                             "66.1",
+                                             "66.3"
+                                         ]
+                          },
+                          {
+                              "Address":  "2115 FORELAND DR HOUSTON TX 77077",
+                              "RecIDs":  [
+                                             "66.5",
+                                             "66.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "243722 PO BOX BOYNTON BEACH FL 33424",
+                              "RecIDs":  [
+                                             "66.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "800 SW 1ST CT BOYNTON BEACH FL 33426",
+                              "RecIDs":  [
+                                             "66.4"
+                                         ]
+                          },
+                          {
+                              "Address":  "860105 PO BOX PLANO TX 75086",
+                              "RecIDs":  [
+                                             "66.6"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "1",
+                           "1",
+                           "1",
+                           "0",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "70",
+        "Name":  "GEORGE M EMERT",
+        "Addresses":  [
+                          {
+                              "Address":  "1431 W 71ST ST LOS ANGELES CA 90047",
+                              "RecIDs":  [
+                                             "67.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "15897 PALM VISTA DR HARLINGEN TX 78552",
+                              "RecIDs":  [
+                                             "67.1",
+                                             "67.2",
+                                             "67.4",
+                                             "67.6",
+                                             "67.7",
+                                             "67.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "2115 FORELAND DR HOUSTON TX 77077",
+                              "RecIDs":  [
+                                             "67.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "860105 PO BOX PLANO TX 75086",
+                              "RecIDs":  [
+                                             "67.3"
+                                         ]
+                          },
+                          {
+                              "Address":  "881605 PO BOX LOS ANGELES CA 90009",
+                              "RecIDs":  [
+                                             "67.10"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "15",
+                           "0",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "71",
+        "Name":  "LOREAL P PEDRAJA",
+        "Addresses":  [
+                          {
+                              "Address":  "1411 W 66TH ST LOS ANGELES CA 90047",
+                              "RecIDs":  [
+                                             "68.14"
+                                         ]
+                          },
+                          {
+                              "Address":  "2450 N CECELIA AVE FRESNO CA 93722",
+                              "RecIDs":  [
+                                             "68.10",
+                                             "68.11",
+                                             "68.13",
+                                             "68.2",
+                                             "68.5",
+                                             "68.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "2834 EMERALD LN LANCASTER CA 93535",
+                              "RecIDs":  [
+                                             "68.1",
+                                             "68.12",
+                                             "68.3",
+                                             "68.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "3952 OAK VILLA CIR CARMICHAEL CA 95608",
+                              "RecIDs":  [
+                                             "68.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "7514 CHARMANT DR APT 914 SAN DIEGO CA 92122",
+                              "RecIDs":  [
+                                             "68.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "881605 PO BOX LOS ANGELES CA 90009",
+                              "RecIDs":  [
+                                             "68.4"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "15",
+                           "6",
+                           "0",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "72",
+        "Name":  "LORENA BAKSH; LORENA WOODARD",
+        "Addresses":  [
+                          {
+                              "Address":  "1221 COLLEGE PKWY LEWISVILLE TX 75077",
+                              "RecIDs":  [
+                                             "69.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "14150 PRAIRIE AVE APT 115 HAWTHORNE CA 90250",
+                              "RecIDs":  [
+                                             "69.1",
+                                             "69.2",
+                                             "69.3",
+                                             "69.4",
+                                             "69.5",
+                                             "69.7"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "15"
+                       ]
+    },
+    {
+        "ClusterID":  "73",
+        "Name":  "ROBERT EMMITT WOODARD",
+        "Addresses":  [
+                          {
+                              "Address":  "17341 REDMAPLE ST FONTANA CA 92337",
+                              "RecIDs":  [
+                                             "70.1",
+                                             "70.2"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "1"
+                       ]
+    },
+    {
+        "ClusterID":  "74",
+        "Name":  "CYNTHIA C SCHRODER; CYNTHIA C BECKETT",
+        "Addresses":  [
+                          {
+                              "Address":  "1576 BELLA GRU DR APT 121 LADY LAKE FL 32162",
+                              "RecIDs":  [
+                                             "71.1",
+                                             "71.3",
+                                             "71.6",
+                                             "71.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "401 N HARBOR LIGHTS DR PONTE VEDRA FL 32081",
+                              "RecIDs":  [
+                                             "71.11",
+                                             "71.2",
+                                             "71.4",
+                                             "71.5",
+                                             "71.8",
+                                             "71.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "76972 PO BOX TAMPA FL 33675",
+                              "RecIDs":  [
+                                             "71.13"
+                                         ]
+                          },
+                          {
+                              "Address":  "1301 MUSTANG DR LEWISVILLE TX 75067",
+                              "RecIDs":  [
+                                             "71.10"
+                                         ]
+                          },
+                          {
+                              "Address":  "293150 PO BOX LEWISVILLE TX 75029",
+                              "RecIDs":  [
+                                             "71.12"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "6",
+                           "15",
+                           "0",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "75",
+        "Name":  "BRIAN A BECKETT",
+        "Addresses":  [
+                          {
+                              "Address":  "10290 PO BOX CONWAY AR 72034",
+                              "RecIDs":  [
+                                             "72.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "1228 CLFAX DR RICHARDSON TX",
+                              "RecIDs":  [
+                                             "72.2"
+                                         ]
+                          },
+                          {
+                              "Address":  "1354 PO BOX RUSSELLVILLE AR 72811",
+                              "RecIDs":  [
+                                             "72.3"
+                                         ]
+                          },
+                          {
+                              "Address":  "1940 S ELMIRA AVE APT 116 RUSSELLVILLE AR 72802",
+                              "RecIDs":  [
+                                             "72.4"
+                                         ]
+                          },
+                          {
+                              "Address":  "293150 PO BOX LEWISVILLE TX 75029",
+                              "RecIDs":  [
+                                             "72.1"
+                                         ]
+                          },
+                          {
+                              "Address":  "53 JAMIE LN MORRILTON AR 72110",
+                              "RecIDs":  [
+                                             "72.6"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "0",
+                           "0",
+                           "0",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "76",
+        "Name":  "JENNIFER G HODGES",
+        "Addresses":  [
+                          {
+                              "Address":  "28 NARANJA RD DEBARY FL 32713",
+                              "RecIDs":  [
+                                             "73.2"
+                                         ]
+                          },
+                          {
+                              "Address":  "280034 PO BOX HOUSTON TX 77228",
+                              "RecIDs":  [
+                                             "73.1"
+                                         ]
+                          },
+                          {
+                              "Address":  "6322 W FAIRLEE CT CRYSTAL RIVER FL 34428",
+                              "RecIDs":  [
+                                             "73.3"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "77",
+        "Name":  "IVAN M JOHNSON",
+        "Addresses":  [
+                          {
+                              "Address":  "10650 E JAHANT RD ACAMPO CA 95220",
+                              "RecIDs":  [
+                                             "74.12",
+                                             "74.15"
+                                         ]
+                          },
+                          {
+                              "Address":  "1566 7TH ST OROVILLE CA 95965",
+                              "RecIDs":  [
+                                             "74.14",
+                                             "74.18",
+                                             "74.2",
+                                             "74.5",
+                                             "74.6",
+                                             "74.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "2301 MOGAN AVE SACRAMENTO CA 95838",
+                              "RecIDs":  [
+                                             "74.10",
+                                             "74.16",
+                                             "74.19",
+                                             "74.3",
+                                             "74.4",
+                                             "74.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "2403 SWEETBRIAR CT KISSIMMEE FL 34744",
+                              "RecIDs":  [
+                                             "74.13"
+                                         ]
+                          },
+                          {
+                              "Address":  "28 NARANJA RD DEBARY FL 32713",
+                              "RecIDs":  [
+                                             "74.1",
+                                             "74.11",
+                                             "74.17",
+                                             "74.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "6322 W FAIRLEE CT CRYSTAL RIVER FL 34428",
+                              "RecIDs":  [
+                                             "74.20"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "1",
+                           "15",
+                           "15",
+                           "0",
+                           "6",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "78",
+        "Name":  "DANA L G; DANA L STEVENS",
+        "Addresses":  [
+                          {
+                              "Address":  "21231 OAKFORT AVE CARSON CA 90745",
+                              "RecIDs":  [
+                                             "75.4"
+                                         ]
+                          },
+                          {
+                              "Address":  "2891 SE PACE DR PORT SAINT LUCIE FL 34984",
+                              "RecIDs":  [
+                                             "75.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "6367 TOWNSEND RD JACKSONVILLE FL 32244",
+                              "RecIDs":  [
+                                             "75.1",
+                                             "75.10",
+                                             "75.2",
+                                             "75.3",
+                                             "75.6",
+                                             "75.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "8433 PO BOX PORT SAINT LUCIE FL 34985",
+                              "RecIDs":  [
+                                             "75.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "9137 85TH AVE N LARGO FL 33777",
+                              "RecIDs":  [
+                                             "75.5"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "0",
+                           "15",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "79",
+        "Name":  "JOSEFINA A GOSSETT",
+        "Addresses":  [
+                          {
+                              "Address":  "2891 SE PACE DR PORT SAINT LUCIE FL 34984",
+                              "RecIDs":  [
+                                             "76.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "6540 RIJDDLE DR FORT WORTH TX 76180",
+                              "RecIDs":  [
+                                             "76.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "79373 PO BOX FORT WORTH TX 76179",
+                              "RecIDs":  [
+                                             "76.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "9137 85TH AVE N LARGO FL 33777",
+                              "RecIDs":  [
+                                             "76.1",
+                                             "76.2",
+                                             "76.3",
+                                             "76.4",
+                                             "76.5",
+                                             "76.6"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "0",
+                           "0",
+                           "15"
+                       ]
+    },
+    {
+        "ClusterID":  "80",
+        "Name":  "MARY M CANO",
+        "Addresses":  [
+                          {
+                              "Address":  "613 MAIN ST LIBERTY TX 77575",
+                              "RecIDs":  [
+                                             "77.1"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "81",
+        "Name":  "MARIA M PAP",
+        "Addresses":  [
+                          {
+                              "Address":  "5902 J12 W AVE LANCASTER CA 93536",
+                              "RecIDs":  [
+                                             "77.2"
+                                         ]
+                          },
+                          {
+                              "Address":  "613 MAIN ST LIBERTY TX 77575",
+                              "RecIDs":  [
+                                             "77.3"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "82",
+        "Name":  "CONSUELO CANO",
+        "Addresses":  [
+                          {
+                              "Address":  "1050 W 228TH ST TORRANCE CA 90502",
+                              "RecIDs":  [
+                                             "78.4"
+                                         ]
+                          },
+                          {
+                              "Address":  "268 PO BOX TORRANCE CA 90507",
+                              "RecIDs":  [
+                                             "78.3"
+                                         ]
+                          },
+                          {
+                              "Address":  "4218 LYND AVE ARCADIA CA 91006",
+                              "RecIDs":  [
+                                             "78.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "613 MAIN ST LIBERTY TX 77575",
+                              "RecIDs":  [
+                                             "78.1",
+                                             "78.2"
+                                         ]
+                          },
+                          {
+                              "Address":  "661111 PO BOX ARCADIA CA 91066",
+                              "RecIDs":  [
+                                             "78.6"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "0",
+                           "0",
+                           "1",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "83",
+        "Name":  "KANESHA J MORALES",
+        "Addresses":  [
+                          {
+                              "Address":  "1215 E 43RD PL APT 3 LOS ANGELES CA 90011",
+                              "RecIDs":  [
+                                             "79.2"
+                                         ]
+                          },
+                          {
+                              "Address":  "12741 BISCAYNE AVE VICTORVILLE CA 92392",
+                              "RecIDs":  [
+                                             "79.3",
+                                             "79.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "17950 MIDWAY RD TRACY CA 95377",
+                              "RecIDs":  [
+                                             "79.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "5215 ALMIRA RD SOUTH GATE CA 90280",
+                              "RecIDs":  [
+                                             "79.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "7260 N FRUIT AVE FRESNO CA 93711",
+                              "RecIDs":  [
+                                             "79.1",
+                                             "79.4"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "1",
+                           "0",
+                           "0",
+                           "1"
+                       ]
+    },
+    {
+        "ClusterID":  "84",
+        "Name":  "JAMES D BLAKE",
+        "Addresses":  [
+                          {
+                              "Address":  "1215 E 43RD PL APT 3 LOS ANGELES CA 90011",
+                              "RecIDs":  [
+                                             "80.1",
+                                             "80.3",
+                                             "80.4",
+                                             "80.6",
+                                             "80.8",
+                                             "80.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "12741 BISCAYNE AVE VICTORVILLE CA 92392",
+                              "RecIDs":  [
+                                             "80.2"
+                                         ]
+                          },
+                          {
+                              "Address":  "17950 MIDWAY RD TRACY CA 95377",
+                              "RecIDs":  [
+                                             "80.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "407 PO BOX VICTORVILLE CA 92393",
+                              "RecIDs":  [
+                                             "80.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "6864 PO BOX HUDSON FL 34674",
+                              "RecIDs":  [
+                                             "80.10"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "15",
+                           "0",
+                           "0",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "85",
+        "Name":  "LARHONDA A THOMAS; LARHONDA A WAIBEL",
+        "Addresses":  [
+                          {
+                              "Address":  "17915 LOOKOUT LAKE CIR FLINT TX 75762",
+                              "RecIDs":  [
+                                             "81.2"
+                                         ]
+                          },
+                          {
+                              "Address":  "1811 STRATFORD CT SALINAS CA 93906",
+                              "RecIDs":  [
+                                             "81.5",
+                                             "81.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "225 WILLOW CREEK LN FORT WORTH TX 76134",
+                              "RecIDs":  [
+                                             "81.4"
+                                         ]
+                          },
+                          {
+                              "Address":  "601 CYPRESS STATION DR APT 406 HOUSTON TX 77090",
+                              "RecIDs":  [
+                                             "81.1",
+                                             "81.3",
+                                             "81.6",
+                                             "81.8"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "1",
+                           "0",
+                           "6"
+                       ]
+    },
+    {
+        "ClusterID":  "86",
+        "Name":  "RONALD M WAIBEL",
+        "Addresses":  [
+                          {
+                              "Address":  "17915 LOOKOUT LAKE CIR FLINT TX 75762",
+                              "RecIDs":  [
+                                             "82.10",
+                                             "82.12",
+                                             "82.13",
+                                             "82.14",
+                                             "82.7",
+                                             "82.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "225 WILLOW CREEK LN FORT WORTH TX 76134",
+                              "RecIDs":  [
+                                             "82.1",
+                                             "82.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "3616 HILLTOP LN PLANO TX 75023",
+                              "RecIDs":  [
+                                             "82.11",
+                                             "82.15",
+                                             "82.2",
+                                             "82.3",
+                                             "82.4",
+                                             "82.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "601 CYPRESS STATION DR APT 406 HOUSTON TX 77090",
+                              "RecIDs":  [
+                                             "82.8"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "15",
+                           "1",
+                           "15",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "87",
+        "Name":  "CRUZ S SAPIEN",
+        "Addresses":  [
+                          {
+                              "Address":  "3543 HARTSFIELD FOREST CIR JACKSONVILLE FL 32277",
+                              "RecIDs":  [
+                                             "83.1"
+                                         ]
+                          },
+                          {
+                              "Address":  "3660 N 56TH AVE HOLLYWOOD FL 33021",
+                              "RecIDs":  [
+                                             "83.2"
+                                         ]
+                          },
+                          {
+                              "Address":  "8061 SW 158TH AVE MIAMI FL 33193",
+                              "RecIDs":  [
+                                             "83.3"
+                                         ]
+                          },
+                          {
+                              "Address":  "817432 PO BOX HOLLYWOOD FL 33081",
+                              "RecIDs":  [
+                                             "83.4"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "0",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "88",
+        "Name":  "ELLEN C ROBERTS",
+        "Addresses":  [
+                          {
+                              "Address":  "1917 RODNEY DR LOS ANGELES CA 90027",
+                              "RecIDs":  [
+                                             "84.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "23012 OXFORD PL BOCA RATON FL 33433",
+                              "RecIDs":  [
+                                             "84.2",
+                                             "84.4",
+                                             "84.6",
+                                             "84.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "4117 QUAIL RANCH RD NEW SMYRNA BEACH FL 32168",
+                              "RecIDs":  [
+                                             "84.3"
+                                         ]
+                          },
+                          {
+                              "Address":  "989 TWIN BROOK DR SAN JOSE CA 95126",
+                              "RecIDs":  [
+                                             "84.1"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "6",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "89",
+        "Name":  "ANTHONY A MARTENS",
+        "Addresses":  [
+                          {
+                              "Address":  "1213 W L ST WILMINGTON CA 90744",
+                              "RecIDs":  [
+                                             "85.11",
+                                             "85.2"
+                                         ]
+                          },
+                          {
+                              "Address":  "23012 OXFORD PL BOCA RATON FL 33433",
+                              "RecIDs":  [
+                                             "85.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "245 MANHATTAN WAY PORT ORANGE FL 32129",
+                              "RecIDs":  [
+                                             "85.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "31532 VINTNERS POINTE CT WINCHESTER CA 92596",
+                              "RecIDs":  [
+                                             "85.10",
+                                             "85.13",
+                                             "85.16",
+                                             "85.3",
+                                             "85.4",
+                                             "85.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "4117 QUAIL RANCH RD NEW SMYRNA BEACH FL 32168",
+                              "RecIDs":  [
+                                             "85.1"
+                                         ]
+                          },
+                          {
+                              "Address":  "521 COCHRAN AVE SAN DIEGO CA 92154",
+                              "RecIDs":  [
+                                             "85.12",
+                                             "85.14",
+                                             "85.15",
+                                             "85.17",
+                                             "85.6",
+                                             "85.7"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "1",
+                           "0",
+                           "0",
+                           "15",
+                           "0",
+                           "15"
+                       ]
+    },
+    {
+        "ClusterID":  "90",
+        "Name":  "GLENDA J COX",
+        "Addresses":  [
+                          {
+                              "Address":  "11153 CAMINITO ALVAREZ SAN DIEGO CA 92126",
+                              "RecIDs":  [
+                                             "86.1",
+                                             "86.3"
+                                         ]
+                          },
+                          {
+                              "Address":  "1227 HOLMES ST COCOA FL 32922",
+                              "RecIDs":  [
+                                             "86.2"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "1",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "91",
+        "Name":  "DANNY R LONGORIA",
+        "Addresses":  [
+                          {
+                              "Address":  "1568 TRAVERTINE TER SANFORD FL 32771",
+                              "RecIDs":  [
+                                             "87.10"
+                                         ]
+                          },
+                          {
+                              "Address":  "19140 NW 23RD PL PEMBROKE PINES FL 33029",
+                              "RecIDs":  [
+                                             "87.12",
+                                             "87.2",
+                                             "87.3",
+                                             "87.5",
+                                             "87.7",
+                                             "87.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "307 POST COCOA FL 32923",
+                              "RecIDs":  [
+                                             "87.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "370 E LAUREL DR MARGATE FL 33063",
+                              "RecIDs":  [
+                                             "87.1",
+                                             "87.11",
+                                             "87.4",
+                                             "87.9"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "15",
+                           "0",
+                           "6"
+                       ]
+    },
+    {
+        "ClusterID":  "92",
+        "Name":  "KELLY K HOVANESSIAN",
+        "Addresses":  [
+                          {
+                              "Address":  "6130 WUNDERLI AVE SAN DIEGO CA 92114",
+                              "RecIDs":  [
+                                             "88.1",
+                                             "88.2"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "1"
+                       ]
+    },
+    {
+        "ClusterID":  "93",
+        "Name":  "ROCHELLE V CALDWELL",
+        "Addresses":  [
+                          {
+                              "Address":  "14242 ALLAMANDA DR CORPUS CHRISTI TX 78418",
+                              "RecIDs":  [
+                                             "89.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "14777 WUNDERLICH DR HOUSTON TX 77069",
+                              "RecIDs":  [
+                                             "89.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "280911 PO BOX SAN FRANCISCO CA 94128",
+                              "RecIDs":  [
+                                             "89.4"
+                                         ]
+                          },
+                          {
+                              "Address":  "309 EL CAPITAN DR DELANO CA 93215",
+                              "RecIDs":  [
+                                             "89.2",
+                                             "89.3",
+                                             "89.5",
+                                             "89.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "3328 BALBOA ST SAN FRANCISCO CA 94121",
+                              "RecIDs":  [
+                                             "89.1"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "0",
+                           "0",
+                           "6",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "94",
+        "Name":  "JOSHUA L VILLALVAZO",
+        "Addresses":  [
+                          {
+                              "Address":  "14242 ALLAMANDA DR CORPUS CHRISTI TX 78418",
+                              "RecIDs":  [
+                                             "90.1",
+                                             "90.2",
+                                             "90.4",
+                                             "90.5",
+                                             "90.6",
+                                             "90.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "4409 44TH AVE N SAINT PETERSBURG FL 33714",
+                              "RecIDs":  [
+                                             "90.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "8113 CORNWLL AVE RANCHO CUCAMONGA CA 91739",
+                              "RecIDs":  [
+                                             "90.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "9 SQUAW PEAK LN CARSON CA 90745",
+                              "RecIDs":  [
+                                             "90.3"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "15",
+                           "0",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "95",
+        "Name":  "DEBORAH H HERMOSILLO",
+        "Addresses":  [
+                          {
+                              "Address":  "102 ORMWOOD DR ORMOND BEACH FL 32176",
+                              "RecIDs":  [
+                                             "91.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "11832 DOTY AVE HAWTHORNE CA 90250",
+                              "RecIDs":  [
+                                             "91.1",
+                                             "91.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "1502 NE WITHLA BLUFFS WAY LEE FL 32059",
+                              "RecIDs":  [
+                                             "91.4"
+                                         ]
+                          },
+                          {
+                              "Address":  "1843 PO BOX POMONA CA 91769",
+                              "RecIDs":  [
+                                             "91.3"
+                                         ]
+                          },
+                          {
+                              "Address":  "1857 WRITE ST POMONA CA 91766",
+                              "RecIDs":  [
+                                             "91.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "23841 NORTHEAST 187TH LN FORT MC COY FL 32134",
+                              "RecIDs":  [
+                                             "91.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "2398 FRANKS FAIR LN PERRY FL 32347",
+                              "RecIDs":  [
+                                             "91.2"
+                                         ]
+                          },
+                          {
+                              "Address":  "5635 CALL BOX DELTONA FL 32728",
+                              "RecIDs":  [
+                                             "91.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "887 TAMERLANE ST DELTONA FL 32725",
+                              "RecIDs":  [
+                                             "91.10"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "1",
+                           "0",
+                           "0",
+                           "0",
+                           "0",
+                           "0",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "96",
+        "Name":  "MITCHELL E HUGGINS",
+        "Addresses":  [
+                          {
+                              "Address":  "1482 PO BOX HAWTHORNE CA 90251",
+                              "RecIDs":  [
+                                             "92.13"
+                                         ]
+                          },
+                          {
+                              "Address":  "1843 PO BOX POMONA CA 91769",
+                              "RecIDs":  [
+                                             "92.12"
+                                         ]
+                          },
+                          {
+                              "Address":  "1857 WRITE ST POMONA CA 91766",
+                              "RecIDs":  [
+                                             "92.3"
+                                         ]
+                          },
+                          {
+                              "Address":  "18616 PO BOX OAKLALND CA 94619",
+                              "RecIDs":  [
+                                             "92.15"
+                                         ]
+                          },
+                          {
+                              "Address":  "7 1ST AVE APT 1 DALY CITY CA 94014",
+                              "RecIDs":  [
+                                             "92.1",
+                                             "92.2",
+                                             "92.6",
+                                             "92.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "7025 DRYWOOD WAY ORANGEVALE CA 95662",
+                              "RecIDs":  [
+                                             "92.10",
+                                             "92.11",
+                                             "92.14",
+                                             "92.17",
+                                             "92.5",
+                                             "92.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "8248 ATLANTA AVE APT D HUNTINGTON BEACH CA 92646",
+                              "RecIDs":  [
+                                             "92.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "912 STONE ST LOS ANGELES CA 90063",
+                              "RecIDs":  [
+                                             "92.16",
+                                             "92.4"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "0",
+                           "0",
+                           "0",
+                           "6",
+                           "15",
+                           "0",
+                           "1"
+                       ]
+    },
+    {
+        "ClusterID":  "97",
+        "Name":  "SUSANNAH T JACOBSON",
+        "Addresses":  [
+                          {
+                              "Address":  "1214 QUAIL CIR CEDAR PARK TX 78613",
+                              "RecIDs":  [
+                                             "93.13",
+                                             "93.14",
+                                             "93.15",
+                                             "93.5",
+                                             "93.6",
+                                             "93.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "3675 CHANNING AVE NORTH PORT FL 34287",
+                              "RecIDs":  [
+                                             "93.11"
+                                         ]
+                          },
+                          {
+                              "Address":  "4015 VIEWPOINT CT KATY TX 77449",
+                              "RecIDs":  [
+                                             "93.17",
+                                             "93.4"
+                                         ]
+                          },
+                          {
+                              "Address":  "445 MATTIE DR LAKELAND FL 33809",
+                              "RecIDs":  [
+                                             "93.3"
+                                         ]
+                          },
+                          {
+                              "Address":  "7006 CALL BOX NORTH PORT FL 34290",
+                              "RecIDs":  [
+                                             "93.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "7803 WARRIOR AVE SAN ANGELO TX 76904",
+                              "RecIDs":  [
+                                             "93.1",
+                                             "93.10",
+                                             "93.12",
+                                             "93.16",
+                                             "93.2",
+                                             "93.8"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "15",
+                           "0",
+                           "1",
+                           "0",
+                           "0",
+                           "15"
+                       ]
+    },
+    {
+        "ClusterID":  "98",
+        "Name":  "JUAN M FERREIRA",
+        "Addresses":  [
+                          {
+                              "Address":  "3675 CHANNING AVE NORTH PORT FL 34287",
+                              "RecIDs":  [
+                                             "94.1",
+                                             "94.13"
+                                         ]
+                          },
+                          {
+                              "Address":  "445 MATTIE DR LAKELAND FL 33809",
+                              "RecIDs":  [
+                                             "94.11",
+                                             "94.18"
+                                         ]
+                          },
+                          {
+                              "Address":  "5317 ANNETTE AVE EL PASO TX 79924",
+                              "RecIDs":  [
+                                             "94.10",
+                                             "94.14",
+                                             "94.17",
+                                             "94.3",
+                                             "94.6",
+                                             "94.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "5323 MISTY MOON DR HUMBLE TX 77346",
+                              "RecIDs":  [
+                                             "94.2",
+                                             "94.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "6108 SPRINGLEAF CIR FORT WORTH TX 76133",
+                              "RecIDs":  [
+                                             "94.12",
+                                             "94.15",
+                                             "94.16",
+                                             "94.4",
+                                             "94.5",
+                                             "94.7"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "1",
+                           "1",
+                           "15",
+                           "1",
+                           "15"
+                       ]
+    },
+    {
+        "ClusterID":  "99",
+        "Name":  "KARLESHA M OWEN",
+        "Addresses":  [
+                          {
+                              "Address":  "3537 COUNTY ROAD 230 WILDWOOD FL 34785",
+                              "RecIDs":  [
+                                             "95.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "361 NE 116TH ST MIAMI FL 33161",
+                              "RecIDs":  [
+                                             "95.1",
+                                             "95.2",
+                                             "95.3",
+                                             "95.4",
+                                             "95.6",
+                                             "95.7"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "15"
+                       ]
+    },
+    {
+        "ClusterID":  "100",
+        "Name":  "SHEILA T CASAS",
+        "Addresses":  [
+                          {
+                              "Address":  "149 N ACACIA AVE RIALTO CA 92376",
+                              "RecIDs":  [
+                                             "96.1",
+                                             "96.3",
+                                             "96.6",
+                                             "96.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "1523 CORONEL ST SAN FERNANDO CA 91340",
+                              "RecIDs":  [
+                                             "96.10"
+                                         ]
+                          },
+                          {
+                              "Address":  "2323 SESMS ST DUARTE CA 91010",
+                              "RecIDs":  [
+                                             "96.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "6975 CASA DEL ESTE WAY SACRAMENTO CA 95828",
+                              "RecIDs":  [
+                                             "96.4",
+                                             "96.8"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "6",
+                           "0",
+                           "0",
+                           "1"
+                       ]
+    },
+    {
+        "ClusterID":  "101",
+        "Name":  "T SANDERS",
+        "Addresses":  [
+                          {
+                              "Address":  "6975 CASA DEL ESTE WAY SACRAMENTO CA 95828",
+                              "RecIDs":  [
+                                             "96.2",
+                                             "96.7"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "1"
+                       ]
+    },
+    {
+        "ClusterID":  "102",
+        "Name":  "MITCHELL SANDERS",
+        "Addresses":  [
+                          {
+                              "Address":  "1030 JADESTONE LN CORONA CA 92882",
+                              "RecIDs":  [
+                                             "97.1",
+                                             "97.2",
+                                             "97.3",
+                                             "97.5",
+                                             "97.7",
+                                             "97.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "1535 CANYON MEADOWS LN GLENDORA CA 91740",
+                              "RecIDs":  [
+                                             "97.4",
+                                             "97.6"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "15",
+                           "1"
+                       ]
+    },
+    {
+        "ClusterID":  "103",
+        "Name":  "MIGNONNE SLANDZICKI; MIGNONNE TEJADA",
+        "Addresses":  [
+                          {
+                              "Address":  "1061 COLONIAL DR COPPELL TX 75019",
+                              "RecIDs":  [
+                                             "98.1",
+                                             "98.10",
+                                             "98.4",
+                                             "98.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "1208 SLAUSON LN REDONDO BEACH CA 90278",
+                              "RecIDs":  [
+                                             "98.11",
+                                             "98.15",
+                                             "98.18",
+                                             "98.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "126 RADIO RD LIVINGSTON TX 77351",
+                              "RecIDs":  [
+                                             "98.13",
+                                             "98.16",
+                                             "98.2",
+                                             "98.6",
+                                             "98.8",
+                                             "98.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "4332 BOCA RATON DR THE COLONY TX 75056",
+                              "RecIDs":  [
+                                             "98.12",
+                                             "98.14",
+                                             "98.17",
+                                             "98.19",
+                                             "98.20",
+                                             "98.3"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "6",
+                           "6",
+                           "15",
+                           "15"
+                       ]
+    },
+    {
+        "ClusterID":  "104",
+        "Name":  "JOSHUA SLANDZICKI",
+        "Addresses":  [
+                          {
+                              "Address":  "1061 COLONIAL DR COPPELL TX 75019",
+                              "RecIDs":  [
+                                             "99.6"
+                                         ]
+                          },
+                          {
+                              "Address":  "126 RADIO RD LIVINGSTON TX 77351",
+                              "RecIDs":  [
+                                             "99.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "17041 NW 85TH CT HIALEAH FL 33015",
+                              "RecIDs":  [
+                                             "99.12",
+                                             "99.13",
+                                             "99.4",
+                                             "99.9"
+                                         ]
+                          },
+                          {
+                              "Address":  "2207 WYNDAM WAY KISSIMMEE FL 34743",
+                              "RecIDs":  [
+                                             "99.1",
+                                             "99.11",
+                                             "99.2",
+                                             "99.3",
+                                             "99.7",
+                                             "99.8"
+                                         ]
+                          },
+                          {
+                              "Address":  "4332 BOCA RATON DR THE COLONY TX 75056",
+                              "RecIDs":  [
+                                             "99.10"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "0",
+                           "6",
+                           "15",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "105",
+        "Name":  "AMY P LENNON SMITH",
+        "Addresses":  [
+                          {
+                              "Address":  "19019 TILOBE LOOP LAND O LAKES FL 34638",
+                              "RecIDs":  [
+                                             "100.11",
+                                             "100.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "3432 SR 580 LOT 133 SAFETY HARBOR FL 34695",
+                              "RecIDs":  [
+                                             "100.4"
+                                         ]
+                          },
+                          {
+                              "Address":  "504 CANAL WAY NOKOMIS FL 34275",
+                              "RecIDs":  [
+                                             "100.1",
+                                             "100.10"
+                                         ]
+                          },
+                          {
+                              "Address":  "5899 SW 16TH ST MIAMI FL 33155",
+                              "RecIDs":  [
+                                             "100.7"
+                                         ]
+                          },
+                          {
+                              "Address":  "9441 SW 4TH ST MIAMI FL 33174",
+                              "RecIDs":  [
+                                             "100.6"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "1",
+                           "0",
+                           "1",
+                           "0",
+                           "0"
+                       ]
+    },
+    {
+        "ClusterID":  "106",
+        "Name":  "A P FPOWER; A P POSWER",
+        "Addresses":  [
+                          {
+                              "Address":  "504 CANAL WAY NOKOMIS FL 34275",
+                              "RecIDs":  [
+                                             "100.2",
+                                             "100.3",
+                                             "100.8",
+                                             "100.9"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "6"
+                       ]
+    },
+    {
+        "ClusterID":  "107",
+        "Name":  "MASON M POWER",
+        "Addresses":  [
+                          {
+                              "Address":  "3125 9TH ST TRLR 23 WICHITA FALLS TX 76301",
+                              "RecIDs":  [
+                                             "101.4"
+                                         ]
+                          },
+                          {
+                              "Address":  "3432 SR 580 LOT 133 SAFETY HARBOR FL 34695",
+                              "RecIDs":  [
+                                             "101.2",
+                                             "101.5"
+                                         ]
+                          },
+                          {
+                              "Address":  "504 CANAL WAY NOKOMIS FL 34275",
+                              "RecIDs":  [
+                                             "101.1"
+                                         ]
+                          },
+                          {
+                              "Address":  "9441 SW 4TH ST MIAMI FL 33174",
+                              "RecIDs":  [
+                                             "101.3"
+                                         ]
+                          }
+                      ],
+        "DirectLink":  [
+                           "0",
+                           "1",
+                           "0",
+                           "0"
+                       ]
+    }
+]

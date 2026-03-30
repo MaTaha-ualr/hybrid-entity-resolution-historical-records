@@ -1,0 +1,76 @@
+Output 1: stream (stdout)
+Starting combined Name+Address cluster summarization…
+Output will be sorted by RecID with reassigned ClusterIDs based on order.
+
+Processing NAME clusters from 'd1_name_clusters.csv'…
+
+
+Output 2: stream (stderr)
+Name clusters:   0%|          | 0/732 [00:00<?, ?it/s]
+
+Output 3: stream (stdout)
+
+Processing ADDRESS clusters from 'd1_address_clusters.csv'…
+
+
+Output 4: stream (stderr)
+
+Name clusters:   0%|          | 1/732 [00:00<05:40,  2.15it/s]
+Address clusters:   0%|          | 1/638 [00:00<04:37,  2.29it/s][A
+Name clusters:  35%|███▍      | 253/732 [00:01<00:02, 200.58it/s]
+Name clusters:  38%|███▊      | 281/732 [00:01<00:02, 209.20it/s]
+Address clusters:  13%|█▎        | 80/638 [00:01<00:09, 61.61it/s][A
+Name clusters:  41%|████▏     | 302/732 [00:01<00:02, 187.53it/s]
+Name clusters:  47%|████▋     | 346/732 [00:01<00:02, 192.76it/s]
+Name clusters:  51%|█████     | 372/732 [00:01<00:01, 203.92it/s]
+Name clusters:  54%|█████▎    | 393/732 [00:02<00:02, 125.92it/s]
+Name clusters:  57%|█████▋    | 416/732 [00:02<00:02, 142.94it/s]
+Name clusters:  59%|█████▉    | 434/732 [00:02<00:02, 142.77it/s]
+Address clusters:  28%|██▊       | 177/638 [00:02<00:05, 83.61it/s][A
+Name clusters:  67%|██████▋   | 488/732 [00:02<00:01, 177.81it/s]
+Address clusters:  31%|███       | 197/638 [00:03<00:07, 58.29it/s][A
+Name clusters:  77%|███████▋  | 562/732 [00:03<00:01, 159.80it/s]
+Address clusters:  33%|███▎      | 213/638 [00:03<00:10, 40.02it/s][A
+Name clusters:  80%|███████▉  | 584/732 [00:03<00:01, 110.95it/s]
+Address clusters:  35%|███▌      | 225/638 [00:03<00:12, 33.66it/s][A
+Name clusters:  82%|████████▏ | 601/732 [00:04<00:01, 86.12it/s] 
+Address clusters:  44%|████▍     | 283/638 [00:04<00:03, 111.56it/s][A
+Name clusters:  86%|████████▌ | 627/732 [00:04<00:01, 66.37it/s]
+Address clusters:  49%|████▉     | 312/638 [00:04<00:04, 70.51it/s][A
+Name clusters:  87%|████████▋ | 639/732 [00:05<00:01, 63.15it/s]
+Name clusters:  89%|████████▊ | 648/732 [00:05<00:01, 59.68it/s]
+Name clusters:  95%|█████████▌| 697/732 [00:05<00:00, 124.80it/s]
+Name clusters:  98%|█████████▊| 715/732 [00:05<00:00, 127.06it/s]
+Address clusters:  58%|█████▊    | 372/638 [00:05<00:03, 78.03it/s][A
+Address clusters:  63%|██████▎   | 401/638 [00:05<00:01, 118.85it/s][A
+Address clusters:  69%|██████▉   | 439/638 [00:05<00:01, 174.06it/s][A
+Address clusters:  72%|███████▏  | 461/638 [00:06<00:01, 122.07it/s][A
+Address clusters:  75%|███████▍  | 478/638 [00:06<00:01, 99.08it/s] [A
+Address clusters:  77%|███████▋  | 492/638 [00:06<00:01, 104.42it/s][A
+Address clusters:  79%|███████▉  | 506/638 [00:06<00:01, 90.57it/s] [A
+Name clusters: 100%|██████████| 732/732 [00:07<00:00, 99.97it/s]
+
+Address clusters:  83%|████████▎ | 527/638 [00:07<00:02, 49.55it/s][A
+
+Output 5: stream (stdout)
+→ Names result written to e_cluster_complete_names.csv (sorted by RecID with reassigned ClusterIDs)
+
+
+Output 6: stream (stderr)
+
+Address clusters:  88%|████████▊ | 564/638 [00:07<00:00, 88.90it/s][A
+Address clusters:  91%|█████████ | 578/638 [00:07<00:00, 68.21it/s][A
+Address clusters:  93%|█████████▎| 595/638 [00:08<00:00, 78.78it/s][A
+Address clusters: 100%|██████████| 638/638 [00:09<00:00, 67.05it/s] 
+
+Output 7: stream (stdout)
+→ Addresses result written to e_cluster_complete_addresses.csv (sorted by RecID with reassigned ClusterIDs)
+
+Optimization Statistics:
+Total LLM calls made: 137
+Done in 9.60s.
+
+
+Output 8: stream (stderr)
+
+
